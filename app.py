@@ -3,12 +3,6 @@ import pandas as pd
 import plotly.express as px
 
 st.set_page_config(layout="wide")
-custom_theme = {
-    'background': '#000000',
-    'textColor': '#FFFFFF',
-    'font': 'sans-serif'
-}
-st.set_theme(custom_theme)
 
 df = pd.read_csv('MOCK_DATA.csv')
 st.sidebar.title('Choose your parameter')
