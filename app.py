@@ -144,7 +144,7 @@ if options == 'Overall':
 
 elif options == 'Site':
     st.title('Sitewise Analysis')
-    selected_site = st.selectbox('Select the site', sorted(site))
+    selected_site = st.sidebar.selectbox('Select the site', sorted(site))
     data = data[data['Site'] == selected_site]
     col1, col2 = st.columns(2)
     with col1:
@@ -241,7 +241,7 @@ elif options == 'Site':
 
 elif options == 'Ops':
     st.title('Ops Analysis')
-    selected_ops = st.selectbox('Select the Ops Name', sorted(ops))
+    selected_ops = st.sidebar.selectbox('Select the Ops Name', sorted(ops))
 
     data = data[data['Operations'] == selected_ops]
     col1, col2 = st.columns(2)
@@ -300,9 +300,9 @@ elif options == 'Ops':
     tm = sorted(tm)
     tm.insert(0,'Overall')
     impact = data[data['Policy Adherence'] == "Deviated" ]['impact'].unique().tolist()
-    impact.append('Overall')
+    impact.insert(0,'Overall')
 
-    tm_selected = st.selectbox("Enter the Manager", tm)
+    tm_selected = st.selectbox("Enter the Manager's Name", tm)
     impact_selected = st.selectbox("Enter the Impact", impact)
 
     if tm_selected == 'Overall' and impact_selected == 'Overall':
