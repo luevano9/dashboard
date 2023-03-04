@@ -4,6 +4,8 @@ import plotly.express as px
 
 st.set_page_config(layout="wide")
 
+# Set the theme
+
 df = pd.read_csv('MOCK_DATA.csv')
 st.sidebar.title('Choose your parameter')
 week = sorted(df['Week'].unique().tolist())
@@ -26,7 +28,7 @@ qa.append('All')
 
 
 if options == 'Overall':
-    st.title('Overall Analysis')
+    st.write("<h1 style='text-align: center;'>Overall Analysis</h1>", unsafe_allow_html=True)
     col1, col2, col3= st.columns(3)
     with col1:
         st.header("Contacts Audited")
