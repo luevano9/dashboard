@@ -1,0 +1,2001 @@
+Week,Store,Contact id,first_name,Manager,Operations,Site,QA login,Contact Reason,Medium,Handle Team,Annotations,Policy Adherence,impact,opportunity
+3,COM,038596041-7,Gannie,Sterne,Theodosia,New York,Sandeep,RR,V,Ours,Valid,Adhered,,
+3,COM,618230325-5,Clarissa,Danny,Sonja,Pune,Divya,NC,E,Ours,Valid,Adhered,,
+2,COM,412397981-5,Julita,Valma,Betsey,Sydney,Divya,DNR,C,Ours,Invalid,Deviated,IMPACT3,4908 Victoria Trail
+1,COM,782246308-X,Bail,Ole,Lorenza,New York,Suruchi,NC,C,Others,Invalid,Deviated,IMPACT1,448 Tony Street
+2,COM,886859092-1,Gar,Ryon,Tawnya,Sydney,Priyanka,WMS,V,Ours,Valid,Adhered,,
+2,COM,549785038-3,Olia,Lexi,Stormie,Pune,Saugata,PM,V,Ours,Valid,Adhered,,
+4,COM,559510268-3,Adam,Brietta,Sonja,London,Divya,RR,E,Ours,Invalid,Deviated,IMPACT2,1 Hintze Hill
+3,COM,962425779-5,Nonna,Agathe,Sonja,Pune,Divya,PM,C,Ours,Invalid,Deviated,IMPACT5,37188 Karstens Pass
+2,COM,005937289-3,Deva,Ame,Rozalie,Pune,Himabindu,WMS,E,Ours,Valid,Adhered,,
+4,COM,232171748-3,Etan,Nicolea,Lorenza,New York,Suruchi,MDR,V,Ours,Invalid,Deviated,IMPACT1,58 Stone Corner Trail
+2,COM,712179268-0,Sarge,Beryle,Lorenza,New York,Suruchi,WMS,E,Ours,Valid,Adhered,,
+5,COM,090300211-6,Ernaline,Dew,Darnell,New York,Nagaraju,PM,V,Ours,Valid,Adhered,,
+3,COM,234451076-1,Ferris,Maddie,Ardelia,Pune,Shiva,RR,C,Ours,Invalid,Deviated,IMPACT3,4 Onsgard Avenue
+1,CA,093606266-5,Tessi,Valma,Betsey,Sydney,Apoorv,IM,V,Ours,Invalid,Deviated,IMPACT4,186 Mitchell Terrace
+1,COM,108916779-2,Taddeusz,Brietta,Sonja,London,Suruchi,DNR,E,Ours,Valid,Adhered,,
+1,COM,920701115-8,Hortense,Candra,Eugenia,London,Ruturaj,MDR,E,Ours,Invalid,Deviated,IMPACT2,923 Hazelcrest Avenue
+1,COM,083398608-2,Betsey,Gardiner,Stormie,Pune,Saugata,RR,V,Ours,Valid,Adhered,,
+4,COM,686069432-7,Delphine,Nicolea,Lorenza,New York,Suruchi,PM,C,Ours,Valid,Adhered,,
+5,COM,807141846-3,Dru,Kamila,Stormie,Pune,Saugata,DNR,C,Ours,Invalid,Deviated,IMPACT2,00 Mayfield Lane
+2,COM,387385048-6,Morse,Antone,Philbert,Pune,Sandeep,RR,C,Ours,Invalid,Deviated,IMPACT3,46649 Pankratz Terrace
+3,COM,714911916-6,Josephina,Damiano,Alejandrina,Sydney,Priyanka,PM,E,Others,Invalid,Deviated,IMPACT1,820 Grasskamp Road
+4,COM,203543231-6,Chandal,Devinne,Theodosia,Pune,Sandeep,MDR,V,Ours,Valid,Adhered,,
+3,COM,905158964-6,Bat,Rosetta,Rozalie,Pune,Himabindu,DNR,V,Ours,Invalid,Deviated,IMPACT1,79 5th Park
+4,COM,561188836-4,Zia,Edwin,Philbert,New York,Sandeep,MDR,C,Ours,Invalid,Deviated,IMPACT3,799 Clarendon Way
+5,COM,557785254-4,Gary,Maddie,Ardelia,Pune,Sandeep,IM,C,Ours,Invalid,Deviated,IMPACT3,00 Mayfield Lane
+2,COM,268669840-3,Robbin,Harmonia,Alejandrina,Pune,Priyanka,DNR,C,Ours,Invalid,Deviated,IMPACT5,704 Hooker Plaza
+2,COM,920666686-X,Renate,Danny,Sonja,Pune,Apoorv,NC,E,Ours,Valid,Adhered,,
+2,COM,586565707-0,Alister,Mathias,Berthe,Pune,Apoorv,DNR,V,Ours,Invalid,Deviated,IMPACT3,875 Declaration Avenue
+1,COM,906023935-0,Courtney,Mathias,Berthe,Pune,Himabindu,NC,E,Ours,Invalid,Deviated,IMPACT3,4736 1st Parkway
+4,COM,509673801-9,Cross,Malcolm,Eugenia,New York,Ruturaj,WMS,E,Ours,Invalid,Deviated,IMPACT3,1972 Scott Pass
+4,COM,809465137-7,Belia,Dew,Darnell,New York,Ruturaj,MDR,C,Ours,Valid,Adhered,,
+5,COM,318361689-0,Homerus,Ara,Carlina,New York,Suruchi,PM,V,Ours,Invalid,Deviated,IMPACT5,923 Hazelcrest Avenue
+4,COM,232031395-8,Raf,Gardiner,Stormie,Pune,Saugata,MDR,V,Ours,Invalid,Deviated,IMPACT2,1 Hintze Hill
+1,COM,865760435-3,Micheline,Kirby,Alec,Sydney,Saugata,IM,V,Ours,Invalid,Deviated,IMPACT4,524 Reinke Circle
+2,COM,955974985-4,Jandy,Garrik,Ardelia,Pune,Shiva,PM,C,Ours,Invalid,Deviated,IMPACT5,325 Tomscot Alley
+3,COM,783742934-6,Killy,Malcolm,Eugenia,New York,Priyanka,MDR,V,Others,Valid,Adhered,,
+4,COM,408035357-X,Rhodia,Osbourne,Alastair,Sydney,Shiva,RR,E,Ours,Invalid,Deviated,IMPACT3,00 Mayfield Lane
+4,COM,254696952-8,Nero,Harv,Stormie,Sydney,Saugata,RR,C,Ours,Valid,Adhered,,
+4,CA,368242038-X,Maggi,Zaneta,Philbert,Pune,Sandeep,NC,C,Ours,Valid,Adhered,,
+2,COM,267458567-6,Trenton,Kamila,Stormie,Pune,Divya,PM,C,Ours,Valid,Adhered,,
+3,COM,557325105-8,Farlay,Clementina,Filippo,Pune,Ruturaj,MDR,C,Ours,Valid,Adhered,,
+4,COM,162385107-6,Melania,Agathe,Sonja,Pune,Apoorv,RR,V,Ours,Invalid,Deviated,IMPACT5,37188 Karstens Pass
+1,COM,346106750-4,Theodore,Teriann,Rip,Pune,Priyanka,WMS,E,Ours,Invalid,Deviated,IMPACT2,1 Hintze Hill
+1,COM,952685653-8,Donnie,Rosetta,Rozalie,Pune,Suruchi,WMS,C,Ours,Invalid,Deviated,IMPACT4,7 Red Cloud Lane
+3,COM,893864547-9,Kean,Harv,Stormie,Sydney,Saugata,IM,V,Ours,Invalid,Deviated,IMPACT4,818 Superior Junction
+5,COM,360190046-7,Douglass,Maddie,Ardelia,Pune,Nagaraju,RR,C,Ours,Invalid,Deviated,IMPACT5,00 Mayfield Lane
+2,COM,988070267-0,Thadeus,Chas,Filippo,New York,Ruturaj,IM,V,Ours,Valid,Adhered,,
+5,COM,274530516-6,Garret,Ara,Carlina,New York,Himabindu,RR,V,Ours,Invalid,Deviated,IMPACT3,00 Mayfield Lane
+4,COM,930728355-9,Maiga,Ives,Philbert,Pune,Sandeep,PM,E,Ours,Valid,Adhered,,
+2,COM,290735087-0,Mae,Brigitta,Ardelia,Sydney,Shiva,RR,E,Ours,Invalid,Deviated,IMPACT4,54279 Westend Parkway
+4,COM,163066622-X,Vale,Ame,Rozalie,Pune,Divya,DNR,E,Ours,Invalid,Deviated,IMPACT1,3 American Trail
+2,COM,819690904-7,Nance,Zaneta,Philbert,Pune,Sandeep,WMS,E,Ours,Invalid,Deviated,IMPACT5,1 Hintze Hill
+1,CA,301049487-4,Boyd,Hestia,Axe,Pune,Suruchi,MDR,E,Ours,Invalid,Deviated,IMPACT4,3 American Trail
+4,COM,470919436-X,Freemon,Valma,Betsey,Sydney,Himabindu,IM,E,Ours,Invalid,Deviated,IMPACT2,00 Mayfield Lane
+3,COM,434918836-3,Dodie,Valma,Betsey,Sydney,Saugata,IM,V,Ours,Invalid,Deviated,IMPACT1,1972 Scott Pass
+4,COM,981633993-5,Hermann,Henrieta,Berthe,Pune,Apoorv,NC,V,Ours,Invalid,Deviated,IMPACT3,14 Karstens Alley
+3,COM,669596161-1,William,Fancy,Lutero,Pune,Divya,WMS,V,Ours,Invalid,Deviated,IMPACT3,41568 Doe Crossing Junction
+1,COM,474423454-2,Jermaine,Caryl,Filippo,New York,Ruturaj,NC,E,Ours,Invalid,Deviated,IMPACT4,00 Mayfield Lane
+2,COM,241148948-X,Eloisa,Dicky,Eugenia,New York,Ruturaj,NC,E,Ours,Invalid,Deviated,IMPACT5,1972 Scott Pass
+3,COM,514028130-9,Norrie,Janith,Alec,Pune,Saugata,PM,E,Ours,Invalid,Deviated,IMPACT4,1 Hintze Hill
+4,COM,913151860-5,Irwin,Garrik,Ardelia,Pune,Ruturaj,DNR,E,Ours,Invalid,Deviated,IMPACT1,00 Mayfield Lane
+2,COM,189038482-8,Jefferson,Alvin,Rip,New York,Priyanka,IM,E,Ours,Invalid,Deviated,IMPACT4,4676 Spohn Trail
+3,COM,452721305-9,Brandais,Antone,Philbert,Pune,Sandeep,NC,V,Others,Invalid,Deviated,IMPACT5,579 Farmco Hill
+3,COM,283887257-5,Enoch,Ives,Philbert,Pune,Ruturaj,DNR,E,Others,Invalid,Deviated,IMPACT1,140 Chinook Circle
+3,COM,605357108-3,Wilbur,Jeramey,Filippo,New York,Ruturaj,PM,C,Ours,Invalid,Deviated,IMPACT2,1972 Scott Pass
+3,COM,687302120-2,Morgun,Osbourne,Alastair,Sydney,Sandeep,IM,C,Ours,Invalid,Deviated,IMPACT4,42248 Myrtle Trail
+2,COM,473080508-9,Chico,Corrie,Martguerita,New York,Ruturaj,RR,C,Ours,Invalid,Deviated,IMPACT1,1972 Scott Pass
+4,COM,555560609-5,Meggie,Codee,Martguerita,New York,Ruturaj,PM,V,Ours,Invalid,Deviated,IMPACT5,13598 Cordelia Crossing
+1,COM,151484749-3,Fran,Lexi,Stormie,Pune,Saugata,MDR,C,Ours,Valid,Adhered,,
+3,COM,524555136-5,Sher,Jemmy,Tatiana,Sydney,Apoorv,RR,C,Ours,Valid,Adhered,,
+1,COM,146623870-4,Brett,Valma,Betsey,Sydney,Divya,NC,E,Ours,Invalid,Deviated,IMPACT2,923 Hazelcrest Avenue
+2,CA,039111308-9,Joshia,Zaneta,Philbert,Pune,Priyanka,DNR,C,Ours,Invalid,Deviated,IMPACT1,923 Hazelcrest Avenue
+1,CA,415600661-1,Jacquetta,Hestia,Axe,Pune,Himabindu,WMS,E,Ours,Invalid,Deviated,IMPACT3,00 Mayfield Lane
+2,COM,676430275-8,April,Harrison,Liz,London,Apoorv,RR,V,Ours,Invalid,Deviated,IMPACT2,4736 1st Parkway
+3,COM,723333528-1,Jenna,Clementina,Filippo,Pune,Shiva,PM,V,Ours,Valid,Adhered,,
+5,COM,919871685-9,Delainey,Normand,Axe,Pune,Suruchi,IM,V,Others,Valid,Adhered,,
+3,COM,165750710-6,Beckie,Corrie,Martguerita,New York,Nagaraju,PM,C,Ours,Valid,Adhered,,
+5,COM,872259810-3,Eugine,Danny,Sonja,Pune,Saugata,IM,C,Ours,Invalid,Deviated,IMPACT1,00 Mayfield Lane
+4,COM,798897828-4,Ulric,Beryle,Lorenza,New York,Divya,RR,C,Ours,Invalid,Deviated,IMPACT1,923 Hazelcrest Avenue
+2,COM,695261075-8,Cloris,Henrieta,Berthe,Pune,Saugata,PM,V,Ours,Valid,Adhered,,
+3,COM,800325569-4,Aldin,Raynard,Tatiana,Pune,Apoorv,DNR,E,Ours,Valid,Adhered,,
+4,COM,569387882-1,Emmeline,Shayne,Alec,London,Saugata,MDR,V,Ours,Valid,Adhered,,
+5,COM,684516449-5,Hannah,Jemmy,Tatiana,Sydney,Himabindu,NC,V,Others,Invalid,Deviated,IMPACT3,1 Hintze Hill
+1,COM,232023228-1,Ariel,Brodie,Janna,Pune,Sandeep,RR,E,Ours,Invalid,Deviated,IMPACT4,00 Mayfield Lane
+3,COM,119783065-0,Ingunna,Ole,Lorenza,New York,Suruchi,IM,V,Ours,Invalid,Deviated,IMPACT3,00 Mayfield Lane
+2,COM,115333662-6,Bendix,Meghan,Rip,Pune,Priyanka,DNR,E,Ours,Valid,Adhered,,
+4,COM,638531526-6,Randene,Raynard,Tatiana,Pune,Divya,RR,V,Ours,Valid,Adhered,,
+1,COM,919746163-6,Glori,Durant,Malinda,London,Himabindu,NC,V,Ours,Invalid,Deviated,IMPACT3,37188 Karstens Pass
+3,COM,482350599-9,Merwyn,Devinne,Theodosia,Pune,Ruturaj,MDR,C,Ours,Invalid,Deviated,IMPACT4,5 Ruskin Court
+2,CA,142454196-4,Dorisa,Zaneta,Philbert,Pune,Sandeep,PM,V,Others,Invalid,Deviated,IMPACT1,6 Bultman Crossing
+3,COM,462104878-3,Kamila,Mathias,Berthe,Pune,Apoorv,MDR,V,Ours,Invalid,Deviated,IMPACT1,1105 Bowman Trail
+4,COM,947322144-4,Warner,Edwin,Philbert,New York,Sandeep,NC,V,Ours,Invalid,Deviated,IMPACT1,923 Hazelcrest Avenue
+1,COM,867764600-0,Dmitri,Tony,Stormie,Pune,Saugata,RR,V,Ours,Invalid,Deviated,IMPACT1,3 American Trail
+3,CA,885474047-0,Elicia,Candra,Eugenia,London,Shiva,WMS,V,Ours,Invalid,Deviated,IMPACT4,1972 Scott Pass
+2,COM,700439049-7,Roslyn,Chas,Filippo,New York,Nagaraju,MDR,V,Ours,Invalid,Deviated,IMPACT5,41568 Doe Crossing Junction
+3,COM,400103856-0,Jacobo,Antonin,Martguerita,Pune,Ruturaj,WMS,C,Ours,Invalid,Deviated,IMPACT3,923 Hazelcrest Avenue
+4,COM,941379667-X,Dianna,Malcolm,Eugenia,New York,Shiva,PM,E,Others,Invalid,Deviated,IMPACT2,27 Lakeland Lane
+1,COM,873690126-1,Dusty,Kirby,Alec,Sydney,Apoorv,RR,C,Ours,Invalid,Deviated,IMPACT4,4736 1st Parkway
+1,COM,539828598-X,Gaston,Zaneta,Philbert,Pune,Shiva,NC,E,Ours,Valid,Adhered,,
+2,COM,002342627-6,Amata,Kamila,Stormie,Pune,Himabindu,DNR,V,Ours,Valid,Adhered,,
+3,COM,029210135-X,Corey,Antone,Philbert,Pune,Nagaraju,NC,C,Ours,Invalid,Deviated,IMPACT3,1 Hintze Hill
+2,COM,521929321-4,Ethan,Jeramey,Filippo,New York,Shiva,PM,C,Ours,Invalid,Deviated,IMPACT4,4474 Waubesa Circle
+1,COM,480627473-9,Carlos,Meghan,Rip,Pune,Nagaraju,PM,C,Ours,Invalid,Deviated,IMPACT3,68224 Coolidge Hill
+4,COM,090552185-4,Claudette,Alvin,Rip,New York,Shiva,DNR,V,Ours,Invalid,Deviated,IMPACT3,1 Hintze Hill
+3,COM,920017144-3,Kane,Edwin,Philbert,New York,Ruturaj,DNR,V,Ours,Valid,Adhered,,
+1,COM,339949661-3,Enrichetta,Ryon,Tawnya,Sydney,Priyanka,PM,C,Ours,Invalid,Deviated,IMPACT3,4 Esch Park
+2,COM,411371467-3,Valli,Codee,Martguerita,New York,Shiva,NC,C,Ours,Valid,Adhered,,
+4,COM,781276838-4,Natka,Teriann,Rip,Pune,Sandeep,IM,V,Ours,Valid,Adhered,,
+4,COM,931483107-8,Toby,Winnie,Sandye,Pune,Himabindu,DNR,C,Ours,Invalid,Deviated,IMPACT4,6 Logan Alley
+5,COM,687712164-3,Ken,Ame,Rozalie,Pune,Himabindu,WMS,E,Ours,Invalid,Deviated,IMPACT2,6 School Court
+4,COM,878067005-9,Marita,Sanson,Suzanna,Pune,Nagaraju,IM,V,Ours,Valid,Adhered,,
+1,COM,195044864-9,Angelo,Garrik,Ardelia,Pune,Nagaraju,WMS,C,Ours,Valid,Adhered,,
+2,COM,054384283-5,Parker,Winnie,Sandye,Pune,Suruchi,NC,C,Others,Invalid,Deviated,IMPACT5,8894 Grim Terrace
+5,COM,854833125-9,Hakim,Malcolm,Eugenia,New York,Sandeep,PM,C,Ours,Valid,Adhered,,
+1,COM,407916521-8,Nata,Edwin,Philbert,New York,Priyanka,IM,E,Ours,Invalid,Deviated,IMPACT1,4774 Meadow Ridge Parkway
+3,COM,558220311-7,Shaine,Antonin,Martguerita,Pune,Priyanka,WMS,V,Ours,Invalid,Deviated,IMPACT3,690 Hazelcrest Point
+1,COM,916058997-3,Sheeree,Osbourne,Alastair,Sydney,Ruturaj,PM,V,Ours,Valid,Adhered,,
+2,COM,766687502-9,Shannon,Chas,Filippo,New York,Nagaraju,RR,E,Ours,Invalid,Deviated,IMPACT2,00 Mayfield Lane
+1,COM,904658360-0,Stanleigh,Tony,Stormie,Pune,Saugata,MDR,C,Ours,Invalid,Deviated,IMPACT3,00 Mayfield Lane
+1,COM,165688220-5,Lynna,Marja,Theodosia,Pune,Sandeep,PM,E,Ours,Invalid,Deviated,IMPACT3,704 Hooker Plaza
+2,COM,323075403-4,Konstanze,Teriann,Rip,Pune,Sandeep,RR,V,Others,Invalid,Deviated,IMPACT5,1972 Scott Pass
+3,COM,199457999-4,Sukey,Damiano,Alejandrina,Sydney,Priyanka,WMS,V,Ours,Invalid,Deviated,IMPACT5,606 Waubesa Center
+3,COM,067399441-4,Wainwright,Gardiner,Stormie,Pune,Himabindu,MDR,V,Ours,Invalid,Deviated,IMPACT1,41568 Doe Crossing Junction
+1,COM,020996555-X,Felipe,Clemente,Axe,London,Suruchi,NC,C,Ours,Valid,Adhered,,
+1,COM,095956168-4,Myrilla,Beryle,Lorenza,New York,Suruchi,MDR,V,Ours,Invalid,Deviated,IMPACT5,16 Spohn Pass
+3,COM,815046486-7,Torre,Ives,Philbert,Pune,Priyanka,WMS,E,Ours,Valid,Adhered,,
+1,COM,238336966-7,Paolo,Shayne,Alec,London,Apoorv,PM,E,Ours,Invalid,Deviated,IMPACT1,1972 Scott Pass
+3,COM,768285965-2,Amy,Ame,Rozalie,Pune,Apoorv,MDR,V,Ours,Invalid,Deviated,IMPACT3,25 Sutteridge Pass
+1,COM,829225784-5,Eldon,Sanson,Suzanna,Pune,Priyanka,PM,V,Ours,Invalid,Deviated,IMPACT4,1972 Scott Pass
+2,COM,550380270-5,Zondra,Codee,Martguerita,New York,Ruturaj,MDR,C,Ours,Invalid,Deviated,IMPACT3,875 Declaration Avenue
+1,COM,567135399-8,Corey,Devinne,Theodosia,Pune,Priyanka,NC,V,Ours,Valid,Adhered,,
+4,CA,547740079-X,Julian,Lexi,Stormie,Pune,Apoorv,PM,C,Ours,Invalid,Deviated,IMPACT3,1972 Scott Pass
+5,COM,131450774-5,Ramonda,Teriann,Rip,Pune,Sandeep,MDR,V,Ours,Valid,Adhered,,
+3,COM,919217329-2,Vernice,Durant,Malinda,London,Divya,NC,C,Ours,Invalid,Deviated,IMPACT1,5188 Old Gate Center
+1,COM,152567438-2,Pietra,Durant,Malinda,London,Himabindu,DNR,V,Ours,Valid,Adhered,,
+4,COM,526276658-7,Florian,Fancy,Lutero,Pune,Suruchi,MDR,V,Ours,Invalid,Deviated,IMPACT3,4 Anthes Pass
+3,COM,243469538-8,Barbee,Dew,Darnell,New York,Ruturaj,IM,E,Ours,Valid,Adhered,,
+2,COM,736484245-4,Kesley,Agathe,Sonja,Pune,Divya,NC,V,Others,Invalid,Deviated,IMPACT5,00 Mayfield Lane
+1,COM,620162936-X,Zarla,Agathe,Sonja,Pune,Suruchi,MDR,C,Ours,Invalid,Deviated,IMPACT2,3400 Mariners Cove Court
+4,COM,035066956-2,Matelda,Antone,Philbert,Pune,Priyanka,PM,V,Ours,Valid,Adhered,,
+3,COM,388458103-1,Magdalena,Kirby,Alec,Sydney,Suruchi,WMS,E,Ours,Valid,Adhered,,
+2,COM,056646322-9,Randa,Winnie,Sandye,Pune,Saugata,NC,V,Ours,Invalid,Deviated,IMPACT3,3 American Trail
+5,COM,220116413-4,Bellanca,Nicolea,Lorenza,New York,Saugata,RR,V,Ours,Invalid,Deviated,IMPACT3,3 American Trail
+4,COM,572276794-8,Kiley,Agathe,Sonja,Pune,Saugata,NC,E,Ours,Valid,Adhered,,
+3,COM,389404175-7,Norine,Gardiner,Stormie,Pune,Himabindu,IM,E,Ours,Invalid,Deviated,IMPACT1,1972 Scott Pass
+3,CA,130858864-X,Maurie,Shantee,Sonja,Pune,Divya,DNR,C,Ours,Valid,Adhered,,
+1,COM,247659565-9,Fifi,Antonin,Martguerita,Pune,Ruturaj,DNR,V,Ours,Invalid,Deviated,IMPACT1,30 Porter Terrace
+1,COM,899336016-2,Ches,Brodie,Janna,Pune,Sandeep,WMS,E,Ours,Invalid,Deviated,IMPACT2,3 American Trail
+4,COM,863849470-X,Julius,Danny,Sonja,Pune,Saugata,RR,V,Others,Invalid,Deviated,IMPACT5,7807 Brentwood Trail
+3,COM,882575220-2,Odette,Augusta,Betsey,Sydney,Divya,PM,V,Ours,Invalid,Deviated,IMPACT4,65244 Schiller Terrace
+2,COM,111128668-X,Julia,Candra,Eugenia,London,Priyanka,NC,C,Ours,Invalid,Deviated,IMPACT1,4 Packers Drive
+2,COM,567800627-4,Jeanette,Brietta,Sonja,London,Apoorv,WMS,E,Ours,Invalid,Deviated,IMPACT5,1972 Scott Pass
+3,COM,013164086-0,Lem,Augusta,Betsey,Sydney,Apoorv,PM,V,Ours,Valid,Adhered,,
+4,COM,774266893-9,Clovis,Dicky,Eugenia,New York,Sandeep,IM,C,Ours,Valid,Adhered,,
+5,COM,557242775-6,Anderea,Raynard,Tatiana,Pune,Apoorv,MDR,E,Ours,Invalid,Deviated,IMPACT1,58016 Sheridan Center
+1,COM,958651281-9,Ebony,Jeramey,Filippo,New York,Nagaraju,WMS,E,Ours,Invalid,Deviated,IMPACT5,7 Sachs Center
+2,COM,918315278-4,Mattie,Edwin,Philbert,New York,Ruturaj,NC,C,Ours,Invalid,Deviated,IMPACT2,5 Vahlen Trail
+5,COM,255430451-3,Quintana,Dicky,Eugenia,New York,Shiva,NC,E,Ours,Invalid,Deviated,IMPACT4,5 Moland Point
+3,COM,193865975-9,Birk,Marja,Theodosia,Pune,Sandeep,NC,V,Ours,Invalid,Deviated,IMPACT5,477 Burning Wood Parkway
+3,COM,094742649-3,Reine,Chas,Filippo,New York,Sandeep,RR,C,Ours,Invalid,Deviated,IMPACT3,16 Sommers Hill
+3,COM,454024097-8,Ibby,Harrison,Liz,London,Divya,DNR,C,Ours,Invalid,Deviated,IMPACT2,37188 Karstens Pass
+2,COM,211297829-2,Rosaleen,Brigitta,Ardelia,Sydney,Nagaraju,MDR,V,Ours,Invalid,Deviated,IMPACT1,1972 Scott Pass
+3,COM,981931181-0,Barrie,Brietta,Sonja,London,Divya,RR,C,Ours,Valid,Adhered,,
+1,COM,188046140-4,Bibbie,Raynard,Tatiana,Pune,Suruchi,MDR,V,Ours,Invalid,Deviated,IMPACT1,00 Mayfield Lane
+2,CA,025143728-0,Corinne,Harrison,Liz,London,Suruchi,WMS,E,Ours,Invalid,Deviated,IMPACT2,1 Hintze Hill
+4,COM,864079800-1,Sherill,Alvin,Rip,New York,Sandeep,NC,C,Ours,Invalid,Deviated,IMPACT3,00 Mayfield Lane
+5,COM,856661587-5,Fredrick,Tuckie,Phil,Pune,Saugata,PM,C,Others,Invalid,Deviated,IMPACT5,3949 Farragut Lane
+4,COM,775575122-8,Waite,Garrik,Ardelia,Pune,Priyanka,RR,V,Ours,Valid,Adhered,,
+1,COM,435928736-4,Aloise,Ara,Carlina,New York,Suruchi,DNR,C,Ours,Invalid,Deviated,IMPACT1,923 Hazelcrest Avenue
+3,COM,242204923-0,Lock,Antone,Philbert,Pune,Ruturaj,MDR,V,Ours,Invalid,Deviated,IMPACT5,1972 Scott Pass
+1,COM,362583623-8,Waverley,Devinne,Theodosia,Pune,Ruturaj,WMS,V,Ours,Invalid,Deviated,IMPACT5,1972 Scott Pass
+5,CA,375331416-1,Beverlee,Corrie,Martguerita,New York,Shiva,IM,E,Ours,Invalid,Deviated,IMPACT2,39949 Dunning Junction
+1,COM,652029665-1,Anne-corinne,Edwin,Philbert,New York,Priyanka,NC,E,Ours,Invalid,Deviated,IMPACT1,00 Mayfield Lane
+1,COM,543784565-0,Tildi,Ole,Lorenza,New York,Apoorv,IM,E,Ours,Invalid,Deviated,IMPACT3,1 Hintze Hill
+2,COM,560189345-4,Effie,Carmita,Philbert,Sydney,Sandeep,NC,C,Ours,Valid,Adhered,,
+1,COM,652330361-6,Augy,Lexi,Stormie,Pune,Divya,IM,C,Ours,Invalid,Deviated,IMPACT5,704 Hooker Plaza
+4,COM,352119564-3,Martin,Jeramey,Filippo,New York,Priyanka,RR,V,Ours,Invalid,Deviated,IMPACT3,1972 Scott Pass
+1,COM,778295068-6,Ketti,Nicolea,Lorenza,New York,Saugata,IM,E,Ours,Invalid,Deviated,IMPACT1,1972 Scott Pass
+2,CA,551100532-0,Gasper,Garrik,Ardelia,Pune,Shiva,PM,E,Ours,Invalid,Deviated,IMPACT3,875 Declaration Avenue
+5,COM,235738402-6,Wilmette,Henrieta,Berthe,Pune,Himabindu,DNR,E,Ours,Valid,Adhered,,
+4,COM,601733279-1,Leland,Raynard,Tatiana,Pune,Suruchi,MDR,E,Others,Valid,Adhered,,
+5,COM,288071192-4,Gibbie,Clementina,Filippo,Pune,Sandeep,NC,E,Others,Invalid,Deviated,IMPACT4,3 American Trail
+3,COM,693625173-0,Hilda,Normand,Axe,Pune,Suruchi,MDR,C,Ours,Invalid,Deviated,IMPACT2,84445 Bashford Point
+3,CA,490841656-7,Christyna,Fancy,Lutero,Pune,Suruchi,NC,V,Ours,Invalid,Deviated,IMPACT2,1 Hintze Hill
+1,COM,484188083-6,Verine,Teriann,Rip,Pune,Sandeep,MDR,C,Ours,Invalid,Deviated,IMPACT4,41890 Jana Hill
+5,COM,200049188-X,Jannelle,Teriann,Rip,Pune,Shiva,MDR,V,Ours,Invalid,Deviated,IMPACT4,1 Hintze Hill
+2,COM,728773475-3,Collin,Tuckie,Phil,Pune,Divya,NC,V,Ours,Invalid,Deviated,IMPACT2,5 Twin Pines Crossing
+2,COM,310254236-0,Carlye,Alvin,Rip,New York,Shiva,WMS,V,Ours,Valid,Adhered,,
+2,COM,865075119-9,Burtie,Edwin,Philbert,New York,Nagaraju,WMS,E,Ours,Invalid,Deviated,IMPACT5,1972 Scott Pass
+4,CA,058701412-1,Norrie,Malcolm,Eugenia,New York,Priyanka,IM,V,Ours,Invalid,Deviated,IMPACT1,00 Mayfield Lane
+4,COM,409564783-3,Boycie,Brigitta,Ardelia,Sydney,Priyanka,RR,V,Others,Valid,Adhered,,
+2,CA,518596492-8,Herb,Sanson,Suzanna,Pune,Sandeep,NC,E,Ours,Invalid,Deviated,IMPACT2,89 Saint Paul Street
+2,COM,537528946-6,Lyell,Winnie,Sandye,Pune,Apoorv,RR,E,Ours,Valid,Adhered,,
+4,COM,444291538-5,Tammy,Fancy,Lutero,Pune,Saugata,DNR,E,Ours,Valid,Adhered,,
+2,COM,825998734-1,Merl,Alvin,Rip,New York,Ruturaj,RR,V,Others,Invalid,Deviated,IMPACT2,58 Florence Terrace
+1,COM,355924470-6,Dene,Chas,Filippo,New York,Ruturaj,IM,C,Ours,Valid,Adhered,,
+4,COM,657188869-6,Elie,Codee,Martguerita,New York,Sandeep,IM,C,Others,Invalid,Deviated,IMPACT4,89 Mccormick Street
+3,COM,484644705-7,Eugene,Brittne,Nevile,Pune,Shiva,WMS,C,Ours,Invalid,Deviated,IMPACT3,704 Hooker Plaza
+3,COM,624548871-0,Abner,Henrieta,Berthe,Pune,Divya,NC,C,Others,Valid,Adhered,,
+1,COM,548718062-8,Rosalia,Ame,Rozalie,Pune,Divya,WMS,C,Ours,Invalid,Deviated,IMPACT5,36 Dexter Way
+1,CA,417420761-5,Raddy,Alvin,Rip,New York,Sandeep,MDR,C,Ours,Invalid,Deviated,IMPACT1,3 American Trail
+4,COM,525687292-3,Dermot,Alvin,Rip,New York,Shiva,PM,C,Ours,Invalid,Deviated,IMPACT5,1 Hintze Hill
+2,COM,574766735-1,Elianore,Edwin,Philbert,New York,Shiva,NC,V,Ours,Valid,Adhered,,
+3,CA,103904736-X,Salomone,Hestia,Axe,Pune,Divya,RR,E,Ours,Invalid,Deviated,IMPACT2,847 Oak Valley Lane
+4,COM,179059530-4,Violetta,Nicolea,Lorenza,New York,Himabindu,IM,V,Ours,Invalid,Deviated,IMPACT5,518 Nancy Plaza
+1,COM,384722289-9,Donn,Ara,Carlina,New York,Saugata,DNR,C,Ours,Invalid,Deviated,IMPACT5,923 Hazelcrest Avenue
+2,COM,983060239-7,Alysa,Meghan,Rip,Pune,Nagaraju,PM,E,Ours,Invalid,Deviated,IMPACT2,849 4th Way
+4,COM,412244678-3,Nady,Clementina,Filippo,Pune,Priyanka,WMS,V,Ours,Invalid,Deviated,IMPACT2,83015 Boyd Plaza
+2,COM,799400873-9,Doralia,Rosetta,Rozalie,Pune,Saugata,NC,E,Others,Invalid,Deviated,IMPACT2,84 Rusk Way
+3,COM,280729930-X,Chantal,Gardiner,Stormie,Pune,Divya,NC,C,Others,Invalid,Deviated,IMPACT4,3 American Trail
+2,COM,984640582-0,Elmer,Ryon,Tawnya,Sydney,Ruturaj,DNR,C,Ours,Invalid,Deviated,IMPACT2,3846 Tony Pass
+1,COM,382062428-7,Nathalia,Tuckie,Phil,Pune,Saugata,RR,E,Ours,Valid,Adhered,,
+2,CA,069290905-2,Muriel,Clementina,Filippo,Pune,Nagaraju,DNR,C,Ours,Invalid,Deviated,IMPACT2,75 Lien Trail
+3,COM,024228738-7,Camilla,Shantee,Sonja,Pune,Apoorv,MDR,E,Ours,Invalid,Deviated,IMPACT3,48409 Clarendon Plaza
+1,COM,477337585-X,Melva,Sanson,Suzanna,Pune,Shiva,RR,C,Ours,Invalid,Deviated,IMPACT2,31094 Buhler Hill
+4,COM,750537320-X,Corry,Osbourne,Alastair,Sydney,Nagaraju,NC,C,Ours,Invalid,Deviated,IMPACT4,6 Rieder Trail
+4,COM,412383453-1,Skylar,Beryle,Lorenza,New York,Himabindu,WMS,E,Others,Invalid,Deviated,IMPACT4,1865 Basil Lane
+5,COM,794071908-4,Donica,Winnie,Sandye,Pune,Apoorv,NC,V,Ours,Invalid,Deviated,IMPACT5,7 Dixon Pass
+1,COM,833317588-0,Whittaker,Meghan,Rip,Pune,Shiva,MDR,C,Ours,Invalid,Deviated,IMPACT5,579 Farmco Hill
+2,COM,674696183-4,Ethelbert,Harmonia,Alejandrina,Pune,Shiva,IM,V,Ours,Invalid,Deviated,IMPACT1,1 Hintze Hill
+2,COM,418887209-8,Teddy,Caryl,Filippo,New York,Sandeep,NC,E,Ours,Valid,Adhered,,
+2,COM,235528694-9,Windham,Shayne,Alec,London,Suruchi,RR,V,Ours,Invalid,Deviated,IMPACT3,6 Northwestern Park
+4,COM,301476627-5,Jacquette,Jeramey,Filippo,New York,Priyanka,NC,C,Ours,Invalid,Deviated,IMPACT3,1972 Scott Pass
+3,COM,170720438-1,Philippine,Shantee,Sonja,Pune,Suruchi,MDR,V,Ours,Invalid,Deviated,IMPACT2,923 Hazelcrest Avenue
+4,CA,482339917-X,Nara,Marja,Theodosia,Pune,Shiva,IM,E,Ours,Invalid,Deviated,IMPACT3,923 Hazelcrest Avenue
+5,COM,130562240-5,Eldon,Harv,Stormie,Sydney,Apoorv,NC,C,Ours,Invalid,Deviated,IMPACT4,85 Sachtjen Street
+5,COM,442158128-3,Merle,Brodie,Janna,Pune,Priyanka,PM,E,Ours,Valid,Adhered,,
+1,CA,301954310-X,Eleanore,Kamila,Stormie,Pune,Himabindu,DNR,V,Others,Invalid,Deviated,IMPACT1,3 American Trail
+1,COM,781834482-9,Franklyn,Antonin,Martguerita,Pune,Nagaraju,DNR,V,Ours,Invalid,Deviated,IMPACT5,1972 Scott Pass
+5,COM,450357972-X,Giuditta,Corrie,Martguerita,New York,Priyanka,RR,E,Ours,Invalid,Deviated,IMPACT3,6 Messerschmidt Plaza
+3,COM,681173988-6,Markos,Zaneta,Philbert,Pune,Shiva,PM,E,Others,Invalid,Deviated,IMPACT4,18 Elmside Lane
+1,COM,155107293-9,Nichol,Sterne,Theodosia,New York,Nagaraju,WMS,V,Ours,Valid,Adhered,,
+4,COM,395635171-1,Lu,Valma,Betsey,Sydney,Divya,MDR,V,Ours,Invalid,Deviated,IMPACT4,45 Ilene Circle
+5,COM,335946972-0,Inigo,Nicolea,Lorenza,New York,Divya,NC,C,Ours,Valid,Adhered,,
+2,COM,924277407-3,Kathlin,Normand,Axe,Pune,Apoorv,IM,C,Ours,Invalid,Deviated,IMPACT1,165 Melvin Way
+2,COM,079194710-6,Ayn,Normand,Axe,Pune,Suruchi,PM,E,Ours,Invalid,Deviated,IMPACT3,855 Huxley Way
+2,COM,356454941-2,Sigfrid,Janith,Alec,Pune,Himabindu,RR,C,Ours,Invalid,Deviated,IMPACT3,00 Mayfield Lane
+2,COM,209271706-5,Honor,Teriann,Rip,Pune,Shiva,RR,E,Ours,Invalid,Deviated,IMPACT3,4 Crescent Oaks Lane
+1,COM,703228765-4,Katrinka,Agathe,Sonja,Pune,Himabindu,RR,E,Ours,Invalid,Deviated,IMPACT2,41650 Eliot Plaza
+5,COM,973503224-4,Adlai,Brigitta,Ardelia,Sydney,Sandeep,DNR,E,Ours,Invalid,Deviated,IMPACT3,5 Carey Crossing
+2,COM,733596608-6,Rolfe,Dew,Darnell,New York,Shiva,WMS,C,Ours,Valid,Adhered,,
+1,COM,364713923-8,Verna,Meghan,Rip,Pune,Priyanka,PM,C,Ours,Valid,Adhered,,
+1,COM,080846278-4,Jory,Antone,Philbert,Pune,Priyanka,WMS,V,Ours,Valid,Adhered,,
+3,COM,552551904-6,Felizio,Zaneta,Philbert,Pune,Nagaraju,IM,V,Others,Invalid,Deviated,IMPACT3,8 Dawn Street
+5,COM,313957221-2,Myer,Zaneta,Philbert,Pune,Priyanka,NC,E,Others,Valid,Adhered,,
+4,COM,327450810-1,Doralynne,Maddie,Ardelia,Pune,Ruturaj,PM,C,Ours,Invalid,Deviated,IMPACT1,923 Hazelcrest Avenue
+2,COM,994996360-5,Quinton,Brietta,Sonja,London,Saugata,IM,C,Ours,Valid,Adhered,,
+1,CA,804614008-2,Anastassia,Dew,Darnell,New York,Shiva,PM,V,Ours,Valid,Adhered,,
+4,COM,828918523-5,Teodorico,Tuckie,Phil,Pune,Saugata,RR,V,Ours,Invalid,Deviated,IMPACT1,518 Sunfield Point
+2,CA,481633380-0,Saunderson,Ives,Philbert,Pune,Priyanka,IM,V,Ours,Valid,Adhered,,
+4,COM,896733127-4,Nathalie,Dicky,Eugenia,New York,Nagaraju,PM,V,Ours,Invalid,Deviated,IMPACT4,690 Hazelcrest Point
+5,COM,466975456-4,Vidovik,Brietta,Sonja,London,Suruchi,DNR,C,Ours,Invalid,Deviated,IMPACT3,923 Hazelcrest Avenue
+2,COM,220572688-9,Antoni,Osbourne,Alastair,Sydney,Ruturaj,PM,E,Ours,Invalid,Deviated,IMPACT3,1972 Scott Pass
+1,COM,502189062-X,Milt,Winnie,Sandye,Pune,Saugata,DNR,V,Ours,Valid,Adhered,,
+3,COM,590428084-X,Delilah,Ryon,Tawnya,Sydney,Priyanka,PM,E,Ours,Invalid,Deviated,IMPACT3,247 Homewood Trail
+1,COM,656915682-9,Ardenia,Brietta,Sonja,London,Saugata,WMS,V,Ours,Invalid,Deviated,IMPACT5,3 American Trail
+5,COM,008353382-6,Willie,Fancy,Lutero,Pune,Saugata,MDR,E,Ours,Valid,Adhered,,
+4,COM,809640387-7,Saloma,Ole,Lorenza,New York,Divya,MDR,V,Ours,Valid,Adhered,,
+5,CA,857681501-X,Skipp,Fancy,Lutero,Pune,Apoorv,WMS,E,Ours,Invalid,Deviated,IMPACT5,15 Hollow Ridge Plaza
+2,COM,074176411-3,Konstantine,Clemente,Axe,London,Apoorv,WMS,E,Ours,Invalid,Deviated,IMPACT1,3 American Trail
+3,COM,301342924-0,Taite,Ara,Carlina,New York,Suruchi,RR,V,Ours,Valid,Adhered,,
+1,COM,293736132-3,Darelle,Raynard,Tatiana,Pune,Divya,DNR,E,Ours,Invalid,Deviated,IMPACT1,6 1st Plaza
+1,COM,120677359-6,Giraud,Candra,Eugenia,London,Ruturaj,DNR,E,Ours,Invalid,Deviated,IMPACT3,1105 Bowman Trail
+5,COM,321770496-7,Joly,Damiano,Alejandrina,Sydney,Ruturaj,MDR,E,Ours,Invalid,Deviated,IMPACT1,1 Hintze Hill
+1,CA,064817371-2,Nelly,Antone,Philbert,Pune,Shiva,MDR,C,Ours,Invalid,Deviated,IMPACT1,1972 Scott Pass
+2,COM,773110353-6,Wendel,Brietta,Sonja,London,Suruchi,RR,C,Ours,Valid,Adhered,,
+1,COM,966933737-2,Robbi,Raynard,Tatiana,Pune,Divya,MDR,V,Ours,Valid,Adhered,,
+4,COM,343808690-5,Adria,Zaneta,Philbert,Pune,Ruturaj,WMS,C,Ours,Valid,Adhered,,
+3,COM,511722004-8,Temp,Shantee,Sonja,Pune,Apoorv,MDR,V,Ours,Invalid,Deviated,IMPACT1,1972 Scott Pass
+5,COM,111989826-9,Ingunna,Ryon,Tawnya,Sydney,Shiva,NC,E,Ours,Valid,Adhered,,
+4,COM,879049681-7,Cassandre,Ives,Philbert,Pune,Sandeep,MDR,V,Ours,Invalid,Deviated,IMPACT2,923 Hazelcrest Avenue
+3,CA,936618248-8,Sydney,Gardiner,Stormie,Pune,Saugata,NC,C,Ours,Invalid,Deviated,IMPACT2,923 Hazelcrest Avenue
+3,COM,379760168-9,Trixi,Gardiner,Stormie,Pune,Apoorv,PM,E,Ours,Invalid,Deviated,IMPACT4,1972 Scott Pass
+2,COM,980808161-4,Chevalier,Dicky,Eugenia,New York,Priyanka,NC,C,Ours,Invalid,Deviated,IMPACT3,1 Hintze Hill
+4,COM,105551368-X,Napoleon,Garrik,Ardelia,Pune,Shiva,WMS,C,Ours,Invalid,Deviated,IMPACT1,48389 Evergreen Crossing
+1,COM,691977143-8,Willem,Shantee,Sonja,Pune,Saugata,RR,V,Ours,Invalid,Deviated,IMPACT3,7 Mendota Point
+3,COM,199845427-4,Joli,Candra,Eugenia,London,Nagaraju,IM,E,Ours,Invalid,Deviated,IMPACT1,1972 Scott Pass
+3,COM,423322572-6,Erek,Mathias,Berthe,Pune,Divya,DNR,E,Ours,Invalid,Deviated,IMPACT2,3 American Trail
+4,CA,487926147-5,Nikos,Danny,Sonja,Pune,Suruchi,PM,E,Ours,Valid,Adhered,,
+3,COM,832028389-2,Malinde,Shantee,Sonja,Pune,Divya,RR,V,Ours,Invalid,Deviated,IMPACT4,12974 Claremont Avenue
+5,CA,671112866-4,Galvin,Brittne,Nevile,Pune,Ruturaj,IM,V,Ours,Valid,Adhered,,
+2,COM,202700851-9,Bambi,Zaneta,Philbert,Pune,Shiva,WMS,V,Ours,Invalid,Deviated,IMPACT1,47527 Sachtjen Street
+4,COM,276831959-7,Bartie,Caryl,Filippo,New York,Priyanka,WMS,C,Ours,Invalid,Deviated,IMPACT4,1 Hintze Hill
+4,CA,030735338-9,Carrissa,Chas,Filippo,New York,Priyanka,MDR,E,Ours,Invalid,Deviated,IMPACT1,88 Brown Lane
+3,COM,430794555-7,Electra,Ives,Philbert,Pune,Shiva,NC,V,Others,Invalid,Deviated,IMPACT5,1 Hintze Hill
+1,COM,980241459-X,Brien,Normand,Axe,Pune,Saugata,PM,C,Ours,Invalid,Deviated,IMPACT5,8 Upham Pass
+5,COM,814429026-7,Klemens,Brodie,Janna,Pune,Shiva,NC,C,Ours,Valid,Adhered,,
+4,COM,913553560-1,Nonna,Clementina,Filippo,Pune,Nagaraju,DNR,V,Others,Invalid,Deviated,IMPACT4,00 Mayfield Lane
+2,COM,977625574-4,Erie,Zaneta,Philbert,Pune,Ruturaj,PM,V,Ours,Valid,Adhered,,
+4,COM,736777472-7,Sutton,Harmonia,Alejandrina,Pune,Ruturaj,NC,E,Ours,Invalid,Deviated,IMPACT3,496 Fair Oaks Court
+1,COM,029656444-3,Kania,Valma,Betsey,Sydney,Suruchi,NC,V,Ours,Invalid,Deviated,IMPACT3,1097 Vernon Lane
+1,COM,957558315-9,Ulrikaumeko,Harmonia,Alejandrina,Pune,Sandeep,RR,V,Ours,Invalid,Deviated,IMPACT4,3400 Mariners Cove Court
+4,COM,813428948-7,Waylan,Beryle,Lorenza,New York,Apoorv,DNR,V,Ours,Invalid,Deviated,IMPACT5,1 Hintze Hill
+2,COM,163340576-1,John,Jemmy,Tatiana,Sydney,Saugata,DNR,V,Ours,Invalid,Deviated,IMPACT3,1 Hintze Hill
+2,COM,910918517-8,Aggy,Corrie,Martguerita,New York,Sandeep,RR,V,Ours,Invalid,Deviated,IMPACT1,3 American Trail
+2,COM,449015449-6,Dimitri,Damiano,Alejandrina,Sydney,Priyanka,DNR,E,Others,Invalid,Deviated,IMPACT2,00 Mayfield Lane
+5,COM,838053766-1,Lucita,Dew,Darnell,New York,Nagaraju,PM,C,Ours,Valid,Adhered,,
+1,CA,826420256-X,Devondra,Damiano,Alejandrina,Sydney,Priyanka,PM,E,Ours,Invalid,Deviated,IMPACT4,486 Kingsford Center
+3,COM,099012797-4,Portie,Teriann,Rip,Pune,Priyanka,IM,V,Ours,Invalid,Deviated,IMPACT2,82780 Scofield Pass
+3,COM,061583994-0,Maurene,Brittne,Nevile,Pune,Nagaraju,MDR,E,Ours,Invalid,Deviated,IMPACT1,923 Hazelcrest Avenue
+1,COM,561692100-9,Jenifer,Clemente,Axe,London,Saugata,RR,V,Ours,Invalid,Deviated,IMPACT1,1 Hintze Hill
+3,COM,772140518-1,Kass,Durant,Malinda,London,Suruchi,WMS,V,Others,Invalid,Deviated,IMPACT4,00 Mayfield Lane
+2,COM,727197281-1,Cammie,Agathe,Sonja,Pune,Apoorv,RR,C,Ours,Valid,Adhered,,
+1,COM,316983393-6,Alicea,Candra,Eugenia,London,Nagaraju,NC,V,Ours,Invalid,Deviated,IMPACT2,41568 Doe Crossing Junction
+2,COM,222396583-0,Dulcine,Beryle,Lorenza,New York,Apoorv,DNR,E,Ours,Invalid,Deviated,IMPACT5,34 Stone Corner Drive
+3,COM,899021576-5,Gertrudis,Brittne,Nevile,Pune,Priyanka,IM,E,Ours,Valid,Adhered,,
+2,COM,534616125-2,Lilia,Durant,Malinda,London,Suruchi,MDR,V,Others,Invalid,Deviated,IMPACT1,4736 1st Parkway
+3,COM,397013475-7,Fredia,Clemente,Axe,London,Saugata,RR,E,Ours,Invalid,Deviated,IMPACT4,448 Blaine Parkway
+5,COM,552578880-2,Perry,Caryl,Filippo,New York,Sandeep,NC,C,Ours,Invalid,Deviated,IMPACT5,3 American Trail
+1,CA,447177429-8,Jesse,Raynard,Tatiana,Pune,Saugata,IM,E,Ours,Invalid,Deviated,IMPACT1,3 American Trail
+4,COM,571632280-8,Wade,Osbourne,Alastair,Sydney,Sandeep,WMS,C,Ours,Invalid,Deviated,IMPACT5,923 Hazelcrest Avenue
+1,COM,535169862-5,Sully,Lexi,Stormie,Pune,Saugata,MDR,C,Ours,Invalid,Deviated,IMPACT5,39 Merrick Terrace
+1,COM,690524152-0,Codi,Fancy,Lutero,Pune,Himabindu,NC,V,Ours,Invalid,Deviated,IMPACT3,3 American Trail
+1,COM,442593035-5,Ashlie,Sanson,Suzanna,Pune,Shiva,NC,E,Ours,Invalid,Deviated,IMPACT4,66 Cottonwood Road
+1,COM,007959367-4,Fran,Harv,Stormie,Sydney,Saugata,MDR,V,Ours,Invalid,Deviated,IMPACT2,527 Autumn Leaf Hill
+3,COM,271034064-X,Kenon,Brigitta,Ardelia,Sydney,Nagaraju,PM,E,Ours,Valid,Adhered,,
+1,COM,529241094-2,Trueman,Ara,Carlina,New York,Apoorv,MDR,V,Ours,Invalid,Deviated,IMPACT1,1972 Scott Pass
+2,COM,729906508-8,Jeno,Tony,Stormie,Pune,Suruchi,IM,E,Ours,Invalid,Deviated,IMPACT2,3400 Mariners Cove Court
+4,COM,585283479-3,Steffen,Zaneta,Philbert,Pune,Priyanka,IM,C,Ours,Valid,Adhered,,
+1,CA,557572368-2,Dyane,Nicolea,Lorenza,New York,Saugata,PM,V,Ours,Invalid,Deviated,IMPACT4,8 Fisk Street
+4,COM,480368687-4,Daniel,Gardiner,Stormie,Pune,Himabindu,DNR,V,Ours,Valid,Adhered,,
+4,COM,269669731-0,Joline,Raynard,Tatiana,Pune,Suruchi,IM,E,Ours,Invalid,Deviated,IMPACT3,923 Hazelcrest Avenue
+4,COM,380109969-5,Mayne,Valma,Betsey,Sydney,Saugata,IM,C,Ours,Valid,Adhered,,
+1,COM,991604177-6,Noreen,Tony,Stormie,Pune,Apoorv,NC,E,Ours,Invalid,Deviated,IMPACT2,6597 Bluejay Lane
+3,COM,474836588-9,Janene,Winnie,Sandye,Pune,Apoorv,PM,V,Ours,Valid,Adhered,,
+3,COM,728354997-8,Faunie,Raynard,Tatiana,Pune,Saugata,RR,C,Ours,Invalid,Deviated,IMPACT2,1306 Lawn Drive
+3,COM,790323585-0,Rebeca,Osbourne,Alastair,Sydney,Ruturaj,IM,E,Others,Invalid,Deviated,IMPACT4,7 Continental Hill
+1,COM,753913788-6,Augustina,Fancy,Lutero,Pune,Saugata,PM,E,Ours,Invalid,Deviated,IMPACT3,865 Anderson Circle
+1,COM,618925649-X,Welbie,Tuckie,Phil,Pune,Suruchi,PM,V,Ours,Invalid,Deviated,IMPACT1,426 Anderson Junction
+2,COM,770290692-8,Mahalia,Nicolea,Lorenza,New York,Divya,WMS,E,Others,Valid,Adhered,,
+3,COM,003382563-7,Culley,Jemmy,Tatiana,Sydney,Apoorv,PM,V,Ours,Valid,Adhered,,
+5,COM,180962081-3,Alvina,Caryl,Filippo,New York,Priyanka,RR,E,Ours,Invalid,Deviated,IMPACT5,00 Mayfield Lane
+1,COM,199442768-X,Miran,Normand,Axe,Pune,Himabindu,MDR,E,Ours,Valid,Adhered,,
+4,COM,155697596-1,Joellen,Clemente,Axe,London,Himabindu,IM,E,Ours,Valid,Adhered,,
+5,COM,152337144-7,Michell,Harv,Stormie,Sydney,Himabindu,RR,E,Ours,Valid,Adhered,,
+5,COM,428381915-8,Sandi,Brigitta,Ardelia,Sydney,Shiva,WMS,C,Ours,Valid,Adhered,,
+4,COM,847884236-5,Michaeline,Osbourne,Alastair,Sydney,Shiva,IM,C,Ours,Valid,Adhered,,
+2,COM,861654924-2,Mozes,Dicky,Eugenia,New York,Ruturaj,MDR,E,Others,Invalid,Deviated,IMPACT5,15 Debra Parkway
+5,COM,730264986-3,Creighton,Antonin,Martguerita,Pune,Priyanka,NC,E,Ours,Valid,Adhered,,
+5,COM,846782484-0,Julietta,Danny,Sonja,Pune,Himabindu,NC,E,Ours,Valid,Adhered,,
+3,COM,629895649-2,Midge,Dew,Darnell,New York,Shiva,PM,E,Ours,Valid,Adhered,,
+1,COM,569687471-1,La verne,Nicolea,Lorenza,New York,Apoorv,IM,C,Others,Valid,Adhered,,
+1,COM,316237162-7,Carlyn,Ole,Lorenza,New York,Divya,DNR,E,Others,Invalid,Deviated,IMPACT4,3 American Trail
+2,COM,424560678-9,Easter,Ame,Rozalie,Pune,Suruchi,RR,V,Ours,Invalid,Deviated,IMPACT1,1 Hintze Hill
+2,COM,432647836-5,Retha,Osbourne,Alastair,Sydney,Nagaraju,NC,V,Ours,Invalid,Deviated,IMPACT2,8027 Prentice Street
+3,COM,871190018-0,Kristy,Augusta,Betsey,Sydney,Divya,PM,E,Ours,Invalid,Deviated,IMPACT1,7 Elmside Terrace
+4,COM,767453719-6,Gustaf,Nicolea,Lorenza,New York,Apoorv,PM,V,Ours,Invalid,Deviated,IMPACT2,3 American Trail
+3,CA,057889312-6,Emmie,Rosetta,Rozalie,Pune,Himabindu,DNR,V,Ours,Valid,Adhered,,
+4,COM,478185144-4,Jere,Chas,Filippo,New York,Priyanka,RR,V,Ours,Valid,Adhered,,
+2,COM,408704045-3,Rachele,Lexi,Stormie,Pune,Divya,MDR,C,Ours,Invalid,Deviated,IMPACT5,00 Mayfield Lane
+4,CA,399391199-7,Klaus,Agathe,Sonja,Pune,Apoorv,PM,E,Ours,Invalid,Deviated,IMPACT3,704 Hooker Plaza
+2,COM,196956310-9,Sada,Carmita,Philbert,Sydney,Priyanka,RR,E,Ours,Valid,Adhered,,
+4,COM,371550022-0,Moina,Carmita,Philbert,Sydney,Nagaraju,WMS,V,Ours,Invalid,Deviated,IMPACT1,3 American Trail
+4,COM,253603055-5,Lurlene,Tony,Stormie,Pune,Himabindu,WMS,E,Ours,Valid,Adhered,,
+1,COM,319838279-3,Almeria,Kirby,Alec,Sydney,Divya,IM,E,Ours,Invalid,Deviated,IMPACT5,00 Mayfield Lane
+2,COM,782789672-3,Korie,Garrik,Ardelia,Pune,Priyanka,RR,C,Ours,Invalid,Deviated,IMPACT1,4736 1st Parkway
+5,COM,420861083-2,Erika,Ole,Lorenza,New York,Apoorv,NC,V,Ours,Invalid,Deviated,IMPACT1,875 Declaration Avenue
+2,COM,095090889-4,Oliy,Garrik,Ardelia,Pune,Priyanka,WMS,C,Ours,Valid,Adhered,,
+3,CA,361440092-1,Boy,Clemente,Axe,London,Divya,PM,V,Ours,Invalid,Deviated,IMPACT4,00 Mayfield Lane
+1,COM,452286947-9,Dicky,Lexi,Stormie,Pune,Apoorv,WMS,V,Ours,Invalid,Deviated,IMPACT4,1 Hintze Hill
+3,CA,607452897-7,Wit,Winnie,Sandye,Pune,Saugata,PM,V,Ours,Invalid,Deviated,IMPACT1,1526 Forest Point
+4,COM,984648406-2,Aridatha,Ole,Lorenza,New York,Saugata,DNR,C,Ours,Invalid,Deviated,IMPACT3,67 Melby Junction
+1,COM,809502188-1,Kev,Edwin,Philbert,New York,Sandeep,NC,V,Ours,Invalid,Deviated,IMPACT4,923 Hazelcrest Avenue
+3,COM,035727335-4,Jill,Alvin,Rip,New York,Sandeep,MDR,E,Ours,Invalid,Deviated,IMPACT2,776 Victoria Place
+3,COM,349968807-7,Linn,Rosetta,Rozalie,Pune,Divya,NC,C,Ours,Valid,Adhered,,
+5,COM,462632631-5,Birgit,Meghan,Rip,Pune,Nagaraju,WMS,V,Ours,Invalid,Deviated,IMPACT4,3 American Trail
+4,COM,162338246-7,Mariska,Nicolea,Lorenza,New York,Suruchi,PM,E,Ours,Invalid,Deviated,IMPACT2,1972 Scott Pass
+2,COM,370372985-6,Erika,Fancy,Lutero,Pune,Apoorv,IM,C,Ours,Invalid,Deviated,IMPACT4,7 4th Circle
+1,COM,107828660-4,Ramon,Osbourne,Alastair,Sydney,Priyanka,RR,C,Ours,Invalid,Deviated,IMPACT4,6497 Rusk Terrace
+2,COM,082331614-9,Sanford,Devinne,Theodosia,Pune,Ruturaj,IM,V,Ours,Invalid,Deviated,IMPACT1,1 Hintze Hill
+3,COM,190533090-1,Titus,Devinne,Theodosia,Pune,Sandeep,RR,V,Ours,Invalid,Deviated,IMPACT1,1 Hintze Hill
+1,COM,308804363-3,Shepherd,Raynard,Tatiana,Pune,Suruchi,NC,V,Others,Invalid,Deviated,IMPACT4,579 Farmco Hill
+4,COM,788573043-3,Clemmy,Clementina,Filippo,Pune,Shiva,WMS,E,Ours,Invalid,Deviated,IMPACT2,1972 Scott Pass
+2,COM,298758830-5,Rosamond,Augusta,Betsey,Sydney,Saugata,PM,V,Ours,Invalid,Deviated,IMPACT2,1972 Scott Pass
+2,COM,198336305-7,Margareta,Beryle,Lorenza,New York,Apoorv,WMS,V,Ours,Invalid,Deviated,IMPACT1,1 Hintze Hill
+4,COM,026941901-2,Elbertina,Durant,Malinda,London,Himabindu,IM,E,Ours,Valid,Adhered,,
+2,COM,538515836-4,Gregorio,Meghan,Rip,Pune,Ruturaj,NC,C,Ours,Invalid,Deviated,IMPACT5,1105 Bowman Trail
+3,COM,513880907-5,Caddric,Codee,Martguerita,New York,Nagaraju,WMS,E,Ours,Invalid,Deviated,IMPACT3,7 Dahle Road
+4,COM,511595759-0,Lou,Sanson,Suzanna,Pune,Shiva,DNR,C,Ours,Invalid,Deviated,IMPACT1,1 Hintze Hill
+1,COM,322364335-4,Devonne,Jemmy,Tatiana,Sydney,Suruchi,WMS,C,Ours,Invalid,Deviated,IMPACT3,5307 Montana Center
+3,COM,533306083-5,Sam,Ame,Rozalie,Pune,Suruchi,RR,E,Others,Invalid,Deviated,IMPACT2,923 Hazelcrest Avenue
+3,COM,139409254-7,Laurena,Agathe,Sonja,Pune,Divya,DNR,V,Ours,Invalid,Deviated,IMPACT2,2644 Duke Place
+2,COM,401280386-7,Odey,Devinne,Theodosia,Pune,Sandeep,IM,C,Ours,Invalid,Deviated,IMPACT2,704 Hooker Plaza
+5,COM,198976666-8,Phillip,Antone,Philbert,Pune,Ruturaj,WMS,V,Ours,Valid,Adhered,,
+4,CA,404720523-0,Thom,Edwin,Philbert,New York,Shiva,IM,E,Others,Invalid,Deviated,IMPACT1,15 Ohio Plaza
+4,COM,443446799-9,Gage,Codee,Martguerita,New York,Priyanka,PM,V,Ours,Invalid,Deviated,IMPACT2,1972 Scott Pass
+4,COM,675597233-9,Cinderella,Nicolea,Lorenza,New York,Divya,DNR,V,Ours,Invalid,Deviated,IMPACT1,50910 Corben Pass
+1,COM,065907458-3,Ingaborg,Edwin,Philbert,New York,Ruturaj,PM,E,Ours,Invalid,Deviated,IMPACT3,25 Lien Way
+3,COM,955111431-0,Shaun,Sanson,Suzanna,Pune,Shiva,IM,E,Others,Invalid,Deviated,IMPACT2,624 Milwaukee Drive
+5,COM,496686036-9,Jonathon,Damiano,Alejandrina,Sydney,Shiva,RR,V,Ours,Invalid,Deviated,IMPACT2,289 Washington Crossing
+2,COM,166371784-2,Elwin,Damiano,Alejandrina,Sydney,Shiva,WMS,E,Ours,Invalid,Deviated,IMPACT4,49 Jana Plaza
+3,COM,870679343-6,Ara,Mathias,Berthe,Pune,Himabindu,DNR,C,Others,Valid,Adhered,,
+1,CA,074532537-8,Shaun,Dicky,Eugenia,New York,Priyanka,DNR,E,Ours,Invalid,Deviated,IMPACT4,6 East Park
+1,COM,119972721-0,Averil,Zaneta,Philbert,Pune,Nagaraju,PM,V,Ours,Invalid,Deviated,IMPACT3,1105 Bowman Trail
+4,COM,775510287-4,Gerard,Kirby,Alec,Sydney,Himabindu,WMS,E,Ours,Invalid,Deviated,IMPACT5,41568 Doe Crossing Junction
+4,CA,367510970-4,Kelbee,Alvin,Rip,New York,Sandeep,WMS,C,Ours,Valid,Adhered,,
+4,COM,567440795-9,Brier,Teriann,Rip,Pune,Nagaraju,IM,C,Ours,Invalid,Deviated,IMPACT2,10230 Canary Park
+3,COM,480830628-X,Kala,Danny,Sonja,Pune,Saugata,IM,C,Ours,Valid,Adhered,,
+4,COM,130128655-9,Mabelle,Ame,Rozalie,Pune,Saugata,WMS,C,Ours,Invalid,Deviated,IMPACT4,00 Mayfield Lane
+3,COM,232692753-2,Lucas,Brodie,Janna,Pune,Shiva,PM,V,Ours,Valid,Adhered,,
+1,COM,814005359-7,Hannis,Kamila,Stormie,Pune,Apoorv,NC,V,Ours,Invalid,Deviated,IMPACT5,00 Mayfield Lane
+3,COM,777845609-5,Marietta,Candra,Eugenia,London,Nagaraju,PM,C,Ours,Valid,Adhered,,
+1,COM,986809672-3,Cookie,Alvin,Rip,New York,Ruturaj,RR,V,Ours,Valid,Adhered,,
+2,COM,281354924-X,Bren,Winnie,Sandye,Pune,Suruchi,WMS,V,Ours,Invalid,Deviated,IMPACT5,3 American Trail
+3,COM,208715622-0,Deva,Shantee,Sonja,Pune,Himabindu,IM,V,Ours,Valid,Adhered,,
+1,COM,655372871-2,Lawrence,Marja,Theodosia,Pune,Ruturaj,PM,V,Ours,Invalid,Deviated,IMPACT3,923 Hazelcrest Avenue
+5,COM,835482422-5,Fee,Harmonia,Alejandrina,Pune,Nagaraju,PM,V,Ours,Valid,Adhered,,
+4,COM,804044311-3,Pate,Winnie,Sandye,Pune,Divya,MDR,E,Ours,Invalid,Deviated,IMPACT5,234 Maple Wood Park
+5,COM,000372547-2,Dalston,Henrieta,Berthe,Pune,Apoorv,DNR,C,Ours,Invalid,Deviated,IMPACT1,923 Hazelcrest Avenue
+1,COM,065905333-0,Les,Alvin,Rip,New York,Ruturaj,RR,C,Ours,Valid,Adhered,,
+4,COM,973414934-2,Kimball,Codee,Martguerita,New York,Priyanka,RR,C,Ours,Valid,Adhered,,
+2,COM,208522864-X,Janette,Antone,Philbert,Pune,Shiva,NC,C,Ours,Invalid,Deviated,IMPACT3,3 American Trail
+1,CA,259205084-1,Fania,Kamila,Stormie,Pune,Divya,IM,C,Ours,Invalid,Deviated,IMPACT1,00 Mayfield Lane
+4,COM,914489138-5,Ardenia,Brigitta,Ardelia,Sydney,Ruturaj,NC,V,Ours,Valid,Adhered,,
+3,COM,551138706-1,Ronica,Brodie,Janna,Pune,Nagaraju,MDR,E,Ours,Invalid,Deviated,IMPACT3,1972 Scott Pass
+1,COM,820443869-9,Lyndell,Dicky,Eugenia,New York,Nagaraju,PM,C,Ours,Invalid,Deviated,IMPACT1,52520 Porter Court
+3,COM,735642124-0,Aubine,Lexi,Stormie,Pune,Apoorv,WMS,C,Ours,Invalid,Deviated,IMPACT1,5 Independence Pass
+5,COM,531866782-1,Bobby,Kamila,Stormie,Pune,Apoorv,PM,C,Others,Invalid,Deviated,IMPACT2,25975 Dayton Way
+3,COM,076094459-8,Dennie,Ame,Rozalie,Pune,Himabindu,NC,C,Ours,Invalid,Deviated,IMPACT2,923 Hazelcrest Avenue
+4,COM,011325764-3,Osbert,Damiano,Alejandrina,Sydney,Ruturaj,PM,V,Ours,Valid,Adhered,,
+4,COM,389940802-0,Mischa,Jeramey,Filippo,New York,Shiva,RR,C,Ours,Invalid,Deviated,IMPACT2,3 American Trail
+5,CA,863102306-X,Inger,Sanson,Suzanna,Pune,Priyanka,DNR,E,Ours,Invalid,Deviated,IMPACT3,40120 Eggendart Avenue
+1,COM,286629250-2,Binky,Antonin,Martguerita,Pune,Ruturaj,PM,C,Ours,Valid,Adhered,,
+3,COM,485152990-2,Sarah,Tony,Stormie,Pune,Divya,NC,C,Ours,Valid,Adhered,,
+5,COM,110777438-1,Iggie,Shayne,Alec,London,Apoorv,NC,V,Ours,Invalid,Deviated,IMPACT1,34807 Truax Point
+4,COM,256774228-X,Wilt,Antonin,Martguerita,Pune,Priyanka,MDR,C,Ours,Invalid,Deviated,IMPACT3,00 Mayfield Lane
+1,COM,983619224-7,Ulrike,Teriann,Rip,Pune,Shiva,IM,E,Ours,Valid,Adhered,,
+1,COM,509580461-1,Tisha,Nicolea,Lorenza,New York,Divya,NC,E,Others,Invalid,Deviated,IMPACT3,25 Goodland Place
+2,COM,880214441-9,Garrot,Brietta,Sonja,London,Himabindu,MDR,C,Ours,Valid,Adhered,,
+1,COM,948139114-0,Sherrie,Mathias,Berthe,Pune,Saugata,WMS,C,Ours,Valid,Adhered,,
+2,COM,512951678-8,Kassey,Ryon,Tawnya,Sydney,Nagaraju,PM,E,Ours,Invalid,Deviated,IMPACT1,690 Hazelcrest Point
+2,COM,124789431-2,Madeleine,Meghan,Rip,Pune,Shiva,IM,E,Ours,Valid,Adhered,,
+3,COM,232684200-6,Taber,Fancy,Lutero,Pune,Apoorv,PM,V,Others,Valid,Adhered,,
+4,COM,316362410-3,Carmen,Antone,Philbert,Pune,Sandeep,PM,V,Ours,Invalid,Deviated,IMPACT4,1972 Scott Pass
+1,COM,369296572-9,Christophe,Corrie,Martguerita,New York,Ruturaj,NC,C,Ours,Valid,Adhered,,
+3,COM,573677707-X,Kendricks,Augusta,Betsey,Sydney,Himabindu,IM,V,Ours,Invalid,Deviated,IMPACT4,1 Hintze Hill
+3,COM,653948283-3,Bennie,Harmonia,Alejandrina,Pune,Shiva,IM,E,Ours,Valid,Adhered,,
+4,COM,779477346-6,Carolann,Normand,Axe,Pune,Himabindu,WMS,E,Ours,Invalid,Deviated,IMPACT5,4 Lighthouse Bay Place
+4,COM,691379678-1,Ina,Ara,Carlina,New York,Himabindu,IM,C,Ours,Invalid,Deviated,IMPACT4,00 Mayfield Lane
+4,COM,698428398-1,Babb,Zaneta,Philbert,Pune,Shiva,PM,V,Ours,Invalid,Deviated,IMPACT5,6 Schiller Alley
+1,CA,377522132-8,Matilde,Sanson,Suzanna,Pune,Priyanka,WMS,V,Ours,Invalid,Deviated,IMPACT4,690 Hazelcrest Point
+2,COM,262998133-9,Rubina,Dew,Darnell,New York,Sandeep,RR,E,Ours,Invalid,Deviated,IMPACT5,41568 Doe Crossing Junction
+2,COM,798641184-8,Damiano,Corrie,Martguerita,New York,Ruturaj,WMS,C,Ours,Invalid,Deviated,IMPACT2,579 Farmco Hill
+3,COM,740320178-7,Megen,Kamila,Stormie,Pune,Saugata,IM,V,Ours,Valid,Adhered,,
+4,COM,237235212-1,Saree,Kamila,Stormie,Pune,Suruchi,RR,V,Others,Invalid,Deviated,IMPACT4,1 Hintze Hill
+4,COM,668660378-3,Tymon,Harv,Stormie,Sydney,Apoorv,WMS,V,Ours,Valid,Adhered,,
+2,COM,153153619-0,Gabey,Brigitta,Ardelia,Sydney,Ruturaj,MDR,V,Ours,Valid,Adhered,,
+3,COM,115615323-9,Alix,Brietta,Sonja,London,Apoorv,RR,C,Ours,Invalid,Deviated,IMPACT3,6 Briar Crest Hill
+3,COM,319379880-0,Valaree,Edwin,Philbert,New York,Ruturaj,DNR,C,Ours,Valid,Adhered,,
+5,COM,645602435-8,Michaela,Janith,Alec,Pune,Divya,WMS,V,Others,Valid,Adhered,,
+5,COM,736084615-3,Jeannie,Clemente,Axe,London,Divya,RR,E,Others,Invalid,Deviated,IMPACT4,7 Muir Trail
+4,COM,834586189-X,Ax,Augusta,Betsey,Sydney,Apoorv,WMS,C,Ours,Valid,Adhered,,
+5,COM,700224058-7,Buckie,Hestia,Axe,Pune,Apoorv,IM,E,Others,Invalid,Deviated,IMPACT3,1105 Bowman Trail
+5,COM,296771670-7,Gerti,Valma,Betsey,Sydney,Himabindu,IM,C,Ours,Invalid,Deviated,IMPACT1,3 American Trail
+4,COM,215660713-3,Aloin,Nicolea,Lorenza,New York,Suruchi,RR,E,Ours,Valid,Adhered,,
+3,COM,575356561-1,Mercedes,Ryon,Tawnya,Sydney,Ruturaj,WMS,C,Ours,Invalid,Deviated,IMPACT1,923 Hazelcrest Avenue
+4,COM,681552759-X,Inness,Damiano,Alejandrina,Sydney,Nagaraju,DNR,E,Ours,Invalid,Deviated,IMPACT3,1972 Scott Pass
+4,COM,069395243-1,Emanuele,Shayne,Alec,London,Divya,DNR,E,Ours,Valid,Adhered,,
+2,COM,105146612-1,Berry,Jemmy,Tatiana,Sydney,Apoorv,DNR,C,Ours,Invalid,Deviated,IMPACT1,704 Hooker Plaza
+2,CA,512335601-0,Hatty,Alvin,Rip,New York,Sandeep,NC,E,Ours,Valid,Adhered,,
+2,COM,604001703-1,Letisha,Candra,Eugenia,London,Priyanka,DNR,V,Others,Invalid,Deviated,IMPACT2,923 Hazelcrest Avenue
+2,COM,515001741-8,Eimile,Lexi,Stormie,Pune,Himabindu,IM,V,Ours,Invalid,Deviated,IMPACT5,00 Mayfield Lane
+1,COM,271636051-0,Gregg,Garrik,Ardelia,Pune,Shiva,WMS,C,Ours,Invalid,Deviated,IMPACT5,690 Hazelcrest Point
+1,COM,150221263-3,Welch,Hestia,Axe,Pune,Divya,NC,V,Ours,Invalid,Deviated,IMPACT5,1972 Scott Pass
+2,COM,807571296-X,Geoff,Janith,Alec,Pune,Divya,WMS,E,Ours,Invalid,Deviated,IMPACT5,690 Hazelcrest Point
+3,COM,807395379-X,Junina,Clementina,Filippo,Pune,Ruturaj,PM,E,Ours,Valid,Adhered,,
+4,CA,593625477-1,Reed,Sterne,Theodosia,New York,Priyanka,RR,C,Ours,Valid,Adhered,,
+2,COM,925543753-4,Reider,Jemmy,Tatiana,Sydney,Himabindu,NC,C,Ours,Invalid,Deviated,IMPACT5,4 Sycamore Trail
+1,COM,794528443-4,Guinevere,Damiano,Alejandrina,Sydney,Priyanka,WMS,V,Ours,Invalid,Deviated,IMPACT5,359 Hooker Point
+2,COM,938182893-8,Lovell,Harv,Stormie,Sydney,Apoorv,DNR,E,Ours,Invalid,Deviated,IMPACT3,00 Mayfield Lane
+2,COM,279135216-3,Stephani,Tony,Stormie,Pune,Suruchi,DNR,E,Ours,Invalid,Deviated,IMPACT4,923 Hazelcrest Avenue
+3,CA,452377777-2,Nerita,Garrik,Ardelia,Pune,Sandeep,PM,V,Ours,Invalid,Deviated,IMPACT3,3655 Heffernan Crossing
+4,COM,455660577-6,Sharon,Caryl,Filippo,New York,Shiva,NC,C,Ours,Invalid,Deviated,IMPACT3,37188 Karstens Pass
+5,COM,028262644-1,Cyndy,Agathe,Sonja,Pune,Apoorv,NC,C,Others,Invalid,Deviated,IMPACT3,4 Sloan Center
+1,COM,015302388-0,Vanna,Durant,Malinda,London,Divya,WMS,C,Others,Invalid,Deviated,IMPACT1,690 Hazelcrest Point
+1,COM,801156810-8,Brear,Shayne,Alec,London,Apoorv,MDR,V,Ours,Invalid,Deviated,IMPACT3,84 Riverside Lane
+4,COM,973246350-3,Joelly,Tuckie,Phil,Pune,Himabindu,WMS,E,Ours,Invalid,Deviated,IMPACT3,3400 Mariners Cove Court
+3,COM,941785228-0,Nannette,Henrieta,Berthe,Pune,Saugata,NC,V,Ours,Invalid,Deviated,IMPACT3,41568 Doe Crossing Junction
+2,COM,592197960-0,Berkley,Candra,Eugenia,London,Ruturaj,WMS,C,Ours,Invalid,Deviated,IMPACT5,923 Hazelcrest Avenue
+5,COM,352432241-7,Danika,Mathias,Berthe,Pune,Himabindu,IM,C,Ours,Valid,Adhered,,
+3,COM,258749046-4,Keefer,Rosetta,Rozalie,Pune,Apoorv,RR,C,Ours,Invalid,Deviated,IMPACT2,47 Continental Trail
+1,COM,466410705-6,Moore,Shayne,Alec,London,Divya,RR,E,Ours,Invalid,Deviated,IMPACT3,1972 Scott Pass
+5,COM,002393007-1,Sumner,Brittne,Nevile,Pune,Shiva,PM,C,Ours,Invalid,Deviated,IMPACT2,8 Forest Lane
+3,COM,566125662-0,Tadio,Chas,Filippo,New York,Shiva,NC,V,Ours,Valid,Adhered,,
+2,COM,555787231-0,Maryanna,Antone,Philbert,Pune,Nagaraju,PM,C,Ours,Invalid,Deviated,IMPACT4,224 Union Drive
+4,COM,573292522-8,Maitilde,Lexi,Stormie,Pune,Saugata,PM,V,Ours,Invalid,Deviated,IMPACT1,1972 Scott Pass
+4,COM,385560255-7,Forster,Dicky,Eugenia,New York,Shiva,MDR,C,Ours,Invalid,Deviated,IMPACT4,00 Mayfield Lane
+4,CA,135896134-4,Wynne,Augusta,Betsey,Sydney,Saugata,RR,V,Ours,Invalid,Deviated,IMPACT5,5 Saint Paul Crossing
+4,CA,311170758-X,Kelcey,Devinne,Theodosia,Pune,Shiva,IM,V,Ours,Invalid,Deviated,IMPACT2,3 American Trail
+3,COM,968729949-5,Parrnell,Tuckie,Phil,Pune,Divya,RR,C,Ours,Invalid,Deviated,IMPACT5,1972 Scott Pass
+2,COM,257503099-4,Peyton,Alvin,Rip,New York,Shiva,NC,C,Ours,Invalid,Deviated,IMPACT4,1105 Bowman Trail
+4,COM,971607089-6,Robinetta,Harmonia,Alejandrina,Pune,Sandeep,RR,V,Ours,Valid,Adhered,,
+3,COM,565928921-5,Welby,Alvin,Rip,New York,Nagaraju,WMS,E,Ours,Valid,Adhered,,
+2,COM,405495902-4,Cally,Osbourne,Alastair,Sydney,Sandeep,NC,E,Ours,Valid,Adhered,,
+1,COM,968739588-5,Rich,Garrik,Ardelia,Pune,Nagaraju,MDR,C,Ours,Invalid,Deviated,IMPACT3,1972 Scott Pass
+1,COM,963890708-8,Vick,Kamila,Stormie,Pune,Apoorv,PM,C,Ours,Invalid,Deviated,IMPACT5,254 Nelson Trail
+1,COM,044818805-8,Sunshine,Augusta,Betsey,Sydney,Himabindu,RR,E,Ours,Invalid,Deviated,IMPACT5,4 Vermont Plaza
+2,COM,571895193-4,Elli,Malcolm,Eugenia,New York,Shiva,DNR,E,Others,Invalid,Deviated,IMPACT1,3 American Trail
+3,COM,218646990-1,Elonore,Jemmy,Tatiana,Sydney,Saugata,PM,V,Ours,Invalid,Deviated,IMPACT4,37188 Karstens Pass
+4,COM,768845868-4,Marnia,Clemente,Axe,London,Saugata,PM,V,Ours,Invalid,Deviated,IMPACT3,4 Nobel Park
+3,COM,174779094-X,Selby,Ives,Philbert,Pune,Priyanka,PM,V,Ours,Invalid,Deviated,IMPACT2,628 Fulton Junction
+3,COM,315020709-6,Billie,Ole,Lorenza,New York,Saugata,WMS,V,Ours,Invalid,Deviated,IMPACT2,7 Eagle Crest Plaza
+4,COM,566336607-5,Edd,Chas,Filippo,New York,Shiva,PM,V,Ours,Invalid,Deviated,IMPACT3,00 Mayfield Lane
+4,COM,912058482-2,Genvieve,Corrie,Martguerita,New York,Nagaraju,NC,E,Ours,Invalid,Deviated,IMPACT5,1105 Bowman Trail
+1,COM,651852919-9,Andie,Jeramey,Filippo,New York,Sandeep,IM,V,Ours,Invalid,Deviated,IMPACT4,66 Dovetail Trail
+4,COM,715872035-7,Ken,Janith,Alec,Pune,Apoorv,MDR,C,Ours,Invalid,Deviated,IMPACT4,1 Hintze Hill
+4,COM,985469069-5,Pattin,Candra,Eugenia,London,Shiva,NC,E,Ours,Invalid,Deviated,IMPACT1,185 Hayes Point
+1,COM,948473508-8,Lexi,Henrieta,Berthe,Pune,Saugata,WMS,E,Ours,Valid,Adhered,,
+1,COM,576628041-6,Rosalie,Harmonia,Alejandrina,Pune,Sandeep,MDR,E,Others,Invalid,Deviated,IMPACT1,598 Spenser Road
+3,COM,716312337-X,Clea,Candra,Eugenia,London,Shiva,NC,V,Ours,Invalid,Deviated,IMPACT2,7 Ruskin Trail
+3,COM,738897582-9,Rafaelita,Codee,Martguerita,New York,Ruturaj,NC,C,Ours,Valid,Adhered,,
+3,COM,920790741-0,Derick,Sterne,Theodosia,New York,Sandeep,RR,E,Ours,Invalid,Deviated,IMPACT3,875 Declaration Avenue
+2,CA,794572114-1,Meryl,Janith,Alec,Pune,Suruchi,WMS,V,Ours,Invalid,Deviated,IMPACT5,690 Hazelcrest Point
+2,COM,201600352-9,Derwin,Hestia,Axe,Pune,Himabindu,DNR,E,Ours,Invalid,Deviated,IMPACT2,6 Cordelia Junction
+4,COM,536720038-9,Gibbie,Harrison,Liz,London,Himabindu,DNR,V,Ours,Valid,Adhered,,
+4,COM,707148791-X,Amber,Lexi,Stormie,Pune,Himabindu,PM,V,Ours,Invalid,Deviated,IMPACT1,00 Mayfield Lane
+3,COM,262936112-8,Shawn,Maddie,Ardelia,Pune,Priyanka,RR,C,Ours,Invalid,Deviated,IMPACT3,3400 Mariners Cove Court
+4,COM,021179267-5,Brantley,Zaneta,Philbert,Pune,Shiva,WMS,V,Ours,Invalid,Deviated,IMPACT4,5284 Bunting Circle
+3,COM,399713420-0,Barris,Harrison,Liz,London,Saugata,RR,E,Ours,Invalid,Deviated,IMPACT5,875 Declaration Avenue
+3,COM,947136048-X,Nalani,Clementina,Filippo,Pune,Shiva,RR,E,Ours,Invalid,Deviated,IMPACT1,79 Park Meadow Place
+4,COM,977582430-3,Delilah,Tony,Stormie,Pune,Himabindu,WMS,C,Others,Invalid,Deviated,IMPACT4,923 Hazelcrest Avenue
+2,COM,185862045-7,Reinhard,Gardiner,Stormie,Pune,Divya,PM,E,Ours,Invalid,Deviated,IMPACT2,923 Hazelcrest Avenue
+5,COM,413086463-7,Benjamen,Rosetta,Rozalie,Pune,Saugata,MDR,C,Others,Valid,Adhered,,
+1,COM,274500168-X,Christiana,Teriann,Rip,Pune,Sandeep,NC,C,Ours,Invalid,Deviated,IMPACT1,1972 Scott Pass
+4,COM,510859288-4,Angelica,Nicolea,Lorenza,New York,Saugata,RR,E,Ours,Invalid,Deviated,IMPACT5,579 Farmco Hill
+5,COM,730268233-X,Sonny,Ara,Carlina,New York,Divya,MDR,C,Ours,Invalid,Deviated,IMPACT1,37188 Karstens Pass
+1,COM,353160639-5,Genny,Malcolm,Eugenia,New York,Nagaraju,PM,E,Ours,Invalid,Deviated,IMPACT5,5 Magdeline Place
+4,COM,828305027-3,Wells,Maddie,Ardelia,Pune,Priyanka,NC,C,Ours,Invalid,Deviated,IMPACT3,37188 Karstens Pass
+5,COM,571409433-6,Rudd,Ryon,Tawnya,Sydney,Sandeep,DNR,C,Ours,Invalid,Deviated,IMPACT2,7886 Weeping Birch Center
+3,COM,498751063-4,Suellen,Ole,Lorenza,New York,Apoorv,DNR,E,Ours,Invalid,Deviated,IMPACT1,1972 Scott Pass
+3,COM,331707203-2,Gibb,Edwin,Philbert,New York,Ruturaj,RR,E,Ours,Invalid,Deviated,IMPACT3,2989 Golf View Way
+3,COM,590656366-0,Layla,Carmita,Philbert,Sydney,Nagaraju,MDR,C,Ours,Invalid,Deviated,IMPACT1,923 Hazelcrest Avenue
+2,CA,972796258-0,Enrika,Maddie,Ardelia,Pune,Nagaraju,RR,V,Ours,Invalid,Deviated,IMPACT5,00 Mayfield Lane
+3,COM,197788688-4,Cheston,Devinne,Theodosia,Pune,Sandeep,RR,E,Others,Invalid,Deviated,IMPACT4,2745 Nova Lane
+4,COM,862099731-9,Basilio,Carmita,Philbert,Sydney,Shiva,NC,V,Ours,Invalid,Deviated,IMPACT3,6479 Bunker Hill Place
+5,COM,410869669-7,Skyler,Augusta,Betsey,Sydney,Divya,PM,E,Ours,Invalid,Deviated,IMPACT2,60445 Scoville Terrace
+2,COM,810527505-8,Cordi,Sterne,Theodosia,New York,Ruturaj,NC,E,Ours,Valid,Adhered,,
+4,COM,548825682-2,Neile,Dicky,Eugenia,New York,Nagaraju,DNR,C,Ours,Valid,Adhered,,
+3,COM,109349110-8,Marilin,Normand,Axe,Pune,Suruchi,MDR,C,Ours,Invalid,Deviated,IMPACT4,923 Hazelcrest Avenue
+1,COM,437522273-5,Faith,Candra,Eugenia,London,Priyanka,PM,E,Ours,Invalid,Deviated,IMPACT5,189 Sullivan Trail
+2,COM,438911985-0,Remington,Teriann,Rip,Pune,Shiva,IM,E,Ours,Valid,Adhered,,
+3,COM,435830848-1,Massimo,Sterne,Theodosia,New York,Sandeep,NC,E,Ours,Valid,Adhered,,
+2,CA,288179395-9,Linnet,Danny,Sonja,Pune,Saugata,IM,C,Others,Invalid,Deviated,IMPACT1,37188 Karstens Pass
+2,COM,733393176-5,Ashli,Henrieta,Berthe,Pune,Divya,NC,V,Ours,Invalid,Deviated,IMPACT1,83995 Farwell Plaza
+4,COM,881386507-4,Pavlov,Clementina,Filippo,Pune,Ruturaj,RR,C,Ours,Valid,Adhered,,
+4,COM,325115340-4,Gerry,Gardiner,Stormie,Pune,Suruchi,MDR,C,Ours,Invalid,Deviated,IMPACT2,1972 Scott Pass
+4,COM,159054279-7,Nickola,Clemente,Axe,London,Suruchi,RR,E,Ours,Invalid,Deviated,IMPACT2,00 Mayfield Lane
+2,COM,411916490-X,Kerrin,Tony,Stormie,Pune,Apoorv,MDR,C,Others,Valid,Adhered,,
+2,COM,084452776-9,Francesca,Teriann,Rip,Pune,Priyanka,IM,V,Ours,Invalid,Deviated,IMPACT1,4736 1st Parkway
+2,COM,165815721-4,Vivien,Carmita,Philbert,Sydney,Ruturaj,MDR,V,Ours,Valid,Adhered,,
+1,COM,517095059-4,Onofredo,Mathias,Berthe,Pune,Saugata,MDR,E,Ours,Invalid,Deviated,IMPACT4,3 American Trail
+2,COM,344292661-0,Harland,Caryl,Filippo,New York,Shiva,NC,V,Others,Invalid,Deviated,IMPACT1,923 Hazelcrest Avenue
+1,COM,597487828-0,Hardy,Sterne,Theodosia,New York,Shiva,DNR,V,Ours,Valid,Adhered,,
+5,COM,574339166-1,Lammond,Normand,Axe,Pune,Divya,PM,V,Ours,Invalid,Deviated,IMPACT4,1 Hintze Hill
+3,COM,223662387-9,Celestina,Jemmy,Tatiana,Sydney,Himabindu,WMS,C,Ours,Invalid,Deviated,IMPACT4,875 Declaration Avenue
+2,COM,878426466-7,Carlene,Danny,Sonja,Pune,Divya,RR,C,Ours,Invalid,Deviated,IMPACT3,3 American Trail
+5,COM,080990856-5,Netti,Teriann,Rip,Pune,Priyanka,WMS,E,Ours,Valid,Adhered,,
+5,COM,286011921-3,Ransell,Kamila,Stormie,Pune,Saugata,IM,E,Ours,Invalid,Deviated,IMPACT2,1972 Scott Pass
+5,COM,627201498-8,Deonne,Sterne,Theodosia,New York,Nagaraju,WMS,V,Ours,Invalid,Deviated,IMPACT4,77960 Monterey Circle
+1,COM,412950843-1,Nevil,Jeramey,Filippo,New York,Priyanka,NC,E,Others,Invalid,Deviated,IMPACT5,3 American Trail
+2,COM,767102338-8,Bertie,Harrison,Liz,London,Himabindu,NC,V,Ours,Invalid,Deviated,IMPACT5,1972 Scott Pass
+1,COM,180075315-2,Katherine,Beryle,Lorenza,New York,Apoorv,IM,V,Ours,Invalid,Deviated,IMPACT4,1972 Scott Pass
+3,COM,039999084-4,Felecia,Tuckie,Phil,Pune,Apoorv,WMS,C,Ours,Invalid,Deviated,IMPACT1,78506 Hazelcrest Drive
+4,COM,364473935-8,Stillmann,Jeramey,Filippo,New York,Shiva,MDR,V,Ours,Invalid,Deviated,IMPACT2,6 Mcguire Junction
+2,COM,069258746-2,Annaliese,Dew,Darnell,New York,Priyanka,IM,V,Ours,Valid,Adhered,,
+1,COM,929692083-3,Nicolas,Maddie,Ardelia,Pune,Sandeep,RR,E,Ours,Invalid,Deviated,IMPACT1,5 Bay Way
+2,COM,575540006-7,Heriberto,Jeramey,Filippo,New York,Nagaraju,MDR,E,Ours,Invalid,Deviated,IMPACT5,129 Rieder Plaza
+3,COM,632784153-8,Danila,Sterne,Theodosia,New York,Ruturaj,WMS,E,Ours,Invalid,Deviated,IMPACT1,3 American Trail
+1,COM,552613615-9,Hugo,Sanson,Suzanna,Pune,Sandeep,WMS,E,Ours,Invalid,Deviated,IMPACT5,00 Mayfield Lane
+2,COM,481855021-3,Codee,Danny,Sonja,Pune,Divya,RR,E,Ours,Valid,Adhered,,
+4,COM,303872734-2,Arne,Chas,Filippo,New York,Priyanka,DNR,V,Ours,Valid,Adhered,,
+4,COM,353812364-0,Iolanthe,Codee,Martguerita,New York,Priyanka,NC,V,Ours,Valid,Adhered,,
+1,COM,083966565-2,Olivia,Beryle,Lorenza,New York,Suruchi,PM,C,Ours,Valid,Adhered,,
+3,COM,974346707-6,Yettie,Ryon,Tawnya,Sydney,Nagaraju,RR,C,Ours,Valid,Adhered,,
+3,COM,164441151-2,Boone,Harv,Stormie,Sydney,Divya,PM,C,Ours,Invalid,Deviated,IMPACT4,3494 Eagle Crest Pass
+1,COM,684406604-X,Bendicty,Fancy,Lutero,Pune,Himabindu,MDR,C,Ours,Invalid,Deviated,IMPACT5,8 Lake View Plaza
+3,COM,311080733-5,Nico,Garrik,Ardelia,Pune,Priyanka,WMS,V,Ours,Invalid,Deviated,IMPACT4,686 Clyde Gallagher Point
+1,COM,046564733-2,Marika,Danny,Sonja,Pune,Apoorv,MDR,C,Ours,Valid,Adhered,,
+2,COM,186613780-8,Ferdinanda,Brodie,Janna,Pune,Sandeep,RR,C,Ours,Invalid,Deviated,IMPACT4,77 Dunning Hill
+4,COM,541965451-2,Gifford,Janith,Alec,Pune,Suruchi,MDR,E,Ours,Invalid,Deviated,IMPACT3,2807 Anthes Lane
+4,COM,559792863-5,Leontine,Rosetta,Rozalie,Pune,Himabindu,PM,C,Ours,Invalid,Deviated,IMPACT1,59026 Jenifer Point
+3,CA,000548202-X,Armstrong,Chas,Filippo,New York,Nagaraju,NC,V,Ours,Invalid,Deviated,IMPACT5,4307 Mccormick Crossing
+2,COM,786365925-6,Aldus,Kamila,Stormie,Pune,Suruchi,MDR,V,Ours,Valid,Adhered,,
+3,COM,650441353-3,Allianora,Fancy,Lutero,Pune,Himabindu,MDR,E,Ours,Invalid,Deviated,IMPACT3,00 Mayfield Lane
+1,COM,419606071-4,Ogdon,Damiano,Alejandrina,Sydney,Sandeep,RR,C,Others,Invalid,Deviated,IMPACT2,1 Hintze Hill
+1,COM,524066960-0,Fawne,Tuckie,Phil,Pune,Suruchi,DNR,C,Others,Valid,Adhered,,
+3,COM,762089350-4,Mella,Carmita,Philbert,Sydney,Priyanka,RR,V,Ours,Invalid,Deviated,IMPACT4,6 Talmadge Drive
+1,COM,467805574-6,Klemens,Augusta,Betsey,Sydney,Saugata,PM,V,Ours,Invalid,Deviated,IMPACT2,4736 1st Parkway
+4,COM,979648738-1,Harriett,Gardiner,Stormie,Pune,Saugata,MDR,C,Ours,Invalid,Deviated,IMPACT5,3 American Trail
+2,COM,004749079-9,Gail,Damiano,Alejandrina,Sydney,Shiva,IM,V,Ours,Invalid,Deviated,IMPACT2,579 Farmco Hill
+5,COM,164305262-4,Chicky,Jeramey,Filippo,New York,Shiva,RR,C,Others,Invalid,Deviated,IMPACT2,48066 Jenna Avenue
+2,COM,887604442-6,Herminia,Shantee,Sonja,Pune,Saugata,RR,V,Ours,Invalid,Deviated,IMPACT1,5 Kedzie Trail
+4,COM,886170912-5,Haleigh,Shayne,Alec,London,Suruchi,NC,E,Ours,Valid,Adhered,,
+4,COM,786748235-0,Ashlen,Clemente,Axe,London,Divya,PM,C,Ours,Invalid,Deviated,IMPACT3,7 Duke Road
+2,COM,103031799-2,Lonnie,Ara,Carlina,New York,Divya,DNR,V,Ours,Invalid,Deviated,IMPACT1,67 Pleasure Point
+3,COM,356282602-8,Gillian,Shantee,Sonja,Pune,Divya,PM,V,Ours,Invalid,Deviated,IMPACT1,65 Montana Circle
+2,COM,111286263-3,Niki,Sanson,Suzanna,Pune,Nagaraju,WMS,E,Ours,Valid,Adhered,,
+4,COM,173114983-2,Gregoor,Codee,Martguerita,New York,Nagaraju,WMS,C,Ours,Valid,Adhered,,
+1,COM,178383545-1,Buffy,Kirby,Alec,Sydney,Saugata,RR,E,Ours,Valid,Adhered,,
+2,COM,381484222-7,Justine,Ara,Carlina,New York,Suruchi,RR,C,Ours,Invalid,Deviated,IMPACT3,00 Mayfield Lane
+4,COM,714342608-3,Margret,Jeramey,Filippo,New York,Sandeep,IM,C,Ours,Valid,Adhered,,
+2,COM,008045987-0,Kendall,Harv,Stormie,Sydney,Himabindu,RR,C,Ours,Valid,Adhered,,
+2,COM,114664687-9,Alisha,Lexi,Stormie,Pune,Divya,NC,C,Ours,Invalid,Deviated,IMPACT1,923 Hazelcrest Avenue
+4,COM,567361562-0,Barbaraanne,Garrik,Ardelia,Pune,Sandeep,WMS,C,Ours,Valid,Adhered,,
+1,COM,929439095-0,Opal,Ryon,Tawnya,Sydney,Ruturaj,NC,C,Ours,Invalid,Deviated,IMPACT4,923 Hazelcrest Avenue
+3,COM,748282175-9,Rania,Shayne,Alec,London,Divya,PM,C,Ours,Invalid,Deviated,IMPACT2,6 Graceland Center
+4,COM,386050850-4,Remy,Nicolea,Lorenza,New York,Himabindu,WMS,E,Ours,Invalid,Deviated,IMPACT4,77 Manitowish Alley
+1,COM,920699756-4,Beltran,Brittne,Nevile,Pune,Ruturaj,IM,E,Ours,Invalid,Deviated,IMPACT2,1972 Scott Pass
+2,COM,316839356-8,Karmen,Durant,Malinda,London,Suruchi,WMS,V,Ours,Valid,Adhered,,
+3,COM,522790073-6,Pippa,Jemmy,Tatiana,Sydney,Apoorv,DNR,E,Ours,Invalid,Deviated,IMPACT3,3 American Trail
+2,COM,077897921-0,Charley,Raynard,Tatiana,Pune,Himabindu,PM,V,Ours,Invalid,Deviated,IMPACT3,923 Hazelcrest Avenue
+2,COM,887010283-1,Keri,Malcolm,Eugenia,New York,Shiva,MDR,V,Ours,Invalid,Deviated,IMPACT1,14 Novick Place
+4,CA,164934140-7,Gerrard,Fancy,Lutero,Pune,Divya,MDR,V,Ours,Invalid,Deviated,IMPACT5,00 Mayfield Lane
+5,COM,778540087-3,Kerk,Kamila,Stormie,Pune,Himabindu,RR,C,Ours,Valid,Adhered,,
+4,COM,957312274-X,Carmita,Valma,Betsey,Sydney,Apoorv,WMS,E,Ours,Invalid,Deviated,IMPACT3,923 Hazelcrest Avenue
+2,COM,192462449-4,Dorice,Ara,Carlina,New York,Suruchi,PM,E,Ours,Invalid,Deviated,IMPACT3,1972 Scott Pass
+3,COM,043602554-X,Cordelia,Brittne,Nevile,Pune,Sandeep,PM,V,Ours,Invalid,Deviated,IMPACT5,4 Bultman Park
+1,CA,387519468-3,Meghann,Ryon,Tawnya,Sydney,Sandeep,PM,V,Others,Invalid,Deviated,IMPACT3,923 Hazelcrest Avenue
+1,COM,268800899-4,Katee,Harrison,Liz,London,Saugata,WMS,E,Ours,Valid,Adhered,,
+2,COM,410414139-9,Langsdon,Rosetta,Rozalie,Pune,Suruchi,IM,V,Ours,Invalid,Deviated,IMPACT2,6276 Dovetail Trail
+4,COM,029116929-5,Timmi,Brigitta,Ardelia,Sydney,Nagaraju,WMS,E,Ours,Invalid,Deviated,IMPACT2,5 Graceland Place
+2,COM,113709779-5,Lillian,Carmita,Philbert,Sydney,Sandeep,DNR,V,Ours,Invalid,Deviated,IMPACT4,923 Hazelcrest Avenue
+3,COM,833902623-2,Clark,Chas,Filippo,New York,Sandeep,IM,E,Ours,Invalid,Deviated,IMPACT4,8555 4th Circle
+4,COM,627747119-8,Marabel,Antonin,Martguerita,Pune,Sandeep,PM,V,Ours,Invalid,Deviated,IMPACT4,923 Hazelcrest Avenue
+4,COM,085637201-3,Maddy,Ara,Carlina,New York,Divya,MDR,V,Ours,Invalid,Deviated,IMPACT2,1972 Scott Pass
+1,COM,308203686-4,Brodie,Meghan,Rip,Pune,Priyanka,DNR,E,Ours,Invalid,Deviated,IMPACT2,1972 Scott Pass
+5,COM,219321186-8,Eudora,Garrik,Ardelia,Pune,Sandeep,RR,E,Ours,Invalid,Deviated,IMPACT1,00 Mayfield Lane
+4,COM,927742368-4,Arlin,Kamila,Stormie,Pune,Apoorv,MDR,C,Others,Invalid,Deviated,IMPACT4,35 Fremont Center
+1,COM,965151588-0,Booth,Caryl,Filippo,New York,Ruturaj,IM,V,Ours,Invalid,Deviated,IMPACT1,264 Prentice Way
+3,COM,833812800-7,Willis,Dicky,Eugenia,New York,Ruturaj,PM,C,Ours,Valid,Adhered,,
+4,COM,164650161-6,Nilson,Kamila,Stormie,Pune,Divya,DNR,C,Ours,Invalid,Deviated,IMPACT5,508 Pepper Wood Park
+2,COM,407287074-9,Shannen,Danny,Sonja,Pune,Himabindu,NC,C,Ours,Invalid,Deviated,IMPACT2,10 Russell Terrace
+3,COM,626828940-4,Gail,Tuckie,Phil,Pune,Suruchi,IM,E,Ours,Invalid,Deviated,IMPACT5,923 Hazelcrest Avenue
+2,COM,357497996-7,Davina,Chas,Filippo,New York,Ruturaj,DNR,V,Others,Valid,Adhered,,
+1,COM,299062985-8,Winnie,Brodie,Janna,Pune,Priyanka,RR,C,Ours,Invalid,Deviated,IMPACT4,00 Mayfield Lane
+4,COM,075224361-6,Quinlan,Ame,Rozalie,Pune,Apoorv,NC,E,Ours,Invalid,Deviated,IMPACT2,00 Mayfield Lane
+1,COM,920250742-2,Miriam,Codee,Martguerita,New York,Sandeep,WMS,C,Ours,Valid,Adhered,,
+1,COM,291593943-8,Frans,Garrik,Ardelia,Pune,Nagaraju,PM,E,Ours,Valid,Adhered,,
+1,COM,285944602-8,Joanna,Brittne,Nevile,Pune,Nagaraju,IM,E,Ours,Invalid,Deviated,IMPACT3,1105 Bowman Trail
+5,COM,462782196-4,Mano,Rosetta,Rozalie,Pune,Divya,MDR,E,Ours,Invalid,Deviated,IMPACT3,1 Hintze Hill
+3,COM,216989234-6,Nate,Hestia,Axe,Pune,Saugata,WMS,E,Ours,Invalid,Deviated,IMPACT4,923 Hazelcrest Avenue
+5,COM,873597781-7,Herold,Harrison,Liz,London,Suruchi,WMS,E,Ours,Valid,Adhered,,
+2,COM,162129587-7,Rufe,Brodie,Janna,Pune,Ruturaj,NC,C,Ours,Invalid,Deviated,IMPACT2,6 Glacier Hill Drive
+3,COM,272865836-6,Lynsey,Winnie,Sandye,Pune,Suruchi,DNR,E,Others,Invalid,Deviated,IMPACT1,923 Hazelcrest Avenue
+4,COM,307150137-4,Orsa,Kamila,Stormie,Pune,Divya,IM,E,Ours,Invalid,Deviated,IMPACT1,84268 Mariners Cove Circle
+4,COM,011377630-6,Erskine,Valma,Betsey,Sydney,Divya,PM,E,Ours,Valid,Adhered,,
+4,COM,455146908-4,Thomasine,Devinne,Theodosia,Pune,Sandeep,WMS,E,Ours,Valid,Adhered,,
+1,COM,344056891-1,Drucy,Maddie,Ardelia,Pune,Shiva,IM,V,Ours,Invalid,Deviated,IMPACT4,3 American Trail
+2,COM,910461475-5,Rayshell,Janith,Alec,Pune,Divya,IM,E,Ours,Invalid,Deviated,IMPACT2,41415 Caliangt Way
+1,COM,280297985-X,Nadya,Alvin,Rip,New York,Shiva,PM,E,Ours,Valid,Adhered,,
+5,COM,915431978-1,Tan,Brigitta,Ardelia,Sydney,Ruturaj,DNR,V,Ours,Invalid,Deviated,IMPACT4,00 Mayfield Lane
+3,CA,807282099-0,Tan,Sterne,Theodosia,New York,Shiva,NC,V,Ours,Invalid,Deviated,IMPACT3,690 Hazelcrest Point
+1,CA,641682905-3,Rockie,Nicolea,Lorenza,New York,Apoorv,NC,V,Ours,Valid,Adhered,,
+1,COM,858438685-8,Thorsten,Ryon,Tawnya,Sydney,Sandeep,IM,C,Others,Invalid,Deviated,IMPACT1,3400 Mariners Cove Court
+4,COM,584823313-6,Sindee,Chas,Filippo,New York,Sandeep,MDR,E,Others,Valid,Adhered,,
+5,COM,963201178-3,Ingram,Ryon,Tawnya,Sydney,Shiva,RR,E,Ours,Valid,Adhered,,
+3,COM,464873506-4,Klemens,Ole,Lorenza,New York,Saugata,PM,C,Ours,Invalid,Deviated,IMPACT2,489 Village Alley
+5,CA,058344749-X,Brianna,Harv,Stormie,Sydney,Apoorv,MDR,V,Ours,Invalid,Deviated,IMPACT2,554 Del Mar Place
+2,COM,351844415-8,Marlane,Dicky,Eugenia,New York,Shiva,WMS,V,Ours,Valid,Adhered,,
+2,COM,170230400-0,Kirbee,Chas,Filippo,New York,Ruturaj,NC,C,Others,Invalid,Deviated,IMPACT5,59 Spohn Center
+4,COM,658106584-6,Lorinda,Marja,Theodosia,Pune,Nagaraju,PM,E,Ours,Invalid,Deviated,IMPACT4,704 Hooker Plaza
+4,COM,881915432-3,Bibby,Sanson,Suzanna,Pune,Nagaraju,PM,V,Ours,Invalid,Deviated,IMPACT5,923 Hazelcrest Avenue
+2,COM,825437176-8,Jilly,Marja,Theodosia,Pune,Priyanka,DNR,C,Ours,Invalid,Deviated,IMPACT3,2146 Hollow Ridge Parkway
+1,COM,520892467-6,Emiline,Winnie,Sandye,Pune,Divya,PM,E,Ours,Invalid,Deviated,IMPACT2,7480 Schlimgen Park
+4,COM,344680782-9,Collen,Nicolea,Lorenza,New York,Apoorv,RR,E,Ours,Invalid,Deviated,IMPACT3,1105 Bowman Trail
+1,COM,456914335-0,Tobi,Rosetta,Rozalie,Pune,Himabindu,IM,E,Ours,Valid,Adhered,,
+5,COM,886540432-9,Zedekiah,Gardiner,Stormie,Pune,Saugata,NC,C,Ours,Invalid,Deviated,IMPACT1,64415 Vermont Court
+1,COM,100163837-9,Petey,Sterne,Theodosia,New York,Nagaraju,PM,E,Ours,Invalid,Deviated,IMPACT3,1 Hintze Hill
+4,COM,664295336-3,Dorey,Danny,Sonja,Pune,Divya,RR,C,Others,Valid,Adhered,,
+4,COM,662149156-5,Mitch,Tuckie,Phil,Pune,Divya,NC,C,Ours,Valid,Adhered,,
+4,COM,569561472-4,Vasili,Janith,Alec,Pune,Apoorv,MDR,V,Ours,Valid,Adhered,,
+1,CA,168449793-0,Shirley,Carmita,Philbert,Sydney,Ruturaj,IM,C,Ours,Invalid,Deviated,IMPACT3,4 Prairie Rose Hill
+2,COM,739008259-3,Alfreda,Fancy,Lutero,Pune,Divya,DNR,C,Ours,Valid,Adhered,,
+3,COM,095590154-5,Karoly,Codee,Martguerita,New York,Nagaraju,NC,V,Ours,Invalid,Deviated,IMPACT1,923 Hazelcrest Avenue
+4,COM,424517223-1,Urbano,Gardiner,Stormie,Pune,Apoorv,DNR,V,Ours,Valid,Adhered,,
+1,COM,074314375-2,Gardy,Corrie,Martguerita,New York,Ruturaj,IM,E,Ours,Invalid,Deviated,IMPACT1,3 American Trail
+2,COM,738484076-7,Germayne,Agathe,Sonja,Pune,Saugata,DNR,V,Others,Valid,Adhered,,
+1,COM,187292681-9,Fania,Tony,Stormie,Pune,Himabindu,IM,C,Ours,Invalid,Deviated,IMPACT5,304 Golf Course Circle
+3,COM,089851941-1,Tyson,Chas,Filippo,New York,Nagaraju,NC,C,Ours,Invalid,Deviated,IMPACT1,25 Messerschmidt Avenue
+4,COM,550856836-0,Sela,Dew,Darnell,New York,Priyanka,MDR,V,Ours,Invalid,Deviated,IMPACT5,60590 Riverside Plaza
+4,COM,033958987-6,Cordie,Fancy,Lutero,Pune,Saugata,IM,E,Ours,Invalid,Deviated,IMPACT1,58 Crowley Court
+4,COM,092324557-X,Alessandra,Ole,Lorenza,New York,Suruchi,WMS,E,Ours,Valid,Adhered,,
+1,COM,565390769-3,Colas,Marja,Theodosia,Pune,Nagaraju,PM,E,Ours,Invalid,Deviated,IMPACT4,923 Hazelcrest Avenue
+4,COM,748187936-2,Christina,Corrie,Martguerita,New York,Nagaraju,WMS,C,Ours,Invalid,Deviated,IMPACT4,1972 Scott Pass
+3,COM,003133925-5,Rodrigo,Durant,Malinda,London,Apoorv,RR,C,Ours,Invalid,Deviated,IMPACT2,1972 Scott Pass
+5,CA,509756253-4,Niles,Ole,Lorenza,New York,Saugata,IM,C,Ours,Valid,Adhered,,
+3,COM,053678656-9,Sonnnie,Devinne,Theodosia,Pune,Nagaraju,RR,V,Ours,Invalid,Deviated,IMPACT4,62928 Sugar Circle
+3,COM,442781763-7,Manya,Antonin,Martguerita,Pune,Ruturaj,IM,V,Ours,Invalid,Deviated,IMPACT2,84 Golf Course Crossing
+3,COM,580885249-8,Granger,Marja,Theodosia,Pune,Priyanka,WMS,V,Ours,Valid,Adhered,,
+1,COM,007570187-1,Althea,Clementina,Filippo,Pune,Ruturaj,DNR,E,Ours,Valid,Adhered,,
+5,COM,125746396-9,Kyrstin,Codee,Martguerita,New York,Priyanka,DNR,E,Ours,Valid,Adhered,,
+1,COM,305160464-X,Giles,Codee,Martguerita,New York,Nagaraju,MDR,E,Ours,Invalid,Deviated,IMPACT1,3 American Trail
+1,COM,765935941-X,Theodosia,Clemente,Axe,London,Suruchi,DNR,V,Ours,Invalid,Deviated,IMPACT5,1972 Scott Pass
+2,COM,503810549-1,Barby,Tuckie,Phil,Pune,Apoorv,MDR,V,Ours,Invalid,Deviated,IMPACT3,80236 Manitowish Court
+2,COM,386283315-1,Correy,Tony,Stormie,Pune,Suruchi,IM,V,Ours,Invalid,Deviated,IMPACT1,124 Independence Hill
+5,COM,236938202-3,Kordula,Caryl,Filippo,New York,Ruturaj,PM,E,Ours,Valid,Adhered,,
+4,COM,903137491-1,Konstanze,Brigitta,Ardelia,Sydney,Nagaraju,IM,V,Ours,Invalid,Deviated,IMPACT5,78 Prentice Circle
+4,COM,272614710-0,Thomasine,Ame,Rozalie,Pune,Saugata,RR,C,Ours,Invalid,Deviated,IMPACT5,108 Florence Junction
+4,COM,211404003-8,Stephannie,Caryl,Filippo,New York,Ruturaj,NC,C,Ours,Valid,Adhered,,
+4,COM,129572202-X,Joel,Tuckie,Phil,Pune,Himabindu,WMS,C,Others,Invalid,Deviated,IMPACT5,00 Mayfield Lane
+1,COM,501964535-4,Jasmina,Malcolm,Eugenia,New York,Shiva,MDR,C,Ours,Valid,Adhered,,
+4,COM,118718599-X,Inge,Valma,Betsey,Sydney,Saugata,RR,V,Ours,Valid,Adhered,,
+3,COM,048404705-1,Kettie,Normand,Axe,Pune,Apoorv,PM,V,Ours,Valid,Adhered,,
+1,COM,776389490-3,Douglass,Clemente,Axe,London,Apoorv,MDR,C,Ours,Invalid,Deviated,IMPACT3,923 Hazelcrest Avenue
+1,COM,989108442-6,Charlena,Zaneta,Philbert,Pune,Ruturaj,WMS,E,Ours,Invalid,Deviated,IMPACT5,41488 Hollow Ridge Plaza
+4,COM,500750232-4,Bond,Ives,Philbert,Pune,Sandeep,WMS,E,Ours,Valid,Adhered,,
+3,COM,674564451-7,Bram,Ives,Philbert,Pune,Shiva,NC,C,Ours,Invalid,Deviated,IMPACT4,65 Surrey Terrace
+1,COM,383883150-0,Rozalie,Harmonia,Alejandrina,Pune,Shiva,WMS,C,Ours,Invalid,Deviated,IMPACT1,7688 Mayer Way
+3,COM,420176164-9,Eben,Antone,Philbert,Pune,Ruturaj,PM,E,Others,Invalid,Deviated,IMPACT1,1972 Scott Pass
+1,COM,216950365-X,Robby,Sanson,Suzanna,Pune,Sandeep,PM,C,Ours,Valid,Adhered,,
+1,COM,738652015-8,Hildegaard,Jemmy,Tatiana,Sydney,Suruchi,WMS,E,Ours,Valid,Adhered,,
+2,COM,901420292-X,Philomena,Ole,Lorenza,New York,Saugata,IM,E,Ours,Valid,Adhered,,
+1,COM,221697610-5,Tome,Henrieta,Berthe,Pune,Apoorv,MDR,C,Ours,Invalid,Deviated,IMPACT2,74 Westport Terrace
+2,COM,499934980-9,Fin,Damiano,Alejandrina,Sydney,Sandeep,NC,C,Ours,Invalid,Deviated,IMPACT5,1972 Scott Pass
+2,COM,921176198-0,Lexy,Henrieta,Berthe,Pune,Suruchi,NC,E,Others,Valid,Adhered,,
+4,COM,449312065-7,Inez,Garrik,Ardelia,Pune,Ruturaj,RR,V,Ours,Invalid,Deviated,IMPACT1,23176 Jenna Lane
+4,COM,069051215-5,Alfie,Danny,Sonja,Pune,Apoorv,IM,V,Ours,Valid,Adhered,,
+2,COM,968162360-6,Penelope,Brittne,Nevile,Pune,Shiva,DNR,E,Ours,Valid,Adhered,,
+3,COM,309368545-1,Tanya,Janith,Alec,Pune,Apoorv,IM,C,Ours,Valid,Adhered,,
+4,COM,584255003-2,Kitti,Marja,Theodosia,Pune,Nagaraju,IM,C,Others,Valid,Adhered,,
+4,COM,830177230-1,Cyndie,Malcolm,Eugenia,New York,Nagaraju,WMS,E,Ours,Invalid,Deviated,IMPACT2,00 Mayfield Lane
+1,COM,304774589-7,Simonette,Zaneta,Philbert,Pune,Nagaraju,WMS,C,Ours,Invalid,Deviated,IMPACT3,1 Hintze Hill
+5,COM,232067026-2,Andra,Jeramey,Filippo,New York,Priyanka,PM,E,Ours,Valid,Adhered,,
+3,COM,105582517-7,Kirsten,Durant,Malinda,London,Divya,PM,E,Ours,Valid,Adhered,,
+2,COM,195262685-4,Baillie,Raynard,Tatiana,Pune,Himabindu,WMS,E,Ours,Valid,Adhered,,
+4,COM,851574861-4,Matias,Beryle,Lorenza,New York,Saugata,PM,E,Ours,Invalid,Deviated,IMPACT3,4 Scofield Pass
+2,COM,886960151-X,Farra,Brietta,Sonja,London,Himabindu,WMS,V,Ours,Valid,Adhered,,
+4,COM,404001826-5,Nora,Danny,Sonja,Pune,Apoorv,DNR,C,Ours,Valid,Adhered,,
+1,CA,457500872-9,Elfrieda,Janith,Alec,Pune,Apoorv,PM,E,Ours,Valid,Adhered,,
+2,COM,417601156-4,Dyan,Edwin,Philbert,New York,Priyanka,MDR,E,Ours,Valid,Adhered,,
+4,COM,096098120-9,Danya,Fancy,Lutero,Pune,Divya,WMS,V,Ours,Invalid,Deviated,IMPACT1,1972 Scott Pass
+3,COM,833956879-5,Micheil,Antone,Philbert,Pune,Nagaraju,MDR,V,Ours,Invalid,Deviated,IMPACT1,24 La Follette Street
+3,COM,906408881-0,Emmett,Harrison,Liz,London,Suruchi,PM,C,Ours,Valid,Adhered,,
+2,COM,281524201-X,Arleyne,Ryon,Tawnya,Sydney,Ruturaj,RR,E,Ours,Invalid,Deviated,IMPACT3,3 American Trail
+2,COM,633697520-7,Maible,Jeramey,Filippo,New York,Sandeep,WMS,E,Ours,Invalid,Deviated,IMPACT3,4736 1st Parkway
+3,COM,188381408-1,Sherwin,Harrison,Liz,London,Saugata,WMS,C,Ours,Invalid,Deviated,IMPACT4,923 Hazelcrest Avenue
+3,COM,998550314-7,Dionis,Tuckie,Phil,Pune,Divya,NC,C,Ours,Invalid,Deviated,IMPACT2,127 Golf Pass
+5,COM,676892674-8,Gherardo,Harrison,Liz,London,Saugata,MDR,V,Ours,Invalid,Deviated,IMPACT5,6679 Macpherson Place
+3,COM,584412918-0,Wald,Normand,Axe,Pune,Saugata,PM,C,Ours,Invalid,Deviated,IMPACT3,1 Hintze Hill
+2,COM,415688960-2,Gretta,Sanson,Suzanna,Pune,Nagaraju,NC,E,Ours,Invalid,Deviated,IMPACT2,83396 Morrow Alley
+3,COM,692530541-9,Fonz,Brodie,Janna,Pune,Shiva,WMS,V,Ours,Invalid,Deviated,IMPACT2,923 Hazelcrest Avenue
+1,CA,665059364-8,Weber,Dicky,Eugenia,New York,Ruturaj,NC,C,Ours,Valid,Adhered,,
+2,COM,660895099-3,Zondra,Normand,Axe,Pune,Apoorv,IM,E,Ours,Invalid,Deviated,IMPACT2,704 Hooker Plaza
+5,COM,386683903-0,Valle,Ame,Rozalie,Pune,Suruchi,DNR,C,Ours,Invalid,Deviated,IMPACT1,1 Hintze Hill
+1,COM,693189856-6,Joanne,Ame,Rozalie,Pune,Suruchi,DNR,V,Ours,Invalid,Deviated,IMPACT3,00 Mayfield Lane
+5,CA,453380270-2,Vince,Jeramey,Filippo,New York,Nagaraju,IM,C,Ours,Invalid,Deviated,IMPACT3,579 Farmco Hill
+4,COM,913390638-6,Gavra,Dew,Darnell,New York,Sandeep,IM,C,Ours,Invalid,Deviated,IMPACT4,1972 Scott Pass
+2,COM,539197252-3,Constantine,Devinne,Theodosia,Pune,Ruturaj,NC,V,Ours,Valid,Adhered,,
+3,COM,025052989-0,Hersh,Sanson,Suzanna,Pune,Priyanka,RR,C,Ours,Invalid,Deviated,IMPACT2,923 Hazelcrest Avenue
+3,COM,775093454-5,Chucho,Winnie,Sandye,Pune,Apoorv,WMS,E,Ours,Invalid,Deviated,IMPACT2,5 Bashford Circle
+3,CA,222425442-3,Nico,Sterne,Theodosia,New York,Nagaraju,RR,E,Ours,Valid,Adhered,,
+3,COM,059313430-3,Zebulen,Dew,Darnell,New York,Priyanka,NC,E,Others,Invalid,Deviated,IMPACT2,3400 Mariners Cove Court
+3,COM,321180933-3,Robert,Tony,Stormie,Pune,Saugata,PM,E,Ours,Invalid,Deviated,IMPACT4,33999 Oneill Park
+1,COM,097832489-7,Ciro,Tony,Stormie,Pune,Himabindu,PM,E,Ours,Invalid,Deviated,IMPACT2,00 Mayfield Lane
+2,COM,800648216-0,Maia,Clemente,Axe,London,Divya,NC,C,Ours,Valid,Adhered,,
+2,COM,839110632-2,Scotty,Gardiner,Stormie,Pune,Apoorv,WMS,C,Ours,Invalid,Deviated,IMPACT5,60645 Sunbrook Drive
+3,COM,038066252-3,Ravid,Lexi,Stormie,Pune,Suruchi,IM,V,Ours,Invalid,Deviated,IMPACT5,00 Mayfield Lane
+4,COM,610734636-8,Gabbie,Mathias,Berthe,Pune,Saugata,IM,V,Ours,Invalid,Deviated,IMPACT3,3 American Trail
+1,COM,025426878-1,Felix,Damiano,Alejandrina,Sydney,Sandeep,PM,E,Ours,Invalid,Deviated,IMPACT4,00 Mayfield Lane
+4,COM,153707813-5,Mackenzie,Sterne,Theodosia,New York,Shiva,IM,E,Ours,Valid,Adhered,,
+3,COM,104373064-8,Rand,Augusta,Betsey,Sydney,Suruchi,MDR,C,Ours,Invalid,Deviated,IMPACT1,4 Mockingbird Way
+4,COM,996263131-9,Tildie,Harmonia,Alejandrina,Pune,Shiva,MDR,V,Ours,Invalid,Deviated,IMPACT4,4327 Mesta Terrace
+5,COM,105209657-3,Erin,Ryon,Tawnya,Sydney,Shiva,NC,V,Ours,Invalid,Deviated,IMPACT4,1972 Scott Pass
+2,COM,238579895-6,Conway,Meghan,Rip,Pune,Ruturaj,NC,C,Others,Valid,Adhered,,
+3,COM,200029849-4,Janos,Chas,Filippo,New York,Shiva,RR,V,Ours,Valid,Adhered,,
+2,COM,842341938-X,Aldric,Kirby,Alec,Sydney,Apoorv,IM,E,Ours,Invalid,Deviated,IMPACT1,1 Hintze Hill
+4,COM,175939990-6,Amandie,Ives,Philbert,Pune,Sandeep,RR,V,Ours,Invalid,Deviated,IMPACT1,690 Hazelcrest Point
+3,COM,736031369-4,Charleen,Chas,Filippo,New York,Priyanka,WMS,C,Ours,Valid,Adhered,,
+2,COM,562050076-4,Chadd,Corrie,Martguerita,New York,Shiva,MDR,V,Ours,Invalid,Deviated,IMPACT2,53904 Almo Alley
+1,COM,385309158-X,Emelyne,Clemente,Axe,London,Apoorv,PM,C,Ours,Invalid,Deviated,IMPACT3,7 Montana Trail
+1,COM,801867747-6,Amity,Clementina,Filippo,Pune,Sandeep,RR,C,Ours,Invalid,Deviated,IMPACT1,3 American Trail
+4,COM,638306446-0,Guillemette,Maddie,Ardelia,Pune,Ruturaj,RR,E,Others,Invalid,Deviated,IMPACT1,37188 Karstens Pass
+3,COM,311766818-7,Wilbur,Fancy,Lutero,Pune,Suruchi,DNR,C,Ours,Invalid,Deviated,IMPACT2,6 Spaight Avenue
+5,COM,216606157-5,Maxine,Brietta,Sonja,London,Apoorv,IM,V,Ours,Invalid,Deviated,IMPACT1,30 East Pass
+4,COM,023329616-6,Giacobo,Sterne,Theodosia,New York,Priyanka,MDR,C,Ours,Valid,Adhered,,
+3,COM,391507795-X,Maurise,Beryle,Lorenza,New York,Saugata,DNR,E,Ours,Invalid,Deviated,IMPACT3,1 Hintze Hill
+4,COM,264919520-7,Pernell,Janith,Alec,Pune,Himabindu,RR,C,Ours,Valid,Adhered,,
+2,COM,169656738-6,Miguelita,Ole,Lorenza,New York,Himabindu,NC,E,Ours,Invalid,Deviated,IMPACT5,6 Heffernan Lane
+1,COM,394384563-X,Myrtie,Normand,Axe,Pune,Saugata,NC,E,Ours,Invalid,Deviated,IMPACT3,7 Lake View Center
+2,COM,656677691-5,Aindrea,Hestia,Axe,Pune,Suruchi,IM,V,Ours,Valid,Adhered,,
+2,COM,633739896-3,Sandy,Shantee,Sonja,Pune,Divya,PM,V,Ours,Invalid,Deviated,IMPACT3,46 Moose Alley
+4,COM,328318275-2,Gale,Caryl,Filippo,New York,Priyanka,MDR,E,Ours,Invalid,Deviated,IMPACT2,3 American Trail
+1,COM,325492990-X,Caitlin,Candra,Eugenia,London,Ruturaj,MDR,C,Ours,Invalid,Deviated,IMPACT3,66 Quincy Avenue
+4,COM,952099844-6,Sonnie,Corrie,Martguerita,New York,Ruturaj,WMS,E,Others,Invalid,Deviated,IMPACT4,6 Coolidge Hill
+4,COM,687661906-0,Gary,Jemmy,Tatiana,Sydney,Himabindu,WMS,E,Ours,Invalid,Deviated,IMPACT4,1105 Bowman Trail
+1,COM,275769062-0,Anselma,Corrie,Martguerita,New York,Priyanka,PM,E,Ours,Invalid,Deviated,IMPACT4,546 Fisk Place
+4,COM,195449168-9,Celisse,Chas,Filippo,New York,Shiva,IM,C,Ours,Invalid,Deviated,IMPACT4,138 Cherokee Junction
+3,COM,572685582-5,Jeannette,Sterne,Theodosia,New York,Priyanka,MDR,C,Ours,Invalid,Deviated,IMPACT4,4736 1st Parkway
+1,COM,357979674-7,Selia,Durant,Malinda,London,Saugata,RR,V,Ours,Invalid,Deviated,IMPACT2,25 Forster Drive
+4,COM,075147797-4,Ezri,Lexi,Stormie,Pune,Suruchi,IM,V,Ours,Invalid,Deviated,IMPACT3,5 Wayridge Way
+4,COM,293610376-2,Gaston,Osbourne,Alastair,Sydney,Ruturaj,MDR,C,Ours,Valid,Adhered,,
+2,COM,127841586-6,Giacinta,Ryon,Tawnya,Sydney,Sandeep,IM,V,Ours,Invalid,Deviated,IMPACT5,1972 Scott Pass
+4,COM,679114765-2,Mercedes,Valma,Betsey,Sydney,Divya,WMS,E,Ours,Valid,Adhered,,
+4,COM,850029845-6,Dallon,Shayne,Alec,London,Apoorv,WMS,E,Ours,Invalid,Deviated,IMPACT1,7 Schmedeman Circle
+3,COM,730354761-4,Conan,Rosetta,Rozalie,Pune,Divya,RR,C,Ours,Valid,Adhered,,
+3,CA,921238201-0,Christina,Fancy,Lutero,Pune,Apoorv,IM,C,Ours,Valid,Adhered,,
+2,COM,816705872-7,Gauthier,Lexi,Stormie,Pune,Suruchi,DNR,V,Others,Valid,Adhered,,
+3,COM,856593098-X,Desi,Jemmy,Tatiana,Sydney,Himabindu,PM,C,Ours,Invalid,Deviated,IMPACT1,824 Waubesa Court
+4,COM,131981116-7,Brantley,Sterne,Theodosia,New York,Shiva,WMS,C,Ours,Invalid,Deviated,IMPACT3,814 Prentice Center
+4,COM,111497965-1,Tobi,Osbourne,Alastair,Sydney,Priyanka,PM,V,Ours,Invalid,Deviated,IMPACT3,1 Hintze Hill
+3,COM,780161064-4,Kellsie,Ryon,Tawnya,Sydney,Priyanka,IM,C,Ours,Invalid,Deviated,IMPACT2,4 Doe Crossing Street
+4,COM,765747447-5,Colby,Winnie,Sandye,Pune,Suruchi,WMS,E,Ours,Invalid,Deviated,IMPACT3,1 Hintze Hill
+1,COM,116789092-2,Miran,Damiano,Alejandrina,Sydney,Ruturaj,RR,C,Others,Invalid,Deviated,IMPACT5,2966 Buhler Pass
+5,COM,238529474-5,Winnah,Ives,Philbert,Pune,Nagaraju,WMS,C,Ours,Invalid,Deviated,IMPACT2,00 Mayfield Lane
+1,COM,707279148-5,Caty,Clementina,Filippo,Pune,Ruturaj,NC,E,Others,Valid,Adhered,,
+1,COM,934184141-0,Fawnia,Chas,Filippo,New York,Sandeep,PM,C,Ours,Invalid,Deviated,IMPACT2,875 Declaration Avenue
+1,COM,931334308-8,Sanders,Edwin,Philbert,New York,Shiva,PM,E,Ours,Invalid,Deviated,IMPACT2,00 Mayfield Lane
+1,COM,869192265-6,Josiah,Kirby,Alec,Sydney,Himabindu,RR,E,Ours,Valid,Adhered,,
+3,COM,762651606-0,Win,Brietta,Sonja,London,Apoorv,DNR,E,Ours,Valid,Adhered,,
+4,COM,287727687-2,Monah,Maddie,Ardelia,Pune,Ruturaj,IM,C,Ours,Invalid,Deviated,IMPACT5,62040 Killdeer Junction
+1,COM,983779152-7,Morey,Kirby,Alec,Sydney,Himabindu,PM,C,Ours,Valid,Adhered,,
+1,CA,633542549-1,Patricio,Ara,Carlina,New York,Saugata,WMS,C,Ours,Valid,Adhered,,
+1,COM,718212081-X,Craig,Ole,Lorenza,New York,Himabindu,IM,C,Ours,Invalid,Deviated,IMPACT4,1 Hintze Hill
+1,COM,539438446-0,Kerry,Jemmy,Tatiana,Sydney,Divya,PM,V,Ours,Invalid,Deviated,IMPACT1,75 Chinook Point
+3,COM,194580449-1,Olva,Hestia,Axe,Pune,Himabindu,WMS,C,Others,Invalid,Deviated,IMPACT2,39 Thackeray Park
+2,COM,312596169-6,Morgan,Osbourne,Alastair,Sydney,Priyanka,WMS,C,Ours,Invalid,Deviated,IMPACT3,00 Mayfield Lane
+4,COM,400213932-8,Janifer,Shantee,Sonja,Pune,Himabindu,MDR,C,Ours,Valid,Adhered,,
+4,COM,195143393-9,Grace,Mathias,Berthe,Pune,Saugata,PM,V,Ours,Invalid,Deviated,IMPACT3,1972 Scott Pass
+4,COM,130581038-4,Ganny,Kirby,Alec,Sydney,Divya,WMS,E,Ours,Invalid,Deviated,IMPACT3,3407 American Ash Plaza
+2,CA,185876626-5,Kanya,Clemente,Axe,London,Apoorv,PM,V,Others,Valid,Adhered,,
+3,COM,609862078-4,Merle,Brodie,Janna,Pune,Ruturaj,RR,V,Ours,Valid,Adhered,,
+3,COM,454250585-5,Mayer,Shantee,Sonja,Pune,Himabindu,PM,C,Ours,Invalid,Deviated,IMPACT2,4079 Kingsford Center
+4,CA,103199394-0,Bertie,Ole,Lorenza,New York,Apoorv,WMS,C,Others,Valid,Adhered,,
+5,COM,647823695-1,Martelle,Harv,Stormie,Sydney,Saugata,RR,V,Ours,Valid,Adhered,,
+5,COM,260002142-6,Gordy,Devinne,Theodosia,Pune,Shiva,MDR,E,Ours,Valid,Adhered,,
+4,COM,875558841-7,Camala,Codee,Martguerita,New York,Shiva,DNR,V,Ours,Valid,Adhered,,
+1,COM,590727156-6,Elwin,Danny,Sonja,Pune,Suruchi,RR,V,Ours,Invalid,Deviated,IMPACT2,6528 Anhalt Parkway
+4,COM,009261238-5,Yasmeen,Winnie,Sandye,Pune,Saugata,IM,V,Ours,Invalid,Deviated,IMPACT2,00 Mayfield Lane
+5,COM,722061536-1,Rikki,Mathias,Berthe,Pune,Divya,MDR,V,Ours,Invalid,Deviated,IMPACT4,41568 Doe Crossing Junction
+3,COM,728092473-5,Ilsa,Hestia,Axe,Pune,Saugata,DNR,C,Ours,Valid,Adhered,,
+4,COM,832579435-6,Allistir,Janith,Alec,Pune,Suruchi,DNR,V,Ours,Invalid,Deviated,IMPACT4,690 Hazelcrest Point
+4,COM,947930229-2,Chauncey,Tuckie,Phil,Pune,Apoorv,NC,V,Ours,Invalid,Deviated,IMPACT1,690 Hazelcrest Point
+5,COM,916043338-8,Meredeth,Janith,Alec,Pune,Saugata,NC,E,Ours,Invalid,Deviated,IMPACT5,1 Hintze Hill
+2,COM,985792848-X,Kathryne,Edwin,Philbert,New York,Priyanka,WMS,E,Ours,Valid,Adhered,,
+4,COM,467206408-5,Edwina,Marja,Theodosia,Pune,Ruturaj,IM,C,Ours,Valid,Adhered,,
+3,COM,728496519-3,Madelina,Durant,Malinda,London,Apoorv,DNR,C,Ours,Valid,Adhered,,
+2,COM,970516764-8,Cecil,Meghan,Rip,Pune,Priyanka,DNR,E,Ours,Invalid,Deviated,IMPACT2,3 American Trail
+3,COM,364954411-3,Cirillo,Harmonia,Alejandrina,Pune,Nagaraju,WMS,C,Ours,Valid,Adhered,,
+4,COM,031927013-0,Babbie,Brittne,Nevile,Pune,Sandeep,WMS,C,Others,Valid,Adhered,,
+1,CA,304761186-6,Winthrop,Brodie,Janna,Pune,Sandeep,WMS,C,Ours,Invalid,Deviated,IMPACT5,00 Mayfield Lane
+1,COM,606669334-4,Valentin,Marja,Theodosia,Pune,Nagaraju,DNR,V,Ours,Invalid,Deviated,IMPACT2,1105 Bowman Trail
+2,COM,721392962-3,Diandra,Gardiner,Stormie,Pune,Suruchi,RR,E,Ours,Valid,Adhered,,
+1,CA,208559008-X,Sonia,Harmonia,Alejandrina,Pune,Nagaraju,DNR,E,Ours,Valid,Adhered,,
+5,COM,737267829-3,Claiborn,Henrieta,Berthe,Pune,Saugata,IM,C,Others,Invalid,Deviated,IMPACT1,923 Hazelcrest Avenue
+3,COM,164381293-9,Dorree,Normand,Axe,Pune,Suruchi,NC,E,Ours,Invalid,Deviated,IMPACT4,8 Clemons Drive
+1,CA,651741753-2,Natividad,Clemente,Axe,London,Divya,PM,C,Others,Invalid,Deviated,IMPACT2,8030 Butternut Crossing
+3,COM,659354129-X,Charla,Caryl,Filippo,New York,Sandeep,NC,E,Ours,Invalid,Deviated,IMPACT5,65 Bellgrove Circle
+2,COM,032083642-8,Neille,Caryl,Filippo,New York,Shiva,MDR,E,Ours,Valid,Adhered,,
+5,COM,764619045-4,Aland,Chas,Filippo,New York,Shiva,RR,C,Ours,Valid,Adhered,,
+2,COM,341929239-2,Malcolm,Agathe,Sonja,Pune,Himabindu,RR,E,Ours,Valid,Adhered,,
+2,COM,659345817-1,Ennis,Brigitta,Ardelia,Sydney,Shiva,IM,E,Ours,Invalid,Deviated,IMPACT1,7 Fairfield Junction
+1,COM,523021865-7,Harriet,Malcolm,Eugenia,New York,Priyanka,WMS,V,Ours,Invalid,Deviated,IMPACT1,86 Fair Oaks Alley
+1,COM,865363450-9,Davin,Meghan,Rip,Pune,Shiva,RR,E,Ours,Valid,Adhered,,
+1,COM,015492101-7,Lock,Harv,Stormie,Sydney,Divya,WMS,E,Ours,Invalid,Deviated,IMPACT2,1972 Scott Pass
+2,COM,210020815-2,Willamina,Brigitta,Ardelia,Sydney,Ruturaj,NC,E,Ours,Valid,Adhered,,
+2,COM,012535367-7,Matilda,Brodie,Janna,Pune,Priyanka,NC,C,Ours,Invalid,Deviated,IMPACT1,7649 Eggendart Hill
+4,COM,474730673-0,Marielle,Augusta,Betsey,Sydney,Himabindu,NC,E,Ours,Invalid,Deviated,IMPACT1,1972 Scott Pass
+1,COM,360758862-7,Tiebold,Ives,Philbert,Pune,Shiva,PM,E,Ours,Invalid,Deviated,IMPACT1,00 Mayfield Lane
+3,COM,587531956-9,Reinhard,Beryle,Lorenza,New York,Apoorv,DNR,C,Ours,Invalid,Deviated,IMPACT3,64938 Gale Trail
+4,COM,630265403-3,Mortie,Brittne,Nevile,Pune,Nagaraju,IM,V,Ours,Valid,Adhered,,
+2,COM,941232138-4,Constantia,Zaneta,Philbert,Pune,Ruturaj,RR,C,Ours,Invalid,Deviated,IMPACT3,923 Hazelcrest Avenue
+2,COM,361888097-9,Ophelia,Brietta,Sonja,London,Apoorv,NC,C,Ours,Valid,Adhered,,
+2,COM,052004768-0,Agnesse,Tuckie,Phil,Pune,Saugata,DNR,V,Ours,Valid,Adhered,,
+5,COM,884086279-X,Mariejeanne,Danny,Sonja,Pune,Divya,RR,V,Ours,Valid,Adhered,,
+2,COM,064634450-1,Eugenia,Antonin,Martguerita,Pune,Ruturaj,NC,C,Ours,Invalid,Deviated,IMPACT4,3 American Trail
+4,COM,478587523-2,Cooper,Corrie,Martguerita,New York,Nagaraju,RR,E,Ours,Valid,Adhered,,
+1,COM,727583257-7,Marcel,Teriann,Rip,Pune,Shiva,RR,E,Ours,Invalid,Deviated,IMPACT4,667 Merrick Lane
+4,COM,025515673-1,Sibbie,Ame,Rozalie,Pune,Saugata,RR,V,Ours,Invalid,Deviated,IMPACT1,65 Graedel Terrace
+1,COM,314601499-8,Zondra,Osbourne,Alastair,Sydney,Shiva,IM,V,Ours,Valid,Adhered,,
+1,COM,955960987-4,Cahra,Ole,Lorenza,New York,Divya,IM,E,Ours,Invalid,Deviated,IMPACT4,875 Declaration Avenue
+2,COM,131191439-0,Terrel,Winnie,Sandye,Pune,Divya,RR,C,Ours,Invalid,Deviated,IMPACT1,1972 Scott Pass
+1,COM,390149329-8,Gerry,Kamila,Stormie,Pune,Apoorv,WMS,V,Ours,Invalid,Deviated,IMPACT4,923 Hazelcrest Avenue
+2,COM,280791533-7,Christoffer,Harrison,Liz,London,Apoorv,DNR,V,Ours,Invalid,Deviated,IMPACT1,00 Mayfield Lane
+2,COM,797891001-6,Lorant,Harmonia,Alejandrina,Pune,Nagaraju,PM,E,Ours,Invalid,Deviated,IMPACT4,7 Oxford Circle
+3,COM,738351783-0,Pansy,Brodie,Janna,Pune,Priyanka,NC,E,Ours,Valid,Adhered,,
+4,COM,824801087-2,Gillian,Meghan,Rip,Pune,Priyanka,MDR,V,Ours,Invalid,Deviated,IMPACT5,7 Bunker Hill Plaza
+4,COM,716632184-9,Donielle,Henrieta,Berthe,Pune,Himabindu,NC,V,Ours,Valid,Adhered,,
+2,COM,723008455-5,Rhys,Raynard,Tatiana,Pune,Apoorv,IM,V,Ours,Invalid,Deviated,IMPACT4,923 Hazelcrest Avenue
+2,COM,785641482-0,Irita,Henrieta,Berthe,Pune,Suruchi,RR,E,Ours,Invalid,Deviated,IMPACT3,267 Almo Way
+2,COM,512852328-4,Nikola,Harmonia,Alejandrina,Pune,Priyanka,MDR,V,Ours,Valid,Adhered,,
+5,COM,045730706-4,Bliss,Edwin,Philbert,New York,Sandeep,DNR,E,Ours,Valid,Adhered,,
+4,COM,311689913-4,Willie,Damiano,Alejandrina,Sydney,Shiva,RR,C,Ours,Invalid,Deviated,IMPACT4,8 Lawn Lane
+4,COM,954388756-X,Gerardo,Brietta,Sonja,London,Divya,RR,E,Ours,Invalid,Deviated,IMPACT1,1 Hintze Hill
+2,COM,846588114-6,Bernardina,Harrison,Liz,London,Divya,RR,V,Ours,Invalid,Deviated,IMPACT2,1 Hintze Hill
+3,COM,564153789-6,Karol,Ives,Philbert,Pune,Sandeep,IM,E,Ours,Valid,Adhered,,
+2,COM,046818400-7,Alidia,Sterne,Theodosia,New York,Ruturaj,NC,V,Ours,Valid,Adhered,,
+3,COM,254882798-4,Townsend,Tony,Stormie,Pune,Divya,MDR,E,Ours,Invalid,Deviated,IMPACT1,923 Hazelcrest Avenue
+5,COM,350358993-7,Hercule,Ole,Lorenza,New York,Divya,RR,E,Ours,Invalid,Deviated,IMPACT2,2668 Talisman Place
+1,COM,306610718-3,Frederigo,Winnie,Sandye,Pune,Saugata,DNR,E,Ours,Valid,Adhered,,
+3,COM,788551756-X,Antonina,Brodie,Janna,Pune,Shiva,MDR,V,Ours,Invalid,Deviated,IMPACT5,1 Hintze Hill
+2,COM,839052438-4,Christen,Antonin,Martguerita,Pune,Sandeep,MDR,C,Ours,Invalid,Deviated,IMPACT3,3 American Trail
+5,COM,274587214-1,Noelle,Marja,Theodosia,Pune,Shiva,MDR,C,Ours,Invalid,Deviated,IMPACT4,54 Vahlen Drive
+1,COM,839664022-X,Nixie,Shayne,Alec,London,Divya,NC,E,Others,Invalid,Deviated,IMPACT4,00 Mayfield Lane
+1,CA,981539384-7,Edy,Valma,Betsey,Sydney,Suruchi,NC,C,Ours,Invalid,Deviated,IMPACT3,3 American Trail
+1,COM,089974465-6,Sybilla,Devinne,Theodosia,Pune,Priyanka,IM,C,Ours,Valid,Adhered,,
+2,CA,581756599-4,Mikel,Mathias,Berthe,Pune,Saugata,PM,E,Ours,Valid,Adhered,,
+3,COM,765123162-7,Palmer,Jeramey,Filippo,New York,Ruturaj,DNR,C,Ours,Valid,Adhered,,
+1,CA,771796792-8,Jacquie,Brittne,Nevile,Pune,Priyanka,IM,V,Others,Invalid,Deviated,IMPACT1,690 Hazelcrest Point
+2,COM,712982353-4,Harriot,Mathias,Berthe,Pune,Suruchi,WMS,E,Ours,Invalid,Deviated,IMPACT5,1 Hintze Hill
+3,COM,191321298-X,Parnell,Shantee,Sonja,Pune,Apoorv,IM,C,Ours,Invalid,Deviated,IMPACT1,923 Hazelcrest Avenue
+3,COM,126350370-5,Olin,Marja,Theodosia,Pune,Shiva,NC,E,Ours,Invalid,Deviated,IMPACT4,1972 Scott Pass
+4,CA,069425775-3,Bibby,Mathias,Berthe,Pune,Suruchi,RR,E,Ours,Valid,Adhered,,
+4,COM,917642130-9,Catarina,Caryl,Filippo,New York,Ruturaj,RR,E,Ours,Invalid,Deviated,IMPACT3,923 Hazelcrest Avenue
+1,COM,784486475-3,Micki,Clemente,Axe,London,Saugata,RR,V,Ours,Valid,Adhered,,
+1,COM,424414728-4,Abie,Harrison,Liz,London,Suruchi,RR,C,Ours,Valid,Adhered,,
+4,COM,514565031-0,Karrie,Henrieta,Berthe,Pune,Divya,NC,C,Ours,Valid,Adhered,,
+2,COM,135765487-1,Ailene,Ara,Carlina,New York,Divya,MDR,V,Ours,Invalid,Deviated,IMPACT1,3 American Trail
+3,COM,096763430-X,Ilsa,Kirby,Alec,Sydney,Suruchi,WMS,E,Ours,Valid,Adhered,,
+4,COM,722724623-X,Sascha,Ives,Philbert,Pune,Shiva,RR,V,Ours,Invalid,Deviated,IMPACT4,923 Hazelcrest Avenue
+4,COM,375748944-6,Etti,Dicky,Eugenia,New York,Priyanka,DNR,V,Ours,Invalid,Deviated,IMPACT1,923 Hazelcrest Avenue
+1,COM,994549144-X,Andromache,Mathias,Berthe,Pune,Saugata,IM,E,Ours,Invalid,Deviated,IMPACT4,266 Sunbrook Parkway
+4,CA,734374477-1,Aundrea,Malcolm,Eugenia,New York,Nagaraju,MDR,C,Ours,Valid,Adhered,,
+1,COM,847990806-8,Lou,Raynard,Tatiana,Pune,Himabindu,IM,V,Ours,Invalid,Deviated,IMPACT2,00 Mayfield Lane
+2,COM,154560818-0,Barde,Maddie,Ardelia,Pune,Shiva,PM,V,Ours,Invalid,Deviated,IMPACT5,24 Corry Point
+4,COM,564711763-5,Tiffanie,Antonin,Martguerita,Pune,Sandeep,WMS,E,Ours,Invalid,Deviated,IMPACT3,8 Amoth Park
+2,COM,155931097-9,Alix,Brigitta,Ardelia,Sydney,Shiva,RR,V,Ours,Valid,Adhered,,
+1,COM,542871692-4,Ann-marie,Valma,Betsey,Sydney,Apoorv,IM,E,Ours,Invalid,Deviated,IMPACT5,923 Hazelcrest Avenue
+5,COM,812373216-3,Van,Osbourne,Alastair,Sydney,Sandeep,IM,C,Ours,Valid,Adhered,,
+2,COM,647238271-9,Baryram,Caryl,Filippo,New York,Nagaraju,NC,E,Others,Invalid,Deviated,IMPACT1,1 Hintze Hill
+3,COM,057266914-3,Arvie,Carmita,Philbert,Sydney,Nagaraju,NC,C,Ours,Invalid,Deviated,IMPACT2,1 Hintze Hill
+2,COM,800256972-5,Tobias,Fancy,Lutero,Pune,Suruchi,MDR,C,Ours,Invalid,Deviated,IMPACT1,209 Macpherson Place
+3,COM,059054104-8,Nessie,Augusta,Betsey,Sydney,Saugata,MDR,V,Ours,Invalid,Deviated,IMPACT5,77 Barnett Point
+2,COM,837049818-3,Zuzana,Lexi,Stormie,Pune,Himabindu,PM,C,Ours,Invalid,Deviated,IMPACT3,6 Hoepker Point
+3,COM,197795155-4,Hilda,Normand,Axe,Pune,Saugata,MDR,C,Ours,Valid,Adhered,,
+2,COM,911833083-5,Gal,Marja,Theodosia,Pune,Priyanka,NC,V,Ours,Invalid,Deviated,IMPACT1,5 Lakewood Lane
+3,COM,777870476-5,Jillana,Tony,Stormie,Pune,Saugata,WMS,E,Ours,Valid,Adhered,,
+2,COM,111515103-7,Matelda,Danny,Sonja,Pune,Suruchi,NC,C,Ours,Invalid,Deviated,IMPACT2,64358 Harbort Street
+4,COM,617037683-X,Cornie,Dew,Darnell,New York,Ruturaj,IM,C,Ours,Valid,Adhered,,
+1,COM,471214323-1,Bibby,Ole,Lorenza,New York,Himabindu,NC,V,Ours,Invalid,Deviated,IMPACT2,37188 Karstens Pass
+4,COM,691356603-4,Lalo,Damiano,Alejandrina,Sydney,Ruturaj,RR,V,Ours,Invalid,Deviated,IMPACT1,7 Victoria Park
+3,COM,912232864-5,Pieter,Antone,Philbert,Pune,Ruturaj,MDR,V,Ours,Valid,Adhered,,
+4,COM,028080772-4,Anjela,Harrison,Liz,London,Apoorv,DNR,E,Ours,Valid,Adhered,,
+3,COM,066429436-7,Giacobo,Antonin,Martguerita,Pune,Nagaraju,DNR,C,Ours,Valid,Adhered,,
+1,COM,746940269-1,Arnuad,Harrison,Liz,London,Himabindu,NC,V,Others,Valid,Adhered,,
+4,COM,972887948-2,Livvie,Ame,Rozalie,Pune,Himabindu,RR,V,Ours,Valid,Adhered,,
+1,COM,788534688-9,Wenonah,Tuckie,Phil,Pune,Himabindu,IM,V,Ours,Invalid,Deviated,IMPACT2,00 Mayfield Lane
+4,COM,479392443-3,Debor,Tuckie,Phil,Pune,Suruchi,WMS,C,Ours,Invalid,Deviated,IMPACT5,1 Hintze Hill
+4,COM,231709915-0,Lorrie,Teriann,Rip,Pune,Ruturaj,RR,V,Ours,Invalid,Deviated,IMPACT4,30 Messerschmidt Terrace
+1,COM,902851615-8,Madelene,Winnie,Sandye,Pune,Divya,DNR,C,Ours,Valid,Adhered,,
+2,COM,777147734-8,Junina,Teriann,Rip,Pune,Sandeep,MDR,C,Ours,Valid,Adhered,,
+1,COM,249886908-5,Teddi,Tuckie,Phil,Pune,Apoorv,NC,V,Others,Invalid,Deviated,IMPACT3,8 Dahle Plaza
+2,COM,730451171-0,Milly,Brodie,Janna,Pune,Nagaraju,DNR,E,Ours,Valid,Adhered,,
+3,COM,795471526-4,Kelley,Harrison,Liz,London,Himabindu,IM,E,Ours,Invalid,Deviated,IMPACT1,14 New Castle Place
+4,COM,786591031-2,Immanuel,Corrie,Martguerita,New York,Shiva,RR,C,Ours,Valid,Adhered,,
+1,COM,651613541-X,Darlleen,Danny,Sonja,Pune,Apoorv,IM,V,Ours,Invalid,Deviated,IMPACT4,4178 Warrior Terrace
+5,COM,294403980-6,Randolf,Fancy,Lutero,Pune,Himabindu,PM,C,Others,Invalid,Deviated,IMPACT3,923 Hazelcrest Avenue
+3,COM,902883982-8,Werner,Brigitta,Ardelia,Sydney,Sandeep,IM,V,Ours,Invalid,Deviated,IMPACT2,1972 Scott Pass
+3,CA,549764407-4,Eleanora,Normand,Axe,Pune,Divya,MDR,C,Ours,Valid,Adhered,,
+4,COM,463346135-4,Leif,Harmonia,Alejandrina,Pune,Ruturaj,WMS,E,Ours,Valid,Adhered,,
+3,COM,983700376-6,Wilma,Caryl,Filippo,New York,Priyanka,RR,E,Ours,Valid,Adhered,,
+3,COM,985332092-4,Julianna,Antonin,Martguerita,Pune,Nagaraju,RR,E,Ours,Valid,Adhered,,
+2,CA,021805911-6,Elizabeth,Marja,Theodosia,Pune,Shiva,IM,V,Ours,Invalid,Deviated,IMPACT5,14 Lyons Crossing
+1,COM,602870824-0,Bendix,Zaneta,Philbert,Pune,Sandeep,DNR,C,Ours,Valid,Adhered,,
+1,COM,754373500-8,Gertrudis,Dew,Darnell,New York,Ruturaj,PM,E,Others,Invalid,Deviated,IMPACT4,1972 Scott Pass
+3,COM,910008677-0,Candide,Antonin,Martguerita,Pune,Sandeep,PM,V,Ours,Valid,Adhered,,
+1,COM,594240909-9,Yvette,Hestia,Axe,Pune,Saugata,NC,E,Ours,Invalid,Deviated,IMPACT2,805 Dovetail Plaza
+3,COM,201142446-1,Sander,Augusta,Betsey,Sydney,Apoorv,NC,C,Ours,Invalid,Deviated,IMPACT3,424 Sundown Court
+4,COM,894382566-8,Arley,Carmita,Philbert,Sydney,Priyanka,IM,V,Ours,Invalid,Deviated,IMPACT2,7 Lake View Crossing
+4,COM,480514935-3,Husein,Fancy,Lutero,Pune,Saugata,IM,C,Ours,Invalid,Deviated,IMPACT3,690 Hazelcrest Point
+2,COM,621771154-0,Jeth,Jeramey,Filippo,New York,Priyanka,PM,V,Ours,Valid,Adhered,,
+3,COM,847312282-8,Stillmann,Marja,Theodosia,Pune,Sandeep,NC,V,Others,Valid,Adhered,,
+1,COM,216017833-0,Wilhelm,Antone,Philbert,Pune,Priyanka,PM,E,Ours,Invalid,Deviated,IMPACT3,76 Kennedy Center
+5,COM,564700384-2,Josefina,Normand,Axe,Pune,Apoorv,NC,E,Ours,Invalid,Deviated,IMPACT3,1286 Montana Way
+3,COM,460907805-8,Chrisse,Henrieta,Berthe,Pune,Apoorv,DNR,E,Ours,Invalid,Deviated,IMPACT5,224 Graedel Alley
+4,COM,085645193-2,Elset,Antonin,Martguerita,Pune,Nagaraju,RR,C,Ours,Valid,Adhered,,
+2,CA,885578486-2,Loretta,Rosetta,Rozalie,Pune,Himabindu,PM,V,Ours,Valid,Adhered,,
+3,COM,034433123-7,Eldredge,Malcolm,Eugenia,New York,Sandeep,RR,E,Others,Valid,Adhered,,
+4,COM,855518035-X,Jennica,Agathe,Sonja,Pune,Himabindu,RR,C,Ours,Valid,Adhered,,
+1,CA,590083370-4,Cyrill,Maddie,Ardelia,Pune,Sandeep,IM,C,Ours,Valid,Adhered,,
+1,COM,651591716-3,Caldwell,Candra,Eugenia,London,Priyanka,IM,E,Ours,Invalid,Deviated,IMPACT1,3400 Mariners Cove Court
+2,COM,551605319-6,Nessa,Edwin,Philbert,New York,Nagaraju,NC,C,Ours,Valid,Adhered,,
+1,COM,581773045-6,Gusti,Caryl,Filippo,New York,Shiva,NC,C,Ours,Invalid,Deviated,IMPACT5,923 Hazelcrest Avenue
+3,COM,960473372-9,Nobie,Devinne,Theodosia,Pune,Ruturaj,PM,C,Ours,Invalid,Deviated,IMPACT1,3 American Trail
+3,COM,989337269-0,Maxie,Jemmy,Tatiana,Sydney,Saugata,WMS,C,Ours,Valid,Adhered,,
+3,CA,319409723-7,Cad,Antonin,Martguerita,Pune,Shiva,NC,V,Ours,Invalid,Deviated,IMPACT3,24480 Portage Pass
+4,COM,846922584-7,Hi,Tony,Stormie,Pune,Himabindu,NC,C,Ours,Invalid,Deviated,IMPACT4,406 Novick Road
+2,COM,122807923-4,Danica,Normand,Axe,Pune,Saugata,NC,E,Ours,Invalid,Deviated,IMPACT2,37188 Karstens Pass
+3,COM,280837292-2,Judith,Raynard,Tatiana,Pune,Divya,MDR,V,Ours,Invalid,Deviated,IMPACT1,1972 Scott Pass
+5,COM,421107028-2,Adolphus,Fancy,Lutero,Pune,Apoorv,RR,E,Others,Invalid,Deviated,IMPACT2,923 Hazelcrest Avenue
+2,COM,307349385-9,Ellary,Henrieta,Berthe,Pune,Divya,WMS,E,Ours,Valid,Adhered,,
+1,COM,003023716-5,Tessi,Antonin,Martguerita,Pune,Sandeep,WMS,E,Ours,Valid,Adhered,,
+1,COM,256107343-2,Abigale,Caryl,Filippo,New York,Shiva,NC,C,Ours,Invalid,Deviated,IMPACT4,27 Holmberg Point
+5,COM,190773854-1,Fonsie,Rosetta,Rozalie,Pune,Saugata,NC,C,Others,Invalid,Deviated,IMPACT3,3 American Trail
+3,COM,087657213-1,Karlene,Teriann,Rip,Pune,Priyanka,MDR,C,Ours,Invalid,Deviated,IMPACT3,1 Hintze Hill
+2,COM,900896762-6,Prinz,Lexi,Stormie,Pune,Apoorv,RR,E,Ours,Valid,Adhered,,
+3,COM,217039534-2,Billie,Rosetta,Rozalie,Pune,Apoorv,IM,E,Ours,Invalid,Deviated,IMPACT4,690 Hazelcrest Point
+2,COM,792124089-5,Stephani,Kamila,Stormie,Pune,Himabindu,MDR,E,Ours,Invalid,Deviated,IMPACT1,923 Hazelcrest Avenue
+5,COM,730626091-X,Bryanty,Osbourne,Alastair,Sydney,Shiva,IM,C,Ours,Valid,Adhered,,
+2,COM,291536332-3,Windy,Carmita,Philbert,Sydney,Shiva,MDR,C,Ours,Invalid,Deviated,IMPACT2,923 Hazelcrest Avenue
+2,COM,248042240-2,Albie,Candra,Eugenia,London,Sandeep,MDR,V,Ours,Invalid,Deviated,IMPACT3,00 Mayfield Lane
+4,COM,784878573-4,Vincent,Carmita,Philbert,Sydney,Ruturaj,DNR,V,Ours,Valid,Adhered,,
+2,CA,697851026-2,Carlos,Clemente,Axe,London,Saugata,MDR,V,Ours,Valid,Adhered,,
+2,COM,213848047-X,Portia,Winnie,Sandye,Pune,Divya,DNR,E,Ours,Valid,Adhered,,
+1,CA,065262882-6,Pansie,Nicolea,Lorenza,New York,Himabindu,DNR,E,Ours,Invalid,Deviated,IMPACT3,497 Badeau Avenue
+5,COM,793040394-7,Bobbye,Mathias,Berthe,Pune,Apoorv,IM,V,Ours,Invalid,Deviated,IMPACT3,477 Moose Way
+2,COM,084208973-X,Frankie,Valma,Betsey,Sydney,Himabindu,WMS,V,Ours,Invalid,Deviated,IMPACT2,1972 Scott Pass
+3,COM,125470751-4,Alessandra,Codee,Martguerita,New York,Shiva,NC,V,Ours,Invalid,Deviated,IMPACT4,37188 Karstens Pass
+1,CA,213029206-2,Urbano,Dicky,Eugenia,New York,Sandeep,RR,V,Ours,Valid,Adhered,,
+3,COM,676959195-2,Raffarty,Caryl,Filippo,New York,Sandeep,NC,V,Ours,Invalid,Deviated,IMPACT1,38 Debra Avenue
+1,COM,924577590-9,Tam,Durant,Malinda,London,Divya,MDR,V,Ours,Invalid,Deviated,IMPACT4,1972 Scott Pass
+1,CA,311913041-9,Errick,Agathe,Sonja,Pune,Apoorv,MDR,V,Others,Invalid,Deviated,IMPACT2,923 Hazelcrest Avenue
+3,COM,688063306-4,Aristotle,Damiano,Alejandrina,Sydney,Shiva,DNR,E,Ours,Invalid,Deviated,IMPACT4,704 Hooker Plaza
+5,COM,711418976-1,Giovanni,Antonin,Martguerita,Pune,Shiva,IM,E,Ours,Valid,Adhered,,
+1,COM,060768815-7,Berrie,Antone,Philbert,Pune,Ruturaj,RR,C,Ours,Invalid,Deviated,IMPACT4,1025 Summer Ridge Terrace
+2,COM,763094659-7,Nedi,Jemmy,Tatiana,Sydney,Saugata,DNR,C,Ours,Valid,Adhered,,
+3,COM,941810838-0,Rabi,Sterne,Theodosia,New York,Priyanka,RR,V,Ours,Invalid,Deviated,IMPACT5,38944 Carey Way
+3,COM,552046142-2,Terrill,Malcolm,Eugenia,New York,Nagaraju,PM,V,Ours,Valid,Adhered,,
+1,COM,769135087-2,Jaime,Sanson,Suzanna,Pune,Ruturaj,IM,V,Ours,Valid,Adhered,,
+3,COM,994587027-0,Caressa,Jemmy,Tatiana,Sydney,Suruchi,MDR,C,Ours,Valid,Adhered,,
+3,COM,489506848-X,Tammara,Normand,Axe,Pune,Himabindu,RR,E,Others,Valid,Adhered,,
+3,COM,784185811-6,Niels,Beryle,Lorenza,New York,Himabindu,MDR,E,Ours,Invalid,Deviated,IMPACT3,4 Crownhardt Trail
+1,COM,694333922-2,Shir,Meghan,Rip,Pune,Sandeep,MDR,C,Ours,Invalid,Deviated,IMPACT4,1 Hintze Hill
+5,COM,053581586-7,Elliot,Rosetta,Rozalie,Pune,Apoorv,WMS,C,Ours,Valid,Adhered,,
+2,COM,330842853-9,Frannie,Caryl,Filippo,New York,Nagaraju,MDR,E,Others,Invalid,Deviated,IMPACT5,359 Grover Street
+2,COM,675100519-9,Maximilianus,Brietta,Sonja,London,Divya,PM,V,Ours,Valid,Adhered,,
+2,COM,152112864-2,Loretta,Dew,Darnell,New York,Nagaraju,RR,E,Ours,Invalid,Deviated,IMPACT3,3 American Trail
+3,COM,710921631-4,Greta,Rosetta,Rozalie,Pune,Saugata,RR,E,Ours,Invalid,Deviated,IMPACT2,1 Hintze Hill
+4,COM,123832572-6,Gabrielle,Caryl,Filippo,New York,Ruturaj,PM,E,Ours,Invalid,Deviated,IMPACT4,605 Knutson Lane
+3,COM,928414449-3,Inger,Kamila,Stormie,Pune,Apoorv,RR,C,Ours,Valid,Adhered,,
+1,COM,267463994-6,Camala,Harmonia,Alejandrina,Pune,Priyanka,WMS,C,Others,Invalid,Deviated,IMPACT3,4054 Spenser Lane
+4,COM,040587497-9,Agatha,Garrik,Ardelia,Pune,Sandeep,RR,C,Ours,Valid,Adhered,,
+4,COM,916835130-5,Babs,Ara,Carlina,New York,Saugata,IM,C,Ours,Invalid,Deviated,IMPACT5,4736 1st Parkway
+2,COM,288505206-6,Kelby,Harrison,Liz,London,Apoorv,DNR,C,Ours,Valid,Adhered,,
+2,COM,034172793-8,Giffy,Marja,Theodosia,Pune,Sandeep,NC,C,Ours,Valid,Adhered,,
+5,COM,558946363-7,Peadar,Clemente,Axe,London,Himabindu,MDR,V,Others,Valid,Adhered,,
+5,COM,075832594-0,Shalom,Augusta,Betsey,Sydney,Suruchi,RR,V,Others,Invalid,Deviated,IMPACT2,690 Hazelcrest Point
+3,COM,933599281-X,Colet,Winnie,Sandye,Pune,Himabindu,MDR,E,Ours,Invalid,Deviated,IMPACT5,923 Hazelcrest Avenue
+3,COM,137779479-2,Chloette,Alvin,Rip,New York,Priyanka,DNR,V,Others,Invalid,Deviated,IMPACT5,4 Northland Park
+4,COM,161081846-6,Cahra,Antone,Philbert,Pune,Priyanka,IM,E,Others,Invalid,Deviated,IMPACT1,4590 Maryland Place
+5,COM,395880430-6,Evyn,Gardiner,Stormie,Pune,Himabindu,PM,E,Ours,Invalid,Deviated,IMPACT3,8810 Londonderry Pass
+3,COM,119516699-0,Minetta,Dicky,Eugenia,New York,Shiva,IM,E,Ours,Valid,Adhered,,
+3,COM,144500960-9,Benyamin,Ryon,Tawnya,Sydney,Nagaraju,RR,V,Ours,Valid,Adhered,,
+1,COM,407246395-7,Flor,Teriann,Rip,Pune,Ruturaj,NC,C,Ours,Invalid,Deviated,IMPACT1,1972 Scott Pass
+3,COM,733652133-9,Derry,Damiano,Alejandrina,Sydney,Ruturaj,IM,V,Ours,Valid,Adhered,,
+1,COM,602322311-7,Cosette,Edwin,Philbert,New York,Sandeep,MDR,C,Others,Valid,Adhered,,
+3,COM,808513822-0,Francis,Meghan,Rip,Pune,Priyanka,PM,C,Ours,Invalid,Deviated,IMPACT3,3 American Trail
+1,COM,613747491-7,Magnum,Marja,Theodosia,Pune,Ruturaj,RR,C,Ours,Invalid,Deviated,IMPACT3,4736 1st Parkway
+2,COM,319177207-3,Dodi,Clemente,Axe,London,Himabindu,IM,E,Ours,Valid,Adhered,,
+3,COM,538577898-2,Ray,Fancy,Lutero,Pune,Apoorv,WMS,E,Ours,Invalid,Deviated,IMPACT5,00 Mayfield Lane
+2,COM,641433215-1,Dannie,Edwin,Philbert,New York,Shiva,MDR,E,Ours,Valid,Adhered,,
+1,COM,150731938-X,Kort,Jeramey,Filippo,New York,Nagaraju,MDR,E,Ours,Invalid,Deviated,IMPACT4,408 Sage Crossing
+2,COM,101498957-4,Cordie,Edwin,Philbert,New York,Ruturaj,RR,V,Others,Invalid,Deviated,IMPACT2,1972 Scott Pass
+4,CA,409249689-3,Marlie,Janith,Alec,Pune,Saugata,RR,V,Ours,Invalid,Deviated,IMPACT1,1972 Scott Pass
+2,COM,976105873-5,Imelda,Henrieta,Berthe,Pune,Suruchi,MDR,V,Ours,Valid,Adhered,,
+2,COM,069577237-6,Zorine,Clemente,Axe,London,Apoorv,IM,V,Ours,Invalid,Deviated,IMPACT1,77977 Pepper Wood Avenue
+5,COM,185798664-4,Bibbye,Shayne,Alec,London,Apoorv,IM,C,Others,Invalid,Deviated,IMPACT3,1 Hintze Hill
+3,CA,807953536-1,Mace,Dew,Darnell,New York,Sandeep,RR,C,Ours,Invalid,Deviated,IMPACT2,8 Tony Road
+1,COM,631243807-4,Antoine,Brietta,Sonja,London,Suruchi,PM,C,Ours,Invalid,Deviated,IMPACT2,8 Blaine Center
+4,COM,592888284-X,Emmalee,Harv,Stormie,Sydney,Himabindu,DNR,V,Ours,Valid,Adhered,,
+1,COM,623547548-9,Ellerey,Corrie,Martguerita,New York,Priyanka,RR,C,Ours,Valid,Adhered,,
+4,COM,373849723-4,Jeni,Lexi,Stormie,Pune,Apoorv,IM,V,Ours,Invalid,Deviated,IMPACT1,3 American Trail
+1,COM,389854040-5,Clotilda,Brodie,Janna,Pune,Ruturaj,DNR,E,Ours,Invalid,Deviated,IMPACT4,1972 Scott Pass
+2,COM,520251482-4,Aldric,Nicolea,Lorenza,New York,Saugata,NC,V,Ours,Valid,Adhered,,
+4,COM,543338704-6,Con,Meghan,Rip,Pune,Shiva,IM,C,Ours,Invalid,Deviated,IMPACT2,6434 Mayer Way
+4,COM,027898459-2,Tabby,Harrison,Liz,London,Divya,IM,E,Ours,Invalid,Deviated,IMPACT4,1 Hintze Hill
+4,COM,469092952-1,Madelena,Ole,Lorenza,New York,Himabindu,RR,C,Ours,Valid,Adhered,,
+3,COM,232162925-8,Graig,Candra,Eugenia,London,Sandeep,WMS,E,Ours,Invalid,Deviated,IMPACT1,1972 Scott Pass
+3,COM,404705591-3,Fernande,Edwin,Philbert,New York,Priyanka,MDR,C,Ours,Invalid,Deviated,IMPACT5,14 Merry Road
+2,COM,318192634-5,Gwenora,Ives,Philbert,Pune,Priyanka,NC,E,Ours,Valid,Adhered,,
+5,COM,184366874-2,Andre,Teriann,Rip,Pune,Nagaraju,RR,V,Ours,Invalid,Deviated,IMPACT3,405 Hanson Hill
+3,COM,940946038-7,Hyacinthe,Agathe,Sonja,Pune,Divya,WMS,E,Ours,Invalid,Deviated,IMPACT2,76 Monterey Terrace
+1,COM,360523696-0,Tove,Harv,Stormie,Sydney,Divya,MDR,V,Ours,Valid,Adhered,,
+1,COM,795002186-1,Zoe,Jeramey,Filippo,New York,Ruturaj,DNR,C,Ours,Valid,Adhered,,
+2,COM,246457806-1,Bailie,Codee,Martguerita,New York,Nagaraju,RR,C,Ours,Invalid,Deviated,IMPACT3,797 Acker Point
+5,COM,963396144-0,Kimberli,Dicky,Eugenia,New York,Priyanka,DNR,E,Ours,Invalid,Deviated,IMPACT2,875 Declaration Avenue
+4,COM,208085698-7,Valma,Kirby,Alec,Sydney,Apoorv,RR,V,Ours,Valid,Adhered,,
+2,COM,364313231-X,Ingar,Ara,Carlina,New York,Apoorv,NC,V,Others,Valid,Adhered,,
+2,COM,612784782-6,Martelle,Henrieta,Berthe,Pune,Divya,MDR,E,Ours,Valid,Adhered,,
+3,COM,287996825-9,Nelle,Beryle,Lorenza,New York,Saugata,WMS,V,Ours,Valid,Adhered,,
+3,COM,103235868-8,Corbin,Teriann,Rip,Pune,Ruturaj,RR,C,Ours,Invalid,Deviated,IMPACT3,659 Graceland Trail
+2,COM,445843150-1,Goldia,Valma,Betsey,Sydney,Himabindu,NC,C,Ours,Valid,Adhered,,
+4,COM,652716018-6,Fidel,Garrik,Ardelia,Pune,Nagaraju,WMS,E,Ours,Invalid,Deviated,IMPACT2,7 Derek Street
+2,COM,995039721-9,Talia,Clemente,Axe,London,Suruchi,NC,E,Ours,Valid,Adhered,,
+3,COM,900362689-8,Daniele,Beryle,Lorenza,New York,Divya,IM,C,Others,Valid,Adhered,,
+4,COM,802546259-5,Tymon,Shayne,Alec,London,Himabindu,MDR,C,Ours,Valid,Adhered,,
+2,COM,032790297-3,Jacquetta,Dew,Darnell,New York,Priyanka,MDR,E,Ours,Invalid,Deviated,IMPACT3,39 Everett Road
+1,COM,955104711-7,Isador,Ame,Rozalie,Pune,Apoorv,RR,C,Ours,Invalid,Deviated,IMPACT2,00 Mayfield Lane
+3,COM,411916135-8,Courtney,Tuckie,Phil,Pune,Saugata,RR,C,Ours,Valid,Adhered,,
+1,COM,128016938-9,Dareen,Tony,Stormie,Pune,Divya,WMS,E,Ours,Valid,Adhered,,
+2,COM,872577752-1,Victoria,Clemente,Axe,London,Divya,WMS,V,Others,Invalid,Deviated,IMPACT3,1972 Scott Pass
+3,COM,439026996-8,Gerik,Lexi,Stormie,Pune,Divya,PM,V,Ours,Valid,Adhered,,
+1,COM,006923739-5,Devlen,Kirby,Alec,Sydney,Suruchi,NC,C,Ours,Invalid,Deviated,IMPACT5,10928 Dwight Avenue
+2,COM,578603393-7,Chris,Garrik,Ardelia,Pune,Nagaraju,MDR,C,Ours,Valid,Adhered,,
+3,COM,992849297-2,Milly,Tuckie,Phil,Pune,Himabindu,PM,E,Ours,Invalid,Deviated,IMPACT5,1972 Scott Pass
+1,COM,671589488-4,Gena,Beryle,Lorenza,New York,Saugata,IM,E,Ours,Invalid,Deviated,IMPACT1,6 Tomscot Pass
+3,CA,907332214-6,Ardra,Dew,Darnell,New York,Sandeep,MDR,E,Ours,Valid,Adhered,,
+1,COM,192800120-3,Stella,Janith,Alec,Pune,Suruchi,PM,E,Ours,Valid,Adhered,,
+2,COM,865544436-7,Filia,Kamila,Stormie,Pune,Himabindu,WMS,V,Ours,Valid,Adhered,,
+4,COM,052438453-3,Cate,Winnie,Sandye,Pune,Himabindu,WMS,V,Ours,Invalid,Deviated,IMPACT4,177 American Ash Terrace
+5,COM,485027476-5,Myrvyn,Beryle,Lorenza,New York,Saugata,DNR,V,Ours,Invalid,Deviated,IMPACT4,51897 Fair Oaks Park
+1,CA,610037679-2,Cordula,Chas,Filippo,New York,Ruturaj,PM,C,Ours,Invalid,Deviated,IMPACT4,3 American Trail
+5,COM,697386699-9,Kathye,Beryle,Lorenza,New York,Divya,RR,V,Ours,Invalid,Deviated,IMPACT4,923 Hazelcrest Avenue
+2,COM,652642809-6,Loleta,Gardiner,Stormie,Pune,Apoorv,WMS,C,Ours,Invalid,Deviated,IMPACT1,1972 Scott Pass
+3,COM,826255273-3,Nissa,Winnie,Sandye,Pune,Himabindu,IM,V,Ours,Valid,Adhered,,
+2,COM,026159211-4,Krystalle,Carmita,Philbert,Sydney,Shiva,MDR,V,Ours,Valid,Adhered,,
+2,COM,655312055-2,Drew,Ame,Rozalie,Pune,Suruchi,MDR,V,Ours,Valid,Adhered,,
+3,COM,047187387-X,Ikey,Brodie,Janna,Pune,Nagaraju,RR,V,Ours,Valid,Adhered,,
+3,CA,605650086-1,Lianne,Harmonia,Alejandrina,Pune,Ruturaj,RR,C,Ours,Valid,Adhered,,
+4,COM,564275985-X,Lucina,Malcolm,Eugenia,New York,Nagaraju,RR,E,Others,Valid,Adhered,,
+1,COM,862968997-8,Carla,Brittne,Nevile,Pune,Priyanka,IM,E,Ours,Invalid,Deviated,IMPACT4,00 Mayfield Lane
+3,COM,689757928-9,Claus,Mathias,Berthe,Pune,Suruchi,NC,C,Others,Invalid,Deviated,IMPACT3,3 American Trail
+1,COM,594166232-7,Maribel,Maddie,Ardelia,Pune,Ruturaj,RR,V,Ours,Invalid,Deviated,IMPACT5,30260 Tony Pass
+2,COM,973209185-1,Siegfried,Valma,Betsey,Sydney,Suruchi,DNR,C,Ours,Invalid,Deviated,IMPACT3,1 Hintze Hill
+4,COM,226647278-X,Ophelie,Dew,Darnell,New York,Shiva,DNR,V,Ours,Invalid,Deviated,IMPACT2,514 Bashford Way
+4,COM,764316811-3,Giuseppe,Teriann,Rip,Pune,Ruturaj,RR,C,Ours,Valid,Adhered,,
+3,COM,241197697-6,Christoforo,Malcolm,Eugenia,New York,Sandeep,PM,V,Ours,Invalid,Deviated,IMPACT1,44 Graedel Plaza
+1,COM,779490237-1,Drusie,Raynard,Tatiana,Pune,Apoorv,IM,V,Ours,Invalid,Deviated,IMPACT4,4736 1st Parkway
+3,COM,257529621-8,Conn,Caryl,Filippo,New York,Nagaraju,DNR,V,Ours,Valid,Adhered,,
+2,COM,217214809-1,Arlie,Lexi,Stormie,Pune,Saugata,IM,V,Ours,Invalid,Deviated,IMPACT1,7520 Jenifer Terrace
+4,COM,533231532-5,Cherianne,Candra,Eugenia,London,Shiva,RR,E,Ours,Valid,Adhered,,
+3,COM,396201398-9,Aurlie,Mathias,Berthe,Pune,Divya,NC,E,Ours,Invalid,Deviated,IMPACT1,2489 Huxley Place
+3,COM,111699609-X,Dorene,Tuckie,Phil,Pune,Saugata,DNR,C,Ours,Valid,Adhered,,
+2,COM,216244990-0,Lodovico,Caryl,Filippo,New York,Priyanka,PM,E,Ours,Valid,Adhered,,
+3,COM,070352247-7,Lyndsay,Shantee,Sonja,Pune,Saugata,DNR,V,Others,Valid,Adhered,,
+2,COM,622122726-7,Jere,Lexi,Stormie,Pune,Divya,DNR,C,Others,Invalid,Deviated,IMPACT1,51518 Eastwood Trail
+2,CA,760610879-X,Banky,Zaneta,Philbert,Pune,Priyanka,MDR,E,Ours,Invalid,Deviated,IMPACT3,704 Hooker Plaza
+1,CA,789234992-8,Angele,Meghan,Rip,Pune,Sandeep,RR,V,Ours,Valid,Adhered,,
+2,COM,619209799-2,Grantley,Harmonia,Alejandrina,Pune,Sandeep,RR,V,Ours,Invalid,Deviated,IMPACT5,4 Pepper Wood Street
+1,COM,864161928-3,Emmet,Dicky,Eugenia,New York,Sandeep,DNR,V,Ours,Valid,Adhered,,
+1,COM,587094112-1,Bobbe,Kamila,Stormie,Pune,Saugata,PM,C,Ours,Valid,Adhered,,
+1,COM,800811709-5,Essa,Janith,Alec,Pune,Suruchi,PM,V,Ours,Valid,Adhered,,
+2,COM,505827757-3,Kelly,Ives,Philbert,Pune,Nagaraju,DNR,V,Ours,Valid,Adhered,,
+5,COM,387478836-9,Blithe,Mathias,Berthe,Pune,Divya,PM,V,Ours,Invalid,Deviated,IMPACT1,5 Rusk Place
+2,COM,447279928-6,Aron,Ame,Rozalie,Pune,Saugata,WMS,V,Ours,Valid,Adhered,,
+1,COM,163662174-0,Karylin,Devinne,Theodosia,Pune,Shiva,PM,E,Ours,Invalid,Deviated,IMPACT5,923 Hazelcrest Avenue
+3,COM,654591082-5,Quincy,Ame,Rozalie,Pune,Suruchi,DNR,V,Ours,Invalid,Deviated,IMPACT4,1972 Scott Pass
+5,COM,203060808-4,Jacklyn,Candra,Eugenia,London,Ruturaj,DNR,V,Ours,Invalid,Deviated,IMPACT4,5416 Maywood Parkway
+2,COM,555369538-4,Fonz,Kirby,Alec,Sydney,Divya,MDR,C,Ours,Invalid,Deviated,IMPACT1,923 Hazelcrest Avenue
+4,COM,201872343-X,Nada,Ole,Lorenza,New York,Apoorv,IM,V,Ours,Invalid,Deviated,IMPACT2,1972 Scott Pass
+1,COM,502294201-1,Kylie,Marja,Theodosia,Pune,Shiva,IM,V,Ours,Invalid,Deviated,IMPACT5,814 Toban Place
+4,COM,537697804-4,Eloise,Rosetta,Rozalie,Pune,Suruchi,PM,E,Ours,Valid,Adhered,,
+1,COM,890782366-9,Christabel,Ara,Carlina,New York,Apoorv,RR,E,Ours,Invalid,Deviated,IMPACT1,3 American Trail
+4,COM,682597622-2,Tremain,Augusta,Betsey,Sydney,Apoorv,NC,C,Ours,Invalid,Deviated,IMPACT1,38 Maple Wood Circle
+1,COM,425449641-9,Jan,Ole,Lorenza,New York,Himabindu,DNR,C,Ours,Valid,Adhered,,
+5,COM,365403365-2,Kayley,Tuckie,Phil,Pune,Himabindu,PM,E,Ours,Invalid,Deviated,IMPACT3,923 Hazelcrest Avenue
+2,COM,902962572-4,Bertie,Ives,Philbert,Pune,Nagaraju,NC,C,Ours,Invalid,Deviated,IMPACT3,86 Summer Ridge Terrace
+4,COM,788802150-6,Tam,Gardiner,Stormie,Pune,Suruchi,DNR,C,Ours,Invalid,Deviated,IMPACT2,00 Mayfield Lane
+4,CA,985033340-5,Ludvig,Corrie,Martguerita,New York,Shiva,WMS,C,Ours,Invalid,Deviated,IMPACT4,3 American Trail
+4,CA,579693371-X,Jean,Codee,Martguerita,New York,Sandeep,RR,V,Ours,Invalid,Deviated,IMPACT1,00 Mayfield Lane
+3,COM,144196942-X,Alix,Janith,Alec,Pune,Himabindu,IM,C,Ours,Invalid,Deviated,IMPACT3,00 Mayfield Lane
+2,COM,555809055-3,Temple,Candra,Eugenia,London,Priyanka,PM,C,Ours,Valid,Adhered,,
+2,COM,361958030-8,Norbert,Meghan,Rip,Pune,Sandeep,MDR,V,Ours,Invalid,Deviated,IMPACT3,4 Lakewood Gardens Junction
+4,COM,183598896-2,Nissy,Damiano,Alejandrina,Sydney,Sandeep,WMS,C,Ours,Valid,Adhered,,
+5,COM,466096908-8,Winni,Nicolea,Lorenza,New York,Suruchi,IM,C,Ours,Invalid,Deviated,IMPACT3,21758 Sycamore Center
+4,COM,971185947-5,Cherry,Clemente,Axe,London,Himabindu,RR,C,Ours,Valid,Adhered,,
+4,COM,337030704-9,Cassie,Carmita,Philbert,Sydney,Sandeep,NC,V,Ours,Invalid,Deviated,IMPACT4,579 Farmco Hill
+1,COM,363735340-7,Reinold,Marja,Theodosia,Pune,Shiva,MDR,C,Ours,Valid,Adhered,,
+2,COM,977683633-X,Amber,Garrik,Ardelia,Pune,Nagaraju,NC,C,Ours,Invalid,Deviated,IMPACT1,00 Mayfield Lane
+2,COM,225999802-X,Giralda,Durant,Malinda,London,Himabindu,WMS,C,Ours,Invalid,Deviated,IMPACT4,1972 Scott Pass
+5,COM,812033722-0,Tim,Janith,Alec,Pune,Himabindu,DNR,E,Ours,Invalid,Deviated,IMPACT5,3 American Trail
+4,COM,574544531-9,Consolata,Antonin,Martguerita,Pune,Priyanka,NC,V,Ours,Valid,Adhered,,
+1,COM,652126589-X,Aida,Kirby,Alec,Sydney,Suruchi,DNR,C,Others,Valid,Adhered,,
+4,COM,820227812-0,Lothario,Sanson,Suzanna,Pune,Shiva,MDR,C,Ours,Invalid,Deviated,IMPACT2,923 Hazelcrest Avenue
+2,COM,738791380-3,Hillie,Winnie,Sandye,Pune,Suruchi,IM,V,Others,Valid,Adhered,,
+3,COM,876969934-8,Sherri,Normand,Axe,Pune,Suruchi,WMS,V,Ours,Valid,Adhered,,
+4,COM,229763843-4,Cathleen,Malcolm,Eugenia,New York,Shiva,RR,E,Ours,Invalid,Deviated,IMPACT5,1972 Scott Pass
+2,COM,349446407-3,Hyacinthe,Durant,Malinda,London,Apoorv,PM,V,Ours,Valid,Adhered,,
+5,COM,628641724-9,Letizia,Garrik,Ardelia,Pune,Priyanka,MDR,E,Ours,Invalid,Deviated,IMPACT3,923 Hazelcrest Avenue
+3,COM,214685824-9,Brandtr,Brigitta,Ardelia,Sydney,Shiva,MDR,E,Ours,Invalid,Deviated,IMPACT4,37188 Karstens Pass
+2,COM,370868552-0,Akim,Sanson,Suzanna,Pune,Nagaraju,PM,C,Ours,Valid,Adhered,,
+5,CA,905106311-3,Tarrance,Normand,Axe,Pune,Divya,WMS,V,Ours,Invalid,Deviated,IMPACT1,3 American Trail
+2,COM,162581002-4,Caprice,Garrik,Ardelia,Pune,Ruturaj,WMS,V,Ours,Valid,Adhered,,
+3,CA,271645249-0,Britteny,Antonin,Martguerita,Pune,Priyanka,PM,C,Ours,Valid,Adhered,,
+2,COM,436976553-6,Kent,Kamila,Stormie,Pune,Himabindu,IM,C,Ours,Invalid,Deviated,IMPACT2,36 Hazelcrest Plaza
+3,COM,269245098-1,Emelita,Beryle,Lorenza,New York,Divya,DNR,V,Ours,Valid,Adhered,,
+1,COM,449042128-1,Cesare,Ives,Philbert,Pune,Priyanka,PM,V,Ours,Valid,Adhered,,
+4,CA,978040582-8,Thomasina,Jeramey,Filippo,New York,Priyanka,IM,V,Ours,Valid,Adhered,,
+4,COM,780724541-7,Emmerich,Carmita,Philbert,Sydney,Priyanka,IM,V,Ours,Invalid,Deviated,IMPACT2,160 Lerdahl Lane
+3,COM,294756054-X,Brittne,Tony,Stormie,Pune,Apoorv,MDR,V,Ours,Invalid,Deviated,IMPACT3,3 American Trail
+2,COM,841515266-3,Gaylor,Janith,Alec,Pune,Apoorv,MDR,V,Ours,Invalid,Deviated,IMPACT5,1 Hintze Hill
+1,COM,070405886-3,Pincas,Danny,Sonja,Pune,Suruchi,WMS,C,Others,Invalid,Deviated,IMPACT3,3 American Trail
+3,COM,704862495-7,Leah,Brietta,Sonja,London,Suruchi,MDR,V,Ours,Valid,Adhered,,
+3,CA,644022022-5,Shanan,Maddie,Ardelia,Pune,Nagaraju,RR,E,Ours,Valid,Adhered,,
+3,COM,119078820-9,Donella,Danny,Sonja,Pune,Saugata,PM,E,Ours,Valid,Adhered,,
+3,COM,777075303-1,Jude,Alvin,Rip,New York,Priyanka,PM,V,Ours,Invalid,Deviated,IMPACT2,6 Ryan Park
+3,COM,537702007-3,Stafford,Jeramey,Filippo,New York,Ruturaj,MDR,E,Ours,Valid,Adhered,,
+3,COM,052524925-7,Morissa,Raynard,Tatiana,Pune,Himabindu,DNR,C,Others,Valid,Adhered,,
+4,COM,671276681-8,Orelie,Caryl,Filippo,New York,Sandeep,NC,V,Ours,Invalid,Deviated,IMPACT5,14 Gateway Center
+4,COM,033387302-5,Silvester,Marja,Theodosia,Pune,Sandeep,PM,V,Ours,Valid,Adhered,,
+3,COM,197453318-2,Idette,Zaneta,Philbert,Pune,Nagaraju,DNR,V,Ours,Valid,Adhered,,
+1,COM,374807444-1,Dulce,Agathe,Sonja,Pune,Suruchi,DNR,C,Ours,Valid,Adhered,,
+4,COM,469142906-9,Giacobo,Carmita,Philbert,Sydney,Shiva,MDR,E,Others,Invalid,Deviated,IMPACT2,1 Hintze Hill
+3,CA,712417501-1,Tam,Harv,Stormie,Sydney,Saugata,IM,V,Others,Invalid,Deviated,IMPACT5,00 Mayfield Lane
+2,COM,052661289-4,Golda,Janith,Alec,Pune,Suruchi,WMS,C,Ours,Invalid,Deviated,IMPACT2,17414 Leroy Pass
+1,COM,584578615-0,Penni,Carmita,Philbert,Sydney,Priyanka,MDR,C,Ours,Valid,Adhered,,
+1,COM,005205641-4,Worden,Antonin,Martguerita,Pune,Sandeep,MDR,E,Ours,Valid,Adhered,,
+1,COM,216113948-7,Hermon,Valma,Betsey,Sydney,Saugata,PM,V,Ours,Valid,Adhered,,
+4,COM,250802818-5,Christian,Candra,Eugenia,London,Sandeep,MDR,E,Ours,Valid,Adhered,,
+4,COM,566689794-2,Jocelyn,Jemmy,Tatiana,Sydney,Suruchi,NC,C,Ours,Invalid,Deviated,IMPACT4,923 Hazelcrest Avenue
+4,CA,795356660-5,Charline,Normand,Axe,Pune,Divya,PM,V,Ours,Valid,Adhered,,
+1,COM,062936709-4,Olwen,Osbourne,Alastair,Sydney,Shiva,MDR,C,Ours,Valid,Adhered,,
+4,COM,537098971-0,Lyndel,Damiano,Alejandrina,Sydney,Priyanka,RR,C,Ours,Invalid,Deviated,IMPACT4,407 Basil Drive
+4,COM,816570104-5,Wilmar,Brietta,Sonja,London,Himabindu,DNR,V,Others,Valid,Adhered,,
+2,COM,348163359-9,Donaugh,Osbourne,Alastair,Sydney,Sandeep,WMS,V,Others,Valid,Adhered,,
+3,COM,310628393-9,Marita,Brigitta,Ardelia,Sydney,Nagaraju,IM,V,Ours,Valid,Adhered,,
+2,CA,831812933-4,Killy,Osbourne,Alastair,Sydney,Nagaraju,DNR,V,Ours,Valid,Adhered,,
+2,COM,214812991-0,Laurence,Ole,Lorenza,New York,Saugata,PM,V,Ours,Valid,Adhered,,
+1,COM,272014042-2,Merna,Ara,Carlina,New York,Saugata,MDR,E,Ours,Valid,Adhered,,
+2,COM,690435717-7,Ethe,Harmonia,Alejandrina,Pune,Priyanka,WMS,C,Ours,Invalid,Deviated,IMPACT1,3 American Trail
+4,CA,758117186-8,Adina,Gardiner,Stormie,Pune,Divya,IM,V,Ours,Invalid,Deviated,IMPACT5,1972 Scott Pass
+4,COM,848470908-6,Oswell,Clemente,Axe,London,Divya,NC,E,Ours,Invalid,Deviated,IMPACT5,4736 1st Parkway
+4,COM,436950776-6,Carole,Henrieta,Berthe,Pune,Apoorv,WMS,V,Ours,Valid,Adhered,,
+2,COM,556732424-3,Tanny,Brigitta,Ardelia,Sydney,Sandeep,NC,V,Ours,Invalid,Deviated,IMPACT1,20 Raven Road
+3,COM,957725655-4,Abramo,Rosetta,Rozalie,Pune,Divya,NC,V,Others,Valid,Adhered,,
+3,CA,725733601-6,Nananne,Brittne,Nevile,Pune,Sandeep,PM,C,Ours,Valid,Adhered,,
+2,COM,288392543-7,Sumner,Marja,Theodosia,Pune,Ruturaj,NC,C,Ours,Invalid,Deviated,IMPACT3,788 Monument Crossing
+3,COM,064297953-7,Vaughn,Maddie,Ardelia,Pune,Shiva,MDR,E,Ours,Invalid,Deviated,IMPACT2,8 Sachtjen Alley
+1,COM,504699823-8,Murdock,Durant,Malinda,London,Saugata,IM,V,Ours,Invalid,Deviated,IMPACT4,923 Hazelcrest Avenue
+1,COM,898102927-X,Nealy,Jemmy,Tatiana,Sydney,Divya,IM,V,Ours,Invalid,Deviated,IMPACT2,579 Farmco Hill
+1,COM,009441578-1,Romy,Tony,Stormie,Pune,Saugata,IM,E,Ours,Invalid,Deviated,IMPACT2,649 Rockefeller Junction
+3,COM,761614903-0,Fernande,Carmita,Philbert,Sydney,Nagaraju,WMS,C,Ours,Invalid,Deviated,IMPACT5,2836 Iowa Road
+2,COM,483127517-4,Pebrook,Lexi,Stormie,Pune,Suruchi,WMS,E,Ours,Invalid,Deviated,IMPACT2,704 Hooker Plaza
+2,COM,503723525-1,Noella,Damiano,Alejandrina,Sydney,Ruturaj,DNR,V,Ours,Valid,Adhered,,
+4,COM,460275246-2,Panchito,Danny,Sonja,Pune,Apoorv,DNR,C,Ours,Invalid,Deviated,IMPACT2,5 Anhalt Center
+1,COM,283057204-1,Kimmie,Jemmy,Tatiana,Sydney,Suruchi,DNR,C,Ours,Valid,Adhered,,
+4,COM,771131371-3,Jobey,Augusta,Betsey,Sydney,Suruchi,NC,V,Ours,Valid,Adhered,,
+3,COM,463250943-4,Abdel,Sterne,Theodosia,New York,Shiva,NC,C,Ours,Valid,Adhered,,
+4,COM,001976224-0,Andie,Rosetta,Rozalie,Pune,Suruchi,PM,C,Ours,Valid,Adhered,,
+2,COM,891863108-1,Catherine,Malcolm,Eugenia,New York,Priyanka,MDR,V,Ours,Invalid,Deviated,IMPACT4,86010 Burrows Park
+4,COM,759820275-3,Bing,Edwin,Philbert,New York,Shiva,WMS,C,Ours,Valid,Adhered,,
+1,COM,749224294-8,Fernanda,Clementina,Filippo,Pune,Priyanka,NC,V,Ours,Valid,Adhered,,
+3,COM,913245496-1,Marita,Fancy,Lutero,Pune,Saugata,IM,E,Ours,Invalid,Deviated,IMPACT4,3 American Trail
+3,COM,830404713-6,Vivianna,Codee,Martguerita,New York,Ruturaj,PM,V,Ours,Invalid,Deviated,IMPACT2,46 Harper Drive
+1,COM,056145947-9,Lalo,Antone,Philbert,Pune,Shiva,RR,V,Ours,Valid,Adhered,,
+3,COM,866624064-4,Bard,Corrie,Martguerita,New York,Shiva,WMS,C,Ours,Valid,Adhered,,
+3,COM,530773595-2,Carole,Ryon,Tawnya,Sydney,Nagaraju,IM,V,Ours,Invalid,Deviated,IMPACT3,00 Mayfield Lane
+2,COM,693122715-7,Kile,Malcolm,Eugenia,New York,Priyanka,NC,E,Others,Invalid,Deviated,IMPACT1,579 Farmco Hill
+1,COM,963284052-6,Saul,Durant,Malinda,London,Suruchi,NC,E,Ours,Invalid,Deviated,IMPACT4,923 Hazelcrest Avenue
+3,COM,299392887-2,Kirk,Harmonia,Alejandrina,Pune,Shiva,DNR,V,Ours,Valid,Adhered,,
+2,COM,428522608-1,Giffie,Augusta,Betsey,Sydney,Divya,MDR,V,Ours,Valid,Adhered,,
+2,COM,126654639-1,Jessamyn,Codee,Martguerita,New York,Ruturaj,DNR,E,Ours,Invalid,Deviated,IMPACT4,8 Menomonie Place
+1,COM,409971227-3,Flora,Beryle,Lorenza,New York,Suruchi,NC,V,Ours,Invalid,Deviated,IMPACT2,5 Dryden Way
+5,COM,386609156-7,Morey,Henrieta,Berthe,Pune,Saugata,RR,E,Ours,Invalid,Deviated,IMPACT4,4108 Riverside Street
+1,COM,955965272-9,Lou,Winnie,Sandye,Pune,Divya,DNR,V,Ours,Valid,Adhered,,
+4,COM,108696975-8,Flss,Henrieta,Berthe,Pune,Saugata,MDR,C,Ours,Invalid,Deviated,IMPACT5,816 Hansons Terrace
+4,COM,609479573-3,Ford,Ives,Philbert,Pune,Nagaraju,IM,V,Ours,Valid,Adhered,,
+2,COM,778432956-3,Delilah,Teriann,Rip,Pune,Nagaraju,RR,E,Ours,Valid,Adhered,,
+3,COM,902821700-2,Gerhardt,Agathe,Sonja,Pune,Saugata,MDR,E,Ours,Valid,Adhered,,
+1,COM,689020886-2,Wallie,Rosetta,Rozalie,Pune,Himabindu,NC,C,Ours,Valid,Adhered,,
+5,COM,419417489-5,Giulietta,Beryle,Lorenza,New York,Himabindu,RR,V,Ours,Invalid,Deviated,IMPACT4,00 Mayfield Lane
+4,COM,979862559-5,Lockwood,Mathias,Berthe,Pune,Apoorv,MDR,C,Ours,Invalid,Deviated,IMPACT2,1972 Scott Pass
+4,COM,971334113-9,Jacklyn,Antonin,Martguerita,Pune,Shiva,PM,E,Ours,Invalid,Deviated,IMPACT5,8130 Dwight Pass
+5,COM,597157792-1,Perceval,Raynard,Tatiana,Pune,Saugata,MDR,V,Ours,Valid,Adhered,,
+1,COM,099363028-6,Cornelia,Hestia,Axe,Pune,Apoorv,RR,E,Ours,Invalid,Deviated,IMPACT4,00 Mayfield Lane
+4,COM,877367503-2,Carroll,Zaneta,Philbert,Pune,Priyanka,RR,E,Ours,Invalid,Deviated,IMPACT4,43478 Twin Pines Way
+3,COM,326911772-8,Dotty,Devinne,Theodosia,Pune,Shiva,DNR,V,Ours,Valid,Adhered,,
+3,COM,107657427-0,Sylvan,Brietta,Sonja,London,Saugata,IM,C,Ours,Valid,Adhered,,
+1,COM,076434784-5,Carroll,Carmita,Philbert,Sydney,Sandeep,NC,V,Ours,Invalid,Deviated,IMPACT1,6108 Rusk Road
+3,COM,661597333-2,Abelard,Ame,Rozalie,Pune,Saugata,NC,C,Ours,Invalid,Deviated,IMPACT1,1972 Scott Pass
+1,COM,785632671-9,Randi,Durant,Malinda,London,Saugata,RR,V,Ours,Invalid,Deviated,IMPACT2,3 American Trail
+2,COM,552070322-1,Kermie,Tony,Stormie,Pune,Divya,MDR,V,Ours,Invalid,Deviated,IMPACT2,259 Sage Place
+2,COM,866187127-1,Agnes,Lexi,Stormie,Pune,Divya,RR,E,Ours,Invalid,Deviated,IMPACT4,29 Northridge Circle
+3,COM,533629066-1,Miran,Beryle,Lorenza,New York,Suruchi,WMS,C,Ours,Invalid,Deviated,IMPACT4,6106 Declaration Avenue
+4,COM,310580284-3,Kellia,Harrison,Liz,London,Saugata,MDR,V,Ours,Invalid,Deviated,IMPACT2,690 Hazelcrest Point
+3,COM,195244690-2,Kaylil,Ame,Rozalie,Pune,Himabindu,IM,E,Ours,Valid,Adhered,,
+3,COM,103314172-0,Tabb,Henrieta,Berthe,Pune,Saugata,WMS,E,Ours,Valid,Adhered,,
+4,COM,743888731-6,Ferguson,Dicky,Eugenia,New York,Ruturaj,WMS,E,Ours,Valid,Adhered,,
+3,COM,257100300-3,Thekla,Zaneta,Philbert,Pune,Ruturaj,PM,C,Ours,Invalid,Deviated,IMPACT5,923 Hazelcrest Avenue
+5,COM,833412086-9,Gardy,Gardiner,Stormie,Pune,Suruchi,MDR,E,Ours,Invalid,Deviated,IMPACT3,4847 Corry Alley
+3,COM,277357702-7,Shirlee,Raynard,Tatiana,Pune,Apoorv,DNR,C,Ours,Valid,Adhered,,
+1,CA,856684916-7,Sibley,Harv,Stormie,Sydney,Suruchi,RR,E,Others,Invalid,Deviated,IMPACT2,3 American Trail
+3,COM,766784523-9,Farrand,Osbourne,Alastair,Sydney,Nagaraju,IM,V,Ours,Valid,Adhered,,
+2,COM,993946745-1,Erinna,Beryle,Lorenza,New York,Divya,PM,E,Ours,Valid,Adhered,,
+1,COM,573163841-1,Gretal,Meghan,Rip,Pune,Sandeep,DNR,E,Ours,Valid,Adhered,,
+4,COM,678538151-7,Caroline,Malcolm,Eugenia,New York,Ruturaj,RR,V,Ours,Invalid,Deviated,IMPACT2,3 American Trail
+3,COM,831862546-3,Jerald,Gardiner,Stormie,Pune,Saugata,DNR,E,Ours,Valid,Adhered,,
+3,COM,548659439-9,Laney,Raynard,Tatiana,Pune,Apoorv,IM,C,Ours,Invalid,Deviated,IMPACT1,1 Hintze Hill
+2,CA,482063663-4,Margy,Garrik,Ardelia,Pune,Shiva,RR,V,Others,Invalid,Deviated,IMPACT3,00 Mayfield Lane
+2,COM,122171211-X,Nettle,Kamila,Stormie,Pune,Apoorv,MDR,V,Ours,Valid,Adhered,,
+2,COM,319356772-8,Erina,Meghan,Rip,Pune,Ruturaj,PM,C,Ours,Invalid,Deviated,IMPACT5,48 Erie Street
+2,COM,949965756-8,Lurline,Durant,Malinda,London,Divya,PM,C,Ours,Valid,Adhered,,
+5,COM,440318322-0,Patricia,Brigitta,Ardelia,Sydney,Nagaraju,MDR,V,Ours,Valid,Adhered,,
+2,COM,418717197-5,Lurette,Caryl,Filippo,New York,Shiva,RR,V,Ours,Invalid,Deviated,IMPACT4,14 Waywood Point
+4,COM,339802488-2,Hoebart,Henrieta,Berthe,Pune,Suruchi,NC,V,Ours,Invalid,Deviated,IMPACT1,704 Hooker Plaza
+5,COM,214499701-2,Patin,Hestia,Axe,Pune,Divya,PM,E,Ours,Invalid,Deviated,IMPACT4,690 Hazelcrest Point
+3,COM,576316310-9,Cornelia,Alvin,Rip,New York,Shiva,PM,E,Ours,Valid,Adhered,,
+1,COM,249427326-9,Lizette,Shantee,Sonja,Pune,Himabindu,PM,C,Ours,Invalid,Deviated,IMPACT3,00 Mayfield Lane
+3,COM,245792929-6,Braden,Dew,Darnell,New York,Priyanka,MDR,V,Ours,Invalid,Deviated,IMPACT2,10 Brentwood Drive
+3,COM,817257735-4,Syd,Brodie,Janna,Pune,Ruturaj,MDR,E,Ours,Invalid,Deviated,IMPACT4,51845 Village Green Street
+4,COM,083026399-3,Petrina,Alvin,Rip,New York,Nagaraju,DNR,V,Ours,Invalid,Deviated,IMPACT1,3 American Trail
+1,COM,412217280-2,Wynnie,Marja,Theodosia,Pune,Priyanka,MDR,V,Ours,Invalid,Deviated,IMPACT1,6440 Waxwing Lane
+4,COM,896244147-0,Rustin,Henrieta,Berthe,Pune,Suruchi,NC,V,Ours,Valid,Adhered,,
+1,COM,763472953-1,Lilli,Ives,Philbert,Pune,Nagaraju,NC,E,Ours,Invalid,Deviated,IMPACT4,1 Hintze Hill
+3,CA,876324241-9,Zorina,Hestia,Axe,Pune,Apoorv,NC,C,Ours,Valid,Adhered,,
+1,COM,579561411-4,Marcellus,Sanson,Suzanna,Pune,Sandeep,NC,V,Ours,Invalid,Deviated,IMPACT3,6 Clarendon Junction
+3,COM,621199201-7,Geri,Gardiner,Stormie,Pune,Divya,MDR,V,Ours,Invalid,Deviated,IMPACT1,923 Hazelcrest Avenue
+3,COM,847396482-9,Axel,Alvin,Rip,New York,Priyanka,RR,V,Ours,Invalid,Deviated,IMPACT1,00 Mayfield Lane
+3,COM,558452257-0,Cordell,Brodie,Janna,Pune,Ruturaj,MDR,E,Ours,Valid,Adhered,,
+3,COM,129794790-8,Arie,Ara,Carlina,New York,Apoorv,DNR,V,Ours,Invalid,Deviated,IMPACT2,1972 Scott Pass
+3,COM,300131249-1,Byrom,Harv,Stormie,Sydney,Saugata,NC,V,Ours,Invalid,Deviated,IMPACT5,1 Hintze Hill
+3,COM,992530894-1,Callean,Ole,Lorenza,New York,Divya,MDR,E,Ours,Invalid,Deviated,IMPACT1,923 Hazelcrest Avenue
+2,COM,669500327-0,Dido,Normand,Axe,Pune,Divya,MDR,V,Ours,Invalid,Deviated,IMPACT4,86 Blaine Hill
+5,COM,689768775-8,Christabel,Clementina,Filippo,Pune,Shiva,NC,C,Ours,Invalid,Deviated,IMPACT1,00 Mayfield Lane
+4,COM,980887062-7,Lorenza,Henrieta,Berthe,Pune,Himabindu,MDR,V,Ours,Invalid,Deviated,IMPACT2,3 American Trail
+4,CA,789786594-0,Leisha,Harv,Stormie,Sydney,Apoorv,PM,E,Ours,Invalid,Deviated,IMPACT5,41568 Doe Crossing Junction
+4,CA,352775272-2,Cherin,Harmonia,Alejandrina,Pune,Sandeep,PM,C,Ours,Valid,Adhered,,
+2,COM,045009741-2,Kristo,Durant,Malinda,London,Saugata,MDR,C,Ours,Invalid,Deviated,IMPACT1,875 Declaration Avenue
+1,COM,848089525-X,Floyd,Garrik,Ardelia,Pune,Ruturaj,WMS,V,Ours,Invalid,Deviated,IMPACT2,923 Hazelcrest Avenue
+3,COM,534813446-5,Marten,Kirby,Alec,Sydney,Apoorv,PM,C,Others,Invalid,Deviated,IMPACT1,1 Hintze Hill
+1,COM,310550444-3,Paulette,Corrie,Martguerita,New York,Priyanka,RR,C,Ours,Invalid,Deviated,IMPACT2,3 American Trail
+4,COM,971349441-5,Johna,Winnie,Sandye,Pune,Saugata,DNR,C,Ours,Invalid,Deviated,IMPACT1,8399 Macpherson Court
+4,COM,726967917-7,Celine,Agathe,Sonja,Pune,Saugata,NC,E,Ours,Invalid,Deviated,IMPACT1,00 Mayfield Lane
+3,COM,169308882-7,Wenda,Jeramey,Filippo,New York,Nagaraju,NC,V,Ours,Invalid,Deviated,IMPACT5,105 Sycamore Court
+2,COM,910871919-5,Arlan,Caryl,Filippo,New York,Priyanka,RR,C,Ours,Invalid,Deviated,IMPACT3,7 Manley Crossing
+2,COM,421857884-2,Leonerd,Beryle,Lorenza,New York,Himabindu,IM,V,Ours,Invalid,Deviated,IMPACT3,1972 Scott Pass
+3,COM,342164489-6,Abran,Brigitta,Ardelia,Sydney,Priyanka,WMS,C,Ours,Valid,Adhered,,
+3,COM,214591013-1,Arabelle,Shantee,Sonja,Pune,Himabindu,DNR,V,Ours,Invalid,Deviated,IMPACT1,3400 Mariners Cove Court
+4,COM,607152046-0,Celka,Carmita,Philbert,Sydney,Ruturaj,RR,C,Ours,Invalid,Deviated,IMPACT2,38059 Sheridan Center
+4,COM,356332766-1,Judy,Nicolea,Lorenza,New York,Himabindu,WMS,C,Ours,Invalid,Deviated,IMPACT3,71644 Homewood Pass
+4,COM,721181712-7,Coletta,Augusta,Betsey,Sydney,Suruchi,IM,V,Ours,Valid,Adhered,,
+5,COM,113052316-0,Shanna,Brietta,Sonja,London,Suruchi,MDR,C,Ours,Invalid,Deviated,IMPACT1,923 Hazelcrest Avenue
+4,COM,346859037-7,Katrina,Beryle,Lorenza,New York,Saugata,DNR,E,Ours,Invalid,Deviated,IMPACT4,80 Judy Crossing
+2,COM,256697399-7,Eliot,Ole,Lorenza,New York,Suruchi,IM,V,Ours,Invalid,Deviated,IMPACT4,3247 Washington Trail
+4,COM,494254512-9,Adena,Durant,Malinda,London,Suruchi,PM,V,Ours,Invalid,Deviated,IMPACT3,923 Hazelcrest Avenue
+1,COM,058622090-9,Amelita,Shayne,Alec,London,Suruchi,MDR,C,Ours,Invalid,Deviated,IMPACT2,7 Manley Point
+4,COM,559734482-X,Emelda,Candra,Eugenia,London,Sandeep,DNR,V,Ours,Invalid,Deviated,IMPACT5,1335 Sycamore Terrace
+3,COM,699824738-9,Fergus,Rosetta,Rozalie,Pune,Saugata,IM,C,Ours,Valid,Adhered,,
+1,COM,705099015-9,Shell,Brittne,Nevile,Pune,Shiva,DNR,V,Ours,Valid,Adhered,,
+3,COM,413228854-4,Adella,Harv,Stormie,Sydney,Himabindu,MDR,V,Ours,Invalid,Deviated,IMPACT4,3 American Trail
+3,COM,786575793-X,Hartley,Hestia,Axe,Pune,Himabindu,IM,C,Others,Valid,Adhered,,
+5,COM,825232678-1,Elisabet,Gardiner,Stormie,Pune,Suruchi,NC,C,Ours,Invalid,Deviated,IMPACT2,1972 Scott Pass
+4,CA,647548155-6,Anya,Brittne,Nevile,Pune,Sandeep,DNR,C,Ours,Invalid,Deviated,IMPACT5,415 North Park
+2,COM,135798023-X,Sibylla,Maddie,Ardelia,Pune,Sandeep,IM,E,Ours,Invalid,Deviated,IMPACT3,1105 Bowman Trail
+3,COM,140951121-9,Ransell,Caryl,Filippo,New York,Nagaraju,MDR,V,Ours,Invalid,Deviated,IMPACT2,758 Weeping Birch Lane
+4,COM,569353140-6,Aron,Henrieta,Berthe,Pune,Suruchi,DNR,V,Ours,Valid,Adhered,,
+4,COM,780002815-1,Inga,Durant,Malinda,London,Apoorv,IM,C,Ours,Valid,Adhered,,
+1,COM,140313378-6,Tyne,Shantee,Sonja,Pune,Apoorv,DNR,C,Ours,Valid,Adhered,,
+5,COM,952207069-6,Wilmette,Meghan,Rip,Pune,Priyanka,DNR,E,Ours,Valid,Adhered,,
+5,CA,460766424-3,Doretta,Edwin,Philbert,New York,Nagaraju,WMS,E,Ours,Valid,Adhered,,
+2,CA,569975369-9,Klara,Shayne,Alec,London,Divya,NC,C,Ours,Invalid,Deviated,IMPACT4,00 Mayfield Lane
+2,CA,595916564-3,Minda,Chas,Filippo,New York,Nagaraju,IM,V,Ours,Valid,Adhered,,
+3,COM,384795253-6,Murial,Nicolea,Lorenza,New York,Saugata,RR,E,Ours,Invalid,Deviated,IMPACT2,3 American Trail
+4,COM,591119217-9,Rutter,Teriann,Rip,Pune,Nagaraju,MDR,C,Ours,Invalid,Deviated,IMPACT2,1972 Scott Pass
+5,COM,276662900-9,Aube,Jemmy,Tatiana,Sydney,Divya,MDR,E,Ours,Invalid,Deviated,IMPACT3,37188 Karstens Pass
+1,CA,571179300-4,Claire,Augusta,Betsey,Sydney,Apoorv,NC,C,Ours,Valid,Adhered,,
+3,COM,550752275-8,Davin,Danny,Sonja,Pune,Suruchi,NC,V,Ours,Invalid,Deviated,IMPACT1,3 American Trail
+5,COM,552664202-X,Carrissa,Augusta,Betsey,Sydney,Divya,DNR,C,Ours,Valid,Adhered,,
+3,COM,999378597-0,Emory,Normand,Axe,Pune,Saugata,RR,C,Ours,Valid,Adhered,,
+4,COM,450349879-7,Jacintha,Meghan,Rip,Pune,Nagaraju,DNR,E,Ours,Valid,Adhered,,
+5,COM,748651174-6,Ernaline,Jeramey,Filippo,New York,Sandeep,PM,E,Ours,Valid,Adhered,,
+2,COM,478594317-3,Thomas,Osbourne,Alastair,Sydney,Sandeep,WMS,E,Ours,Valid,Adhered,,
+4,COM,324537886-6,Chaunce,Candra,Eugenia,London,Priyanka,WMS,V,Ours,Invalid,Deviated,IMPACT1,1972 Scott Pass
+4,COM,008441912-1,Tawnya,Hestia,Axe,Pune,Saugata,WMS,C,Ours,Valid,Adhered,,
+3,COM,045591903-8,Kristofor,Brodie,Janna,Pune,Shiva,PM,C,Ours,Invalid,Deviated,IMPACT5,6 Bashford Avenue
+2,CA,794760325-1,Kitty,Sanson,Suzanna,Pune,Ruturaj,NC,E,Ours,Invalid,Deviated,IMPACT2,923 Hazelcrest Avenue
+2,COM,059354311-4,Rivkah,Clemente,Axe,London,Suruchi,NC,V,Ours,Valid,Adhered,,
+3,COM,530908356-1,Jonas,Meghan,Rip,Pune,Sandeep,IM,C,Ours,Invalid,Deviated,IMPACT3,00 Mayfield Lane
+2,COM,356533757-5,Glory,Meghan,Rip,Pune,Sandeep,DNR,E,Ours,Valid,Adhered,,
+4,COM,987686615-X,Celinda,Danny,Sonja,Pune,Himabindu,RR,V,Ours,Valid,Adhered,,
+5,COM,555018701-9,Vonni,Devinne,Theodosia,Pune,Nagaraju,NC,C,Ours,Invalid,Deviated,IMPACT2,655 Grayhawk Trail
+1,COM,810205233-3,Cherey,Hestia,Axe,Pune,Himabindu,NC,V,Others,Invalid,Deviated,IMPACT3,923 Hazelcrest Avenue
+4,COM,963521283-6,Kalina,Antone,Philbert,Pune,Shiva,NC,E,Ours,Valid,Adhered,,
+3,COM,130121485-X,Bobbette,Shantee,Sonja,Pune,Apoorv,MDR,C,Ours,Invalid,Deviated,IMPACT4,1 Hintze Hill
+2,COM,453591754-X,Dyanna,Ame,Rozalie,Pune,Divya,DNR,E,Ours,Valid,Adhered,,
+4,COM,576307669-9,Sheilakathryn,Damiano,Alejandrina,Sydney,Shiva,WMS,E,Ours,Invalid,Deviated,IMPACT1,4 Johnson Pass
+3,COM,096951698-3,Breena,Devinne,Theodosia,Pune,Nagaraju,IM,C,Ours,Valid,Adhered,,
+4,COM,933104540-9,Garland,Harmonia,Alejandrina,Pune,Sandeep,NC,C,Ours,Invalid,Deviated,IMPACT2,330 Nevada Circle
+4,COM,636762560-7,Brod,Dew,Darnell,New York,Shiva,DNR,E,Ours,Valid,Adhered,,
+4,COM,382062845-2,Bryn,Augusta,Betsey,Sydney,Suruchi,IM,C,Ours,Invalid,Deviated,IMPACT1,7789 Springview Drive
+3,COM,561389804-9,Nerta,Augusta,Betsey,Sydney,Himabindu,WMS,V,Ours,Invalid,Deviated,IMPACT4,00 Mayfield Lane
+2,COM,811232225-2,Marya,Lexi,Stormie,Pune,Saugata,DNR,E,Ours,Invalid,Deviated,IMPACT3,3 American Trail
+2,COM,717854223-3,Milo,Kirby,Alec,Sydney,Himabindu,MDR,C,Ours,Invalid,Deviated,IMPACT1,3 American Trail
+2,COM,050854126-3,Cristina,Osbourne,Alastair,Sydney,Priyanka,DNR,E,Ours,Invalid,Deviated,IMPACT4,6060 Lien Place
+4,CA,579667019-0,Salomo,Zaneta,Philbert,Pune,Sandeep,NC,C,Ours,Invalid,Deviated,IMPACT3,923 Hazelcrest Avenue
+3,COM,286456344-4,Olive,Brittne,Nevile,Pune,Ruturaj,PM,C,Others,Invalid,Deviated,IMPACT1,1972 Scott Pass
+2,COM,538962088-7,Dale,Brietta,Sonja,London,Saugata,NC,E,Ours,Invalid,Deviated,IMPACT5,4175 Fordem Circle
+1,COM,199462316-0,Kristien,Meghan,Rip,Pune,Nagaraju,WMS,V,Ours,Valid,Adhered,,
+2,COM,345392054-6,Vikki,Ives,Philbert,Pune,Shiva,PM,C,Others,Valid,Adhered,,
+3,COM,216918841-X,Susie,Edwin,Philbert,New York,Nagaraju,PM,V,Ours,Valid,Adhered,,
+4,COM,932382342-2,Winnie,Carmita,Philbert,Sydney,Sandeep,PM,E,Ours,Valid,Adhered,,
+2,COM,950610160-4,Juan,Ryon,Tawnya,Sydney,Sandeep,NC,E,Ours,Invalid,Deviated,IMPACT5,42408 Hayes Place
+2,COM,308611708-7,Lucina,Clementina,Filippo,Pune,Shiva,PM,C,Ours,Invalid,Deviated,IMPACT2,3 American Trail
+2,COM,265300386-4,Erina,Brietta,Sonja,London,Saugata,IM,V,Ours,Valid,Adhered,,
+5,CA,762466759-2,Enrika,Shayne,Alec,London,Suruchi,MDR,V,Ours,Invalid,Deviated,IMPACT1,89 Anhalt Park
+4,COM,063951751-X,Maria,Kirby,Alec,Sydney,Saugata,MDR,E,Ours,Valid,Adhered,,
+4,COM,734325551-7,Francis,Kamila,Stormie,Pune,Suruchi,DNR,E,Ours,Invalid,Deviated,IMPACT3,00 Mayfield Lane
+3,COM,719948642-1,Julie,Shayne,Alec,London,Saugata,PM,E,Ours,Valid,Adhered,,
+5,CA,781334601-7,Gabriela,Marja,Theodosia,Pune,Ruturaj,WMS,V,Ours,Valid,Adhered,,
+3,COM,607641168-6,Walton,Agathe,Sonja,Pune,Divya,IM,E,Ours,Valid,Adhered,,
+1,COM,517000045-6,Donnie,Valma,Betsey,Sydney,Suruchi,IM,E,Ours,Invalid,Deviated,IMPACT1,1972 Scott Pass
+4,COM,336568311-9,Candida,Damiano,Alejandrina,Sydney,Nagaraju,PM,C,Ours,Valid,Adhered,,
+2,COM,381766145-2,Kyle,Ara,Carlina,New York,Saugata,IM,E,Ours,Valid,Adhered,,
+3,COM,673772515-5,Consuelo,Harrison,Liz,London,Suruchi,NC,C,Ours,Invalid,Deviated,IMPACT4,6 Cardinal Hill
+3,COM,658311605-7,Massimiliano,Ives,Philbert,Pune,Ruturaj,RR,V,Ours,Invalid,Deviated,IMPACT1,1972 Scott Pass
+1,COM,693347759-2,Daron,Kirby,Alec,Sydney,Suruchi,WMS,C,Ours,Valid,Adhered,,
+4,COM,182806495-5,Lothaire,Sterne,Theodosia,New York,Ruturaj,IM,V,Ours,Invalid,Deviated,IMPACT1,3518 Schiller Way
+3,COM,117662032-0,Bobette,Shayne,Alec,London,Saugata,PM,C,Others,Invalid,Deviated,IMPACT2,1972 Scott Pass
+5,COM,196741524-2,Aridatha,Clementina,Filippo,Pune,Priyanka,PM,E,Others,Valid,Adhered,,
+2,COM,417498247-3,Rebe,Kirby,Alec,Sydney,Suruchi,NC,V,Others,Invalid,Deviated,IMPACT2,37188 Karstens Pass
+4,COM,293480018-0,Sondra,Chas,Filippo,New York,Sandeep,RR,E,Ours,Valid,Adhered,,
+1,COM,935506077-7,Flor,Harv,Stormie,Sydney,Suruchi,NC,E,Ours,Invalid,Deviated,IMPACT4,75 School Alley
+4,COM,864709992-3,Clyve,Carmita,Philbert,Sydney,Shiva,DNR,C,Ours,Invalid,Deviated,IMPACT5,2834 Muir Road
+1,COM,498737028-X,Carline,Chas,Filippo,New York,Shiva,PM,E,Ours,Invalid,Deviated,IMPACT5,923 Hazelcrest Avenue
+2,COM,424366192-8,Faustina,Chas,Filippo,New York,Nagaraju,NC,E,Ours,Invalid,Deviated,IMPACT1,923 Hazelcrest Avenue
+5,COM,255982809-X,Willow,Dicky,Eugenia,New York,Priyanka,DNR,V,Ours,Valid,Adhered,,
+4,COM,704181313-4,Gale,Gardiner,Stormie,Pune,Apoorv,IM,E,Ours,Invalid,Deviated,IMPACT1,47745 Acker Park
+2,COM,193999672-4,Blancha,Augusta,Betsey,Sydney,Divya,WMS,C,Ours,Valid,Adhered,,
+4,COM,625351160-2,Andrea,Brittne,Nevile,Pune,Ruturaj,IM,E,Ours,Invalid,Deviated,IMPACT2,1972 Scott Pass
+2,COM,118876586-8,Halli,Antone,Philbert,Pune,Sandeep,RR,V,Ours,Valid,Adhered,,
+5,COM,686268603-8,Fredia,Tony,Stormie,Pune,Suruchi,WMS,C,Ours,Valid,Adhered,,
+1,COM,936227241-5,Parrnell,Normand,Axe,Pune,Himabindu,DNR,V,Ours,Invalid,Deviated,IMPACT1,26748 Carpenter Park
+4,COM,934121509-9,Lem,Tony,Stormie,Pune,Suruchi,PM,E,Ours,Valid,Adhered,,
+4,COM,395129823-5,Webb,Devinne,Theodosia,Pune,Priyanka,IM,V,Ours,Valid,Adhered,,
+2,COM,217821978-0,Dorie,Valma,Betsey,Sydney,Himabindu,NC,V,Ours,Valid,Adhered,,
+4,COM,026129212-9,Saraann,Sterne,Theodosia,New York,Nagaraju,NC,V,Ours,Invalid,Deviated,IMPACT2,923 Hazelcrest Avenue
+5,COM,661984334-4,Jacquelynn,Tuckie,Phil,Pune,Apoorv,NC,E,Ours,Invalid,Deviated,IMPACT2,20816 Nevada Parkway
+1,COM,698045895-7,Pietra,Kirby,Alec,Sydney,Himabindu,MDR,E,Ours,Valid,Adhered,,
+1,COM,045700489-4,Lorilyn,Codee,Martguerita,New York,Shiva,RR,C,Ours,Invalid,Deviated,IMPACT3,00 Mayfield Lane
+5,COM,443868887-6,Jamill,Janith,Alec,Pune,Apoorv,PM,V,Ours,Invalid,Deviated,IMPACT3,1360 Crescent Oaks Alley
+5,COM,439053324-X,Elysha,Ole,Lorenza,New York,Suruchi,MDR,C,Ours,Valid,Adhered,,
+3,CA,382019779-6,Trev,Zaneta,Philbert,Pune,Shiva,WMS,E,Ours,Invalid,Deviated,IMPACT3,00 Mayfield Lane
+5,COM,845692299-4,Fidel,Kirby,Alec,Sydney,Saugata,PM,C,Ours,Valid,Adhered,,
+4,COM,189227628-3,Cecil,Harrison,Liz,London,Saugata,RR,V,Ours,Invalid,Deviated,IMPACT3,1972 Scott Pass
+4,COM,252729654-8,Riley,Zaneta,Philbert,Pune,Sandeep,MDR,C,Ours,Valid,Adhered,,
+4,COM,316477218-1,Yvonne,Clementina,Filippo,Pune,Shiva,DNR,C,Ours,Invalid,Deviated,IMPACT1,3 American Trail
+4,COM,234962028-X,Ros,Shayne,Alec,London,Himabindu,PM,E,Ours,Invalid,Deviated,IMPACT1,690 Hazelcrest Point
+2,COM,582145720-3,Bobina,Antone,Philbert,Pune,Shiva,MDR,V,Others,Invalid,Deviated,IMPACT1,8 Gateway Lane
+4,COM,536813251-4,Rici,Corrie,Martguerita,New York,Sandeep,RR,E,Ours,Invalid,Deviated,IMPACT2,3 American Trail
+5,COM,113198294-0,Kay,Chas,Filippo,New York,Priyanka,IM,E,Ours,Valid,Adhered,,
+3,CA,496631790-8,Jamaal,Ame,Rozalie,Pune,Saugata,IM,V,Ours,Valid,Adhered,,
+1,COM,810080328-5,Austina,Hestia,Axe,Pune,Divya,RR,V,Ours,Valid,Adhered,,
+4,COM,711157906-2,Nicky,Gardiner,Stormie,Pune,Himabindu,DNR,C,Ours,Valid,Adhered,,
+5,COM,221273213-9,Hermine,Kirby,Alec,Sydney,Divya,NC,C,Ours,Invalid,Deviated,IMPACT3,1972 Scott Pass
+4,COM,037577030-5,Reinhard,Dicky,Eugenia,New York,Ruturaj,NC,V,Ours,Valid,Adhered,,
+3,COM,914952880-7,Ddene,Alvin,Rip,New York,Ruturaj,IM,V,Ours,Invalid,Deviated,IMPACT3,1105 Bowman Trail
+4,COM,642247239-0,Marla,Danny,Sonja,Pune,Suruchi,RR,E,Ours,Invalid,Deviated,IMPACT1,20 Cascade Terrace
+3,COM,505682687-1,Andra,Maddie,Ardelia,Pune,Nagaraju,PM,C,Ours,Valid,Adhered,,
+4,COM,963712781-X,Dell,Devinne,Theodosia,Pune,Priyanka,MDR,C,Ours,Invalid,Deviated,IMPACT4,1440 Meadow Valley Trail
+3,COM,763062523-5,Melisse,Marja,Theodosia,Pune,Ruturaj,NC,C,Ours,Invalid,Deviated,IMPACT3,00 Mayfield Lane
+2,COM,790653261-9,Jaye,Antone,Philbert,Pune,Sandeep,IM,V,Ours,Valid,Adhered,,
+2,COM,770889878-1,Brandy,Ara,Carlina,New York,Himabindu,RR,V,Ours,Valid,Adhered,,
+2,COM,613344081-3,Dolores,Brodie,Janna,Pune,Nagaraju,MDR,E,Ours,Invalid,Deviated,IMPACT1,37188 Karstens Pass
+1,COM,496159569-1,Roscoe,Brittne,Nevile,Pune,Shiva,NC,C,Ours,Valid,Adhered,,
+2,COM,673879303-0,Livvie,Teriann,Rip,Pune,Nagaraju,IM,C,Ours,Valid,Adhered,,
+4,CA,402759666-8,Toddie,Harrison,Liz,London,Apoorv,DNR,V,Ours,Valid,Adhered,,
+3,COM,698121317-6,Allegra,Brittne,Nevile,Pune,Sandeep,PM,V,Ours,Invalid,Deviated,IMPACT4,1972 Scott Pass
+3,COM,510385084-2,Alonzo,Kirby,Alec,Sydney,Suruchi,IM,E,Ours,Valid,Adhered,,
+2,COM,970404885-8,Melody,Sterne,Theodosia,New York,Priyanka,NC,E,Ours,Invalid,Deviated,IMPACT2,774 Buena Vista Way
+4,COM,658841237-1,Harrietta,Hestia,Axe,Pune,Divya,RR,E,Ours,Invalid,Deviated,IMPACT4,1 Hintze Hill
+1,CA,922692886-X,Culver,Clementina,Filippo,Pune,Priyanka,RR,V,Ours,Invalid,Deviated,IMPACT3,509 Tennessee Street
+3,COM,206819678-6,Maren,Ives,Philbert,Pune,Shiva,DNR,E,Ours,Invalid,Deviated,IMPACT4,80 Sommers Hill
+1,COM,526390277-8,Irina,Brietta,Sonja,London,Divya,RR,V,Ours,Valid,Adhered,,
+1,CA,249911615-3,Jeannette,Brodie,Janna,Pune,Priyanka,PM,V,Ours,Invalid,Deviated,IMPACT1,3 American Trail
+4,COM,462939866-X,Ashbey,Harrison,Liz,London,Divya,IM,V,Ours,Invalid,Deviated,IMPACT1,45 Crescent Oaks Alley
+2,COM,513550473-7,Calypso,Ryon,Tawnya,Sydney,Shiva,NC,C,Others,Valid,Adhered,,
+2,COM,138726275-0,Tish,Augusta,Betsey,Sydney,Suruchi,IM,E,Ours,Valid,Adhered,,
+4,COM,093115608-4,Lorettalorna,Osbourne,Alastair,Sydney,Nagaraju,WMS,V,Ours,Valid,Adhered,,
+4,COM,600917060-5,Phillida,Rosetta,Rozalie,Pune,Suruchi,DNR,E,Ours,Valid,Adhered,,
+5,COM,733592550-9,Lara,Sterne,Theodosia,New York,Ruturaj,IM,V,Ours,Invalid,Deviated,IMPACT3,00 Mayfield Lane
+1,COM,475016034-2,Lane,Fancy,Lutero,Pune,Suruchi,IM,E,Ours,Valid,Adhered,,
+3,COM,081554611-4,Duffy,Clemente,Axe,London,Himabindu,RR,C,Ours,Valid,Adhered,,
+3,COM,493683811-X,Dania,Kamila,Stormie,Pune,Suruchi,NC,E,Ours,Invalid,Deviated,IMPACT4,00 Mayfield Lane
+2,COM,578194925-9,Jeniffer,Shayne,Alec,London,Suruchi,IM,E,Ours,Invalid,Deviated,IMPACT1,923 Hazelcrest Avenue
+5,COM,178857476-1,Penelopa,Kirby,Alec,Sydney,Saugata,WMS,E,Others,Valid,Adhered,,
+4,COM,573936728-X,Nollie,Edwin,Philbert,New York,Ruturaj,PM,E,Ours,Invalid,Deviated,IMPACT2,6827 Elmside Hill
+2,COM,634003688-0,Meredith,Sanson,Suzanna,Pune,Ruturaj,RR,E,Ours,Invalid,Deviated,IMPACT1,00 Mayfield Lane
+4,COM,971874781-8,Francis,Ryon,Tawnya,Sydney,Ruturaj,RR,E,Ours,Invalid,Deviated,IMPACT4,7 Southridge Center
+4,COM,673036048-8,Alisun,Hestia,Axe,Pune,Divya,NC,V,Others,Invalid,Deviated,IMPACT4,86 Bluestem Way
+2,COM,729864434-3,Salvador,Teriann,Rip,Pune,Ruturaj,MDR,C,Ours,Valid,Adhered,,
+2,COM,633696312-8,Yolanda,Brittne,Nevile,Pune,Ruturaj,IM,V,Ours,Valid,Adhered,,
+5,CA,736711432-8,Anastassia,Brittne,Nevile,Pune,Sandeep,PM,C,Ours,Valid,Adhered,,
+2,COM,547079992-1,Binny,Agathe,Sonja,Pune,Himabindu,DNR,V,Ours,Invalid,Deviated,IMPACT2,923 Hazelcrest Avenue
+3,COM,817346294-1,Gard,Ryon,Tawnya,Sydney,Nagaraju,MDR,C,Ours,Invalid,Deviated,IMPACT1,923 Hazelcrest Avenue
+5,COM,850662337-5,Amalia,Jemmy,Tatiana,Sydney,Apoorv,MDR,C,Ours,Valid,Adhered,,
+1,COM,813636385-4,Jacky,Mathias,Berthe,Pune,Apoorv,IM,E,Ours,Invalid,Deviated,IMPACT4,923 Hazelcrest Avenue
+5,CA,392684993-2,Charla,Damiano,Alejandrina,Sydney,Sandeep,WMS,C,Others,Valid,Adhered,,
+1,COM,151398498-5,Renado,Beryle,Lorenza,New York,Apoorv,RR,C,Ours,Valid,Adhered,,
+1,COM,922002021-1,Sandor,Ryon,Tawnya,Sydney,Nagaraju,IM,V,Others,Valid,Adhered,,
+4,COM,430405894-0,Karla,Teriann,Rip,Pune,Shiva,WMS,E,Ours,Invalid,Deviated,IMPACT2,49 Dryden Way
+3,COM,237928826-7,Myer,Edwin,Philbert,New York,Priyanka,PM,V,Ours,Valid,Adhered,,
+4,COM,804607760-7,Whitaker,Raynard,Tatiana,Pune,Divya,PM,C,Ours,Invalid,Deviated,IMPACT1,923 Hazelcrest Avenue
+3,COM,338414867-3,Keenan,Carmita,Philbert,Sydney,Sandeep,PM,E,Ours,Invalid,Deviated,IMPACT4,1972 Scott Pass
+3,COM,289890814-2,Mallissa,Shayne,Alec,London,Saugata,NC,V,Others,Invalid,Deviated,IMPACT3,3 American Trail
+3,COM,133130894-1,Shannon,Raynard,Tatiana,Pune,Himabindu,MDR,E,Ours,Invalid,Deviated,IMPACT4,24145 Anderson Parkway
+5,COM,397672177-8,Jocelyne,Malcolm,Eugenia,New York,Ruturaj,PM,E,Ours,Invalid,Deviated,IMPACT2,1 Hintze Hill
+2,COM,526620173-8,Torrie,Jemmy,Tatiana,Sydney,Saugata,NC,E,Others,Invalid,Deviated,IMPACT3,1972 Scott Pass
+2,COM,496107383-0,Kylie,Codee,Martguerita,New York,Sandeep,IM,E,Ours,Valid,Adhered,,
+3,COM,152768462-8,Gabi,Durant,Malinda,London,Apoorv,NC,C,Ours,Valid,Adhered,,
+2,COM,755687620-9,Fidelity,Brodie,Janna,Pune,Shiva,RR,V,Ours,Invalid,Deviated,IMPACT4,5 Arizona Avenue
+2,COM,321800186-2,Ethelin,Meghan,Rip,Pune,Ruturaj,DNR,C,Ours,Invalid,Deviated,IMPACT1,25 Bowman Terrace
+1,COM,769720930-6,Adelice,Zaneta,Philbert,Pune,Nagaraju,MDR,V,Ours,Valid,Adhered,,
+4,COM,676105651-9,Gwennie,Brigitta,Ardelia,Sydney,Ruturaj,RR,C,Ours,Valid,Adhered,,
+1,COM,192276108-7,Sibylla,Ara,Carlina,New York,Suruchi,PM,E,Ours,Valid,Adhered,,
+1,COM,194414341-6,Beck,Candra,Eugenia,London,Ruturaj,DNR,V,Ours,Valid,Adhered,,
+2,COM,472044927-1,Carmencita,Brodie,Janna,Pune,Sandeep,WMS,E,Ours,Valid,Adhered,,
+3,COM,325701252-7,Ingaborg,Codee,Martguerita,New York,Shiva,DNR,V,Ours,Invalid,Deviated,IMPACT2,1972 Scott Pass
+4,COM,227286555-0,Cinderella,Sterne,Theodosia,New York,Shiva,DNR,V,Ours,Valid,Adhered,,
+2,COM,003295815-3,Vernen,Clemente,Axe,London,Suruchi,PM,C,Ours,Invalid,Deviated,IMPACT2,86 Manley Road
+4,COM,018848508-2,Purcell,Mathias,Berthe,Pune,Suruchi,WMS,C,Ours,Invalid,Deviated,IMPACT1,3400 Mariners Cove Court
+1,COM,068874008-1,Pamelina,Winnie,Sandye,Pune,Himabindu,NC,C,Others,Valid,Adhered,,
+5,COM,925011847-3,Everett,Durant,Malinda,London,Himabindu,DNR,C,Ours,Invalid,Deviated,IMPACT4,704 Hooker Plaza
+2,COM,070726559-2,Bee,Janith,Alec,Pune,Himabindu,IM,E,Ours,Invalid,Deviated,IMPACT3,6 East Court
+2,CA,426047677-7,La verne,Candra,Eugenia,London,Nagaraju,RR,E,Ours,Invalid,Deviated,IMPACT3,3 American Trail
+1,COM,281863583-7,Delmar,Devinne,Theodosia,Pune,Priyanka,DNR,E,Ours,Invalid,Deviated,IMPACT3,4 Mendota Point
+5,COM,967487782-7,Liuka,Valma,Betsey,Sydney,Apoorv,WMS,C,Ours,Invalid,Deviated,IMPACT1,3 American Trail
+2,COM,901084589-3,Sarine,Caryl,Filippo,New York,Nagaraju,DNR,V,Others,Invalid,Deviated,IMPACT3,923 Hazelcrest Avenue
+4,COM,052847785-4,Avery,Agathe,Sonja,Pune,Suruchi,RR,C,Ours,Invalid,Deviated,IMPACT3,923 Hazelcrest Avenue
+4,COM,138487129-2,Gabi,Mathias,Berthe,Pune,Himabindu,MDR,E,Ours,Valid,Adhered,,
+4,COM,902473767-2,Janel,Shayne,Alec,London,Himabindu,WMS,E,Ours,Valid,Adhered,,
+4,COM,939483930-5,Kara,Brodie,Janna,Pune,Sandeep,RR,C,Ours,Valid,Adhered,,
+2,COM,204336932-6,Cinderella,Gardiner,Stormie,Pune,Divya,IM,C,Ours,Valid,Adhered,,
+2,COM,189002316-7,Jozef,Sterne,Theodosia,New York,Shiva,DNR,C,Ours,Invalid,Deviated,IMPACT1,923 Hazelcrest Avenue
+3,COM,234493892-3,Nesta,Kirby,Alec,Sydney,Apoorv,MDR,C,Ours,Invalid,Deviated,IMPACT3,3 American Trail
+3,COM,901233558-2,Olivie,Clementina,Filippo,Pune,Sandeep,RR,V,Ours,Valid,Adhered,,
+5,CA,336050684-7,Flossi,Brodie,Janna,Pune,Sandeep,PM,C,Ours,Valid,Adhered,,
+3,COM,385140834-9,Arlyn,Maddie,Ardelia,Pune,Sandeep,MDR,E,Ours,Valid,Adhered,,
+1,COM,086871185-3,Weber,Agathe,Sonja,Pune,Suruchi,PM,C,Others,Valid,Adhered,,
+2,COM,422399369-0,Krista,Agathe,Sonja,Pune,Divya,DNR,C,Others,Valid,Adhered,,
+4,COM,219036045-5,Ula,Jeramey,Filippo,New York,Sandeep,MDR,V,Ours,Valid,Adhered,,
+1,COM,864284074-9,Josephine,Carmita,Philbert,Sydney,Shiva,WMS,E,Ours,Valid,Adhered,,
+1,COM,121888161-5,Zonnya,Candra,Eugenia,London,Sandeep,RR,E,Others,Invalid,Deviated,IMPACT2,25 Shasta Center
+3,COM,567464479-9,Valeda,Dicky,Eugenia,New York,Sandeep,NC,E,Ours,Valid,Adhered,,
+2,COM,604978136-2,Dayle,Malcolm,Eugenia,New York,Ruturaj,NC,V,Others,Valid,Adhered,,
+3,COM,602163933-2,Sarene,Ives,Philbert,Pune,Ruturaj,MDR,E,Ours,Valid,Adhered,,
+2,COM,578101007-6,Colby,Maddie,Ardelia,Pune,Shiva,MDR,C,Ours,Invalid,Deviated,IMPACT2,798 Springview Pass
+4,COM,610242910-9,Jerrold,Danny,Sonja,Pune,Himabindu,MDR,C,Ours,Valid,Adhered,,
+2,COM,231573687-0,Noami,Marja,Theodosia,Pune,Sandeep,IM,V,Ours,Invalid,Deviated,IMPACT2,923 Hazelcrest Avenue
+3,COM,571794169-2,Lutero,Rosetta,Rozalie,Pune,Apoorv,NC,E,Ours,Valid,Adhered,,
+2,COM,199525627-7,Rosalinda,Maddie,Ardelia,Pune,Ruturaj,MDR,C,Ours,Invalid,Deviated,IMPACT4,8 Donald Terrace
+4,COM,278279142-7,Leann,Brietta,Sonja,London,Apoorv,MDR,V,Ours,Valid,Adhered,,
+1,COM,994029395-X,Carly,Kirby,Alec,Sydney,Saugata,PM,V,Ours,Valid,Adhered,,
+5,COM,734294357-6,Jabez,Edwin,Philbert,New York,Shiva,RR,E,Ours,Valid,Adhered,,
+2,COM,634815068-2,Brietta,Carmita,Philbert,Sydney,Priyanka,IM,E,Ours,Valid,Adhered,,
+5,COM,703704207-2,Philly,Kamila,Stormie,Pune,Suruchi,RR,E,Ours,Valid,Adhered,,
+5,CA,382728802-9,Chuck,Malcolm,Eugenia,New York,Ruturaj,WMS,E,Ours,Valid,Adhered,,
+1,COM,596820481-8,Mab,Agathe,Sonja,Pune,Himabindu,NC,V,Ours,Valid,Adhered,,
+4,COM,546458351-3,Thacher,Shantee,Sonja,Pune,Suruchi,MDR,V,Ours,Invalid,Deviated,IMPACT3,8 Morning Junction
+2,CA,459580715-5,Knox,Sterne,Theodosia,New York,Sandeep,IM,C,Ours,Invalid,Deviated,IMPACT4,86239 Gateway Avenue
+1,COM,843775876-9,Sidonia,Valma,Betsey,Sydney,Suruchi,NC,V,Ours,Invalid,Deviated,IMPACT1,76 Grasskamp Place
+2,COM,490520332-5,Caryn,Jeramey,Filippo,New York,Nagaraju,NC,V,Ours,Invalid,Deviated,IMPACT1,6 Manufacturers Junction
+1,CA,773334876-5,Oralia,Brittne,Nevile,Pune,Shiva,IM,V,Ours,Valid,Adhered,,
+4,COM,758786200-5,Katti,Corrie,Martguerita,New York,Ruturaj,NC,E,Ours,Invalid,Deviated,IMPACT4,814 Darwin Trail
+2,COM,100330047-2,Holli,Clementina,Filippo,Pune,Sandeep,WMS,E,Ours,Valid,Adhered,,
+5,COM,823354810-3,Heath,Janith,Alec,Pune,Himabindu,MDR,V,Others,Valid,Adhered,,
+4,COM,968140535-8,Cyrillus,Henrieta,Berthe,Pune,Apoorv,RR,E,Ours,Valid,Adhered,,
+4,COM,990549706-4,Marie,Brigitta,Ardelia,Sydney,Priyanka,PM,E,Ours,Valid,Adhered,,
+2,COM,208896996-9,Bobine,Osbourne,Alastair,Sydney,Sandeep,PM,E,Ours,Invalid,Deviated,IMPACT1,22625 Canary Avenue
+3,COM,369952756-5,Allison,Harrison,Liz,London,Himabindu,NC,V,Ours,Valid,Adhered,,
+4,COM,826454624-2,Free,Antonin,Martguerita,Pune,Nagaraju,PM,C,Ours,Invalid,Deviated,IMPACT3,354 Kingsford Point
+1,COM,230789440-3,Barrett,Ara,Carlina,New York,Apoorv,RR,V,Ours,Valid,Adhered,,
+3,COM,042605454-7,Suzy,Agathe,Sonja,Pune,Apoorv,MDR,V,Ours,Valid,Adhered,,
+3,COM,729223486-0,Arabela,Tony,Stormie,Pune,Saugata,DNR,V,Ours,Valid,Adhered,,
+4,COM,680215474-9,Basile,Antone,Philbert,Pune,Priyanka,DNR,E,Others,Invalid,Deviated,IMPACT3,923 Hazelcrest Avenue
+1,COM,158469918-3,Lucille,Gardiner,Stormie,Pune,Himabindu,NC,V,Ours,Valid,Adhered,,
+1,COM,894161043-5,Genovera,Danny,Sonja,Pune,Himabindu,PM,V,Ours,Invalid,Deviated,IMPACT1,1972 Scott Pass
+5,COM,789985208-0,Katherine,Carmita,Philbert,Sydney,Nagaraju,DNR,V,Others,Invalid,Deviated,IMPACT3,37188 Karstens Pass
+3,COM,573550859-8,Karleen,Candra,Eugenia,London,Nagaraju,PM,C,Ours,Valid,Adhered,,
+4,COM,373941036-1,Ladonna,Augusta,Betsey,Sydney,Saugata,DNR,C,Ours,Invalid,Deviated,IMPACT1,00 Mayfield Lane
+4,COM,282485777-3,Isobel,Antone,Philbert,Pune,Priyanka,DNR,C,Others,Valid,Adhered,,
+4,COM,309953419-6,Aimil,Janith,Alec,Pune,Saugata,PM,E,Ours,Invalid,Deviated,IMPACT3,4736 1st Parkway
+2,COM,090883546-9,Arlie,Brittne,Nevile,Pune,Priyanka,MDR,E,Others,Valid,Adhered,,
+3,COM,639346085-7,Eulalie,Beryle,Lorenza,New York,Himabindu,PM,C,Ours,Valid,Adhered,,
+2,COM,029436330-0,Shanan,Raynard,Tatiana,Pune,Saugata,RR,E,Others,Valid,Adhered,,
+4,COM,417405102-X,Shelia,Maddie,Ardelia,Pune,Ruturaj,WMS,C,Ours,Valid,Adhered,,
+2,CA,019291411-1,Karol,Ame,Rozalie,Pune,Himabindu,PM,E,Ours,Valid,Adhered,,
+4,COM,781954104-0,Gabbie,Durant,Malinda,London,Saugata,MDR,V,Ours,Invalid,Deviated,IMPACT3,3 American Trail
+1,CA,531653407-7,Barnabe,Codee,Martguerita,New York,Sandeep,DNR,E,Ours,Invalid,Deviated,IMPACT1,3 American Trail
+5,COM,612808098-7,Moshe,Normand,Axe,Pune,Suruchi,IM,C,Ours,Valid,Adhered,,
+4,COM,295279746-3,Darcee,Mathias,Berthe,Pune,Suruchi,NC,E,Others,Valid,Adhered,,
+3,COM,638128716-0,Porty,Shayne,Alec,London,Himabindu,NC,C,Ours,Valid,Adhered,,
+1,CA,824163294-0,Farra,Harmonia,Alejandrina,Pune,Shiva,NC,E,Ours,Valid,Adhered,,
+1,COM,161397823-5,Abel,Devinne,Theodosia,Pune,Shiva,PM,E,Others,Valid,Adhered,,
+3,COM,142745773-5,Dulcea,Corrie,Martguerita,New York,Priyanka,NC,V,Ours,Valid,Adhered,,
+2,COM,478452903-9,Katerina,Clementina,Filippo,Pune,Priyanka,DNR,C,Ours,Invalid,Deviated,IMPACT1,79099 Badeau Center
+3,COM,023046374-6,Charleen,Harv,Stormie,Sydney,Divya,WMS,C,Ours,Valid,Adhered,,
+4,CA,251382604-3,Cindee,Jeramey,Filippo,New York,Nagaraju,NC,V,Ours,Valid,Adhered,,
+1,COM,317110877-1,Cherey,Beryle,Lorenza,New York,Divya,NC,C,Ours,Invalid,Deviated,IMPACT3,00 Mayfield Lane
+3,COM,630707335-7,Garreth,Valma,Betsey,Sydney,Saugata,RR,V,Ours,Valid,Adhered,,
+1,COM,626315381-4,Daryl,Brigitta,Ardelia,Sydney,Sandeep,WMS,E,Ours,Invalid,Deviated,IMPACT3,875 Declaration Avenue
+4,COM,410734835-0,Son,Shayne,Alec,London,Divya,IM,E,Ours,Invalid,Deviated,IMPACT3,6598 Schlimgen Parkway
+1,COM,727906620-8,Zolly,Harv,Stormie,Sydney,Divya,NC,C,Ours,Valid,Adhered,,
+1,COM,241112263-2,Inigo,Harmonia,Alejandrina,Pune,Ruturaj,WMS,C,Ours,Invalid,Deviated,IMPACT1,3 American Trail
+1,COM,830136986-8,Sally,Corrie,Martguerita,New York,Shiva,NC,V,Ours,Invalid,Deviated,IMPACT1,579 Farmco Hill
+3,COM,516670792-3,Wilona,Harmonia,Alejandrina,Pune,Priyanka,WMS,V,Ours,Valid,Adhered,,
+3,COM,254042069-9,Charmain,Dew,Darnell,New York,Priyanka,MDR,V,Others,Valid,Adhered,,
+2,COM,015005024-0,Ebonee,Maddie,Ardelia,Pune,Priyanka,NC,C,Ours,Invalid,Deviated,IMPACT1,17 Commercial Park
+2,COM,566306205-X,Sheffield,Shantee,Sonja,Pune,Saugata,RR,V,Ours,Valid,Adhered,,
+2,COM,673685033-9,Valma,Teriann,Rip,Pune,Shiva,WMS,E,Ours,Invalid,Deviated,IMPACT3,1 Hintze Hill
+1,COM,288710231-1,Morlee,Raynard,Tatiana,Pune,Suruchi,DNR,C,Ours,Invalid,Deviated,IMPACT3,8 Buell Center
+3,COM,914468510-6,Dillon,Dew,Darnell,New York,Ruturaj,DNR,E,Ours,Valid,Adhered,,
+4,COM,907424929-9,Dorothea,Hestia,Axe,Pune,Suruchi,DNR,V,Ours,Valid,Adhered,,
+1,COM,325041436-0,Even,Corrie,Martguerita,New York,Nagaraju,IM,V,Ours,Invalid,Deviated,IMPACT1,1 Hintze Hill
+2,COM,021712190-X,Sephira,Tuckie,Phil,Pune,Divya,NC,E,Ours,Valid,Adhered,,
+5,COM,504956100-0,Dennison,Tuckie,Phil,Pune,Himabindu,MDR,V,Ours,Invalid,Deviated,IMPACT1,1972 Scott Pass
+1,COM,575282634-9,Putnam,Gardiner,Stormie,Pune,Apoorv,IM,E,Ours,Valid,Adhered,,
+1,COM,619223075-7,Lauree,Ame,Rozalie,Pune,Apoorv,RR,C,Ours,Invalid,Deviated,IMPACT3,7 Vera Point
+1,COM,232098216-7,Tammara,Jemmy,Tatiana,Sydney,Divya,MDR,E,Ours,Invalid,Deviated,IMPACT3,00 Mayfield Lane
+3,COM,112033579-5,Kristen,Maddie,Ardelia,Pune,Priyanka,DNR,C,Ours,Valid,Adhered,,
+1,COM,682712437-1,Mic,Edwin,Philbert,New York,Nagaraju,MDR,E,Ours,Valid,Adhered,,
+5,COM,761543241-3,Cybill,Normand,Axe,Pune,Himabindu,MDR,C,Ours,Valid,Adhered,,
+3,CA,135508638-8,Jordon,Osbourne,Alastair,Sydney,Priyanka,MDR,C,Ours,Valid,Adhered,,
+3,COM,283372449-7,Pippy,Jemmy,Tatiana,Sydney,Divya,RR,C,Others,Valid,Adhered,,
+3,COM,867344702-X,Ingemar,Ives,Philbert,Pune,Shiva,MDR,C,Ours,Valid,Adhered,,
+4,COM,508016273-2,Eric,Shayne,Alec,London,Himabindu,NC,C,Others,Valid,Adhered,,
+1,COM,392652843-5,Emmye,Brodie,Janna,Pune,Nagaraju,WMS,V,Ours,Invalid,Deviated,IMPACT1,3 American Trail
+5,COM,935182436-5,Virginia,Codee,Martguerita,New York,Priyanka,WMS,V,Others,Valid,Adhered,,
+4,COM,152649852-9,Woodrow,Brigitta,Ardelia,Sydney,Priyanka,DNR,C,Ours,Valid,Adhered,,
+3,COM,837160501-3,Chiquia,Tuckie,Phil,Pune,Suruchi,DNR,C,Ours,Valid,Adhered,,
+2,COM,170000258-9,Ingeborg,Mathias,Berthe,Pune,Suruchi,WMS,E,Ours,Valid,Adhered,,
+4,COM,184069252-9,Goldina,Sterne,Theodosia,New York,Nagaraju,DNR,V,Ours,Invalid,Deviated,IMPACT3,6 Arapahoe Crossing
+5,COM,743231169-2,Murdoch,Damiano,Alejandrina,Sydney,Priyanka,IM,E,Ours,Invalid,Deviated,IMPACT3,7847 Meadow Vale Road
+4,CA,648256587-5,Louisa,Meghan,Rip,Pune,Nagaraju,RR,V,Ours,Valid,Adhered,,
+1,COM,364684031-5,Bil,Shantee,Sonja,Pune,Suruchi,DNR,C,Ours,Valid,Adhered,,
+3,COM,033585312-9,Isabel,Codee,Martguerita,New York,Shiva,IM,C,Ours,Valid,Adhered,,
+5,COM,858135882-9,Consuelo,Malcolm,Eugenia,New York,Sandeep,WMS,E,Ours,Valid,Adhered,,
+1,COM,707951113-5,Iorgo,Janith,Alec,Pune,Apoorv,DNR,V,Ours,Invalid,Deviated,IMPACT3,923 Hazelcrest Avenue
+2,COM,543156880-9,Sylvan,Brietta,Sonja,London,Saugata,WMS,E,Ours,Invalid,Deviated,IMPACT1,579 Farmco Hill
+2,COM,982843044-4,Adam,Agathe,Sonja,Pune,Saugata,PM,V,Ours,Invalid,Deviated,IMPACT3,26 Grasskamp Hill
+4,COM,266211619-6,Orazio,Ives,Philbert,Pune,Ruturaj,DNR,C,Others,Valid,Adhered,,
+2,COM,677227771-6,Judye,Rosetta,Rozalie,Pune,Saugata,IM,V,Ours,Valid,Adhered,,
+5,COM,736324827-3,Hadley,Antonin,Martguerita,Pune,Ruturaj,WMS,V,Ours,Valid,Adhered,,
+4,COM,672575649-2,Twila,Osbourne,Alastair,Sydney,Priyanka,MDR,E,Ours,Invalid,Deviated,IMPACT1,3 American Trail
+4,CA,004267151-5,Fremont,Harrison,Liz,London,Apoorv,DNR,C,Ours,Invalid,Deviated,IMPACT3,60718 Eagle Crest Court
+2,COM,021871517-X,Winni,Sterne,Theodosia,New York,Ruturaj,WMS,V,Ours,Invalid,Deviated,IMPACT3,1 Hintze Hill
+3,COM,653421641-8,Barnabas,Hestia,Axe,Pune,Suruchi,MDR,E,Ours,Valid,Adhered,,
+3,COM,835011109-7,Decca,Valma,Betsey,Sydney,Suruchi,WMS,E,Ours,Valid,Adhered,,
+5,COM,135987414-3,Hildagarde,Jemmy,Tatiana,Sydney,Divya,WMS,C,Ours,Invalid,Deviated,IMPACT3,1 Hintze Hill
+4,COM,705407950-7,Worden,Damiano,Alejandrina,Sydney,Nagaraju,NC,V,Ours,Valid,Adhered,,
+1,COM,142569007-6,Kenton,Clementina,Filippo,Pune,Nagaraju,MDR,E,Ours,Invalid,Deviated,IMPACT3,00 Mayfield Lane
+1,COM,054451947-7,Myrle,Candra,Eugenia,London,Shiva,RR,V,Ours,Invalid,Deviated,IMPACT3,923 Hazelcrest Avenue
+3,COM,817855552-2,Amii,Carmita,Philbert,Sydney,Sandeep,PM,V,Ours,Valid,Adhered,,
+3,COM,121687615-0,Saleem,Dicky,Eugenia,New York,Shiva,NC,E,Ours,Valid,Adhered,,
+1,COM,758845430-X,Sigrid,Malcolm,Eugenia,New York,Sandeep,PM,V,Ours,Valid,Adhered,,
+1,COM,842819258-8,Bonita,Dicky,Eugenia,New York,Priyanka,IM,C,Ours,Invalid,Deviated,IMPACT3,40 Vidon Trail
+5,COM,113648728-X,Tisha,Marja,Theodosia,Pune,Nagaraju,PM,C,Ours,Valid,Adhered,,
+1,COM,174712742-6,Olenka,Brietta,Sonja,London,Himabindu,PM,E,Ours,Invalid,Deviated,IMPACT3,1972 Scott Pass
+2,COM,840521000-8,Laughton,Beryle,Lorenza,New York,Suruchi,IM,V,Ours,Valid,Adhered,,
+4,COM,195639430-3,Octavius,Sterne,Theodosia,New York,Sandeep,MDR,C,Ours,Valid,Adhered,,
+3,COM,906950225-9,Saraann,Carmita,Philbert,Sydney,Shiva,PM,C,Ours,Valid,Adhered,,
+1,COM,170023569-9,Eduardo,Lexi,Stormie,Pune,Suruchi,NC,C,Ours,Invalid,Deviated,IMPACT1,68 Bashford Drive
+3,CA,867177307-8,Terrill,Tony,Stormie,Pune,Apoorv,PM,E,Ours,Valid,Adhered,,
+4,COM,323586074-6,Lance,Antone,Philbert,Pune,Ruturaj,PM,C,Ours,Valid,Adhered,,
+1,COM,771058334-2,Harriott,Augusta,Betsey,Sydney,Apoorv,PM,C,Ours,Invalid,Deviated,IMPACT3,1972 Scott Pass
+1,CA,374728597-X,Viola,Meghan,Rip,Pune,Shiva,DNR,C,Ours,Invalid,Deviated,IMPACT1,1 Hintze Hill
+5,COM,307292785-5,Tobey,Ryon,Tawnya,Sydney,Shiva,IM,C,Ours,Valid,Adhered,,
+4,COM,524933664-7,Dani,Damiano,Alejandrina,Sydney,Nagaraju,MDR,E,Ours,Invalid,Deviated,IMPACT3,1 Hintze Hill
+1,COM,798959867-1,Hagan,Kamila,Stormie,Pune,Suruchi,DNR,E,Ours,Invalid,Deviated,IMPACT1,690 Hazelcrest Point
+4,COM,358992713-5,Laure,Agathe,Sonja,Pune,Suruchi,NC,E,Ours,Invalid,Deviated,IMPACT1,00 Mayfield Lane
+3,COM,654551945-X,Noam,Marja,Theodosia,Pune,Priyanka,MDR,E,Ours,Valid,Adhered,,
+3,COM,277763358-4,Ron,Antonin,Martguerita,Pune,Nagaraju,RR,E,Ours,Valid,Adhered,,
+2,COM,184797153-9,Brandyn,Durant,Malinda,London,Himabindu,WMS,E,Ours,Valid,Adhered,,
+5,COM,234179156-5,Denver,Kamila,Stormie,Pune,Divya,PM,C,Ours,Invalid,Deviated,IMPACT3,1972 Scott Pass
+4,COM,836419935-8,Sebastian,Garrik,Ardelia,Pune,Sandeep,WMS,V,Ours,Invalid,Deviated,IMPACT3,690 Hazelcrest Point
+1,COM,670067501-4,Leshia,Fancy,Lutero,Pune,Himabindu,WMS,V,Ours,Valid,Adhered,,
+4,COM,278148671-X,Cheryl,Malcolm,Eugenia,New York,Priyanka,WMS,C,Ours,Invalid,Deviated,IMPACT3,7 Harbort Crossing
+3,COM,502768542-4,Riccardo,Sanson,Suzanna,Pune,Shiva,DNR,E,Ours,Valid,Adhered,,
+3,COM,152706749-1,Mattie,Tony,Stormie,Pune,Suruchi,MDR,V,Ours,Valid,Adhered,,
+4,CA,612314298-4,Doria,Maddie,Ardelia,Pune,Nagaraju,NC,V,Ours,Invalid,Deviated,IMPACT3,74 Vermont Road
+1,COM,269565004-3,Silvio,Sterne,Theodosia,New York,Sandeep,WMS,E,Others,Invalid,Deviated,IMPACT3,923 Hazelcrest Avenue
+1,COM,741465511-3,Helenka,Harv,Stormie,Sydney,Himabindu,DNR,V,Ours,Valid,Adhered,,
+1,COM,062489817-2,Bambi,Antonin,Martguerita,Pune,Shiva,RR,V,Ours,Valid,Adhered,,
+3,CA,646246791-6,Stesha,Normand,Axe,Pune,Himabindu,MDR,E,Ours,Valid,Adhered,,
+2,COM,334052440-8,Angelika,Sanson,Suzanna,Pune,Sandeep,WMS,E,Ours,Invalid,Deviated,IMPACT3,806 Maryland Way
+1,COM,952077482-3,Kinsley,Damiano,Alejandrina,Sydney,Nagaraju,MDR,C,Others,Invalid,Deviated,IMPACT3,923 Hazelcrest Avenue
+2,COM,548607241-4,Karole,Alvin,Rip,New York,Ruturaj,MDR,E,Ours,Valid,Adhered,,
+1,COM,835874964-3,Eveline,Alvin,Rip,New York,Sandeep,DNR,C,Ours,Invalid,Deviated,IMPACT1,00 Mayfield Lane
+3,CA,018811376-2,Berny,Lexi,Stormie,Pune,Suruchi,PM,C,Ours,Valid,Adhered,,
+4,COM,030902819-1,Violette,Shayne,Alec,London,Suruchi,DNR,C,Ours,Valid,Adhered,,
+1,COM,870751560-X,Candis,Marja,Theodosia,Pune,Shiva,NC,C,Ours,Invalid,Deviated,IMPACT3,7 Carberry Drive
+4,COM,506148379-0,Curcio,Beryle,Lorenza,New York,Himabindu,RR,E,Ours,Invalid,Deviated,IMPACT1,4627 Ridge Oak Park
+1,COM,835405819-0,Bette-ann,Fancy,Lutero,Pune,Divya,MDR,E,Ours,Invalid,Deviated,IMPACT3,923 Hazelcrest Avenue
+3,COM,819540955-5,Florette,Alvin,Rip,New York,Nagaraju,NC,C,Ours,Valid,Adhered,,
+3,COM,411938532-9,Desmond,Corrie,Martguerita,New York,Sandeep,IM,C,Others,Valid,Adhered,,
+3,COM,709317473-6,Katine,Dicky,Eugenia,New York,Sandeep,DNR,E,Ours,Valid,Adhered,,
+2,COM,653761596-8,Fayre,Harrison,Liz,London,Himabindu,PM,V,Ours,Invalid,Deviated,IMPACT3,3 American Trail
+1,COM,349726431-8,Mollie,Tuckie,Phil,Pune,Suruchi,PM,V,Ours,Valid,Adhered,,
+1,COM,546274846-9,Trixie,Sanson,Suzanna,Pune,Priyanka,IM,E,Ours,Invalid,Deviated,IMPACT3,923 Hazelcrest Avenue
+1,COM,253084976-5,Geoff,Kamila,Stormie,Pune,Divya,NC,V,Ours,Valid,Adhered,,
+2,COM,676097018-7,Lorne,Antone,Philbert,Pune,Shiva,RR,V,Ours,Valid,Adhered,,
+4,COM,220839175-6,Alfred,Dew,Darnell,New York,Priyanka,RR,C,Ours,Invalid,Deviated,IMPACT1,37188 Karstens Pass
+5,COM,060283582-8,Pincus,Codee,Martguerita,New York,Ruturaj,MDR,C,Ours,Valid,Adhered,,
+3,COM,797263349-5,Evangeline,Harmonia,Alejandrina,Pune,Nagaraju,RR,C,Ours,Valid,Adhered,,
+1,COM,797942934-6,Gav,Winnie,Sandye,Pune,Suruchi,WMS,E,Ours,Invalid,Deviated,IMPACT1,00 Mayfield Lane
+5,COM,637218756-6,Hubey,Durant,Malinda,London,Saugata,DNR,C,Ours,Invalid,Deviated,IMPACT1,88 Helena Way
+1,COM,716534513-2,Antonin,Raynard,Tatiana,Pune,Saugata,IM,C,Ours,Valid,Adhered,,
+5,COM,420220901-X,Deane,Marja,Theodosia,Pune,Nagaraju,MDR,E,Ours,Valid,Adhered,,
+4,COM,088231100-X,Carlynne,Shantee,Sonja,Pune,Suruchi,IM,E,Ours,Valid,Adhered,,
+2,COM,791863476-4,Ninnette,Shantee,Sonja,Pune,Suruchi,WMS,E,Ours,Valid,Adhered,,
+1,COM,848939146-7,Charis,Dicky,Eugenia,New York,Sandeep,WMS,E,Ours,Valid,Adhered,,
+1,COM,498018707-2,Bel,Ara,Carlina,New York,Himabindu,NC,C,Ours,Invalid,Deviated,IMPACT1,00 Mayfield Lane
+3,COM,907815962-6,Anabal,Agathe,Sonja,Pune,Suruchi,IM,V,Ours,Valid,Adhered,,
+1,COM,688183121-8,Giselbert,Devinne,Theodosia,Pune,Ruturaj,NC,E,Others,Valid,Adhered,,
+3,COM,323472597-7,Janette,Hestia,Axe,Pune,Saugata,WMS,V,Ours,Invalid,Adhered,,
+2,COM,197499967-X,Weider,Shantee,Sonja,Pune,Himabindu,IM,E,Ours,Invalid,Deviated,IMPACT3,00 Mayfield Lane
+4,COM,154636195-2,Cody,Shantee,Sonja,Pune,Suruchi,RR,E,Ours,Valid,Adhered,,
+3,COM,561929596-6,Vikki,Ole,Lorenza,New York,Divya,WMS,C,Ours,Invalid,Adhered,,
+4,COM,641673824-4,Dory,Zaneta,Philbert,Pune,Nagaraju,WMS,C,Ours,Valid,Adhered,,
+2,CA,641877592-9,Lock,Fancy,Lutero,Pune,Suruchi,NC,V,Ours,Valid,Adhered,,
+3,COM,918497458-3,Amandie,Damiano,Alejandrina,Sydney,Nagaraju,IM,E,Ours,Invalid,Adhered,,
+2,COM,511729201-4,Maxy,Garrik,Ardelia,Pune,Ruturaj,MDR,C,Ours,Valid,Adhered,,
+3,COM,399060151-2,Jerrilyn,Gardiner,Stormie,Pune,Apoorv,IM,C,Ours,Invalid,Adhered,,
+4,COM,675210904-4,Normie,Ives,Philbert,Pune,Priyanka,IM,V,Ours,Valid,Adhered,,
+1,COM,926132373-1,Clem,Alvin,Rip,New York,Sandeep,MDR,E,Ours,Valid,Adhered,,
+2,COM,691675676-4,Westbrook,Brietta,Sonja,London,Himabindu,PM,C,Ours,Valid,Adhered,,
+1,COM,548059663-2,Sue,Sanson,Suzanna,Pune,Ruturaj,IM,C,Ours,Invalid,Deviated,IMPACT3,67447 Sutteridge Circle
+4,COM,108863023-5,Martino,Kirby,Alec,Sydney,Himabindu,IM,C,Ours,Invalid,Deviated,IMPACT3,4 Chinook Plaza
+1,COM,007269491-2,Les,Janith,Alec,Pune,Divya,MDR,C,Ours,Invalid,Deviated,IMPACT3,1 Hintze Hill
+1,COM,397243392-1,Hugibert,Gardiner,Stormie,Pune,Suruchi,WMS,V,Ours,Valid,Adhered,,
+2,COM,397612097-9,Godfry,Normand,Axe,Pune,Apoorv,PM,C,Ours,Valid,Adhered,,
+3,COM,559851375-7,Marybelle,Rosetta,Rozalie,Pune,Suruchi,MDR,C,Ours,Invalid,Adhered,,
+2,COM,573391372-X,Kathy,Ives,Philbert,Pune,Ruturaj,DNR,V,Ours,Invalid,Deviated,IMPACT3,545 Morrow Terrace
+3,COM,604213742-5,Terrie,Ara,Carlina,New York,Divya,NC,V,Ours,Invalid,Adhered,,
+2,COM,982083715-4,Sela,Alvin,Rip,New York,Nagaraju,WMS,E,Ours,Valid,Adhered,,
+1,COM,587317207-2,Dexter,Brittne,Nevile,Pune,Ruturaj,NC,V,Ours,Valid,Adhered,,
+1,CA,979970391-3,Marta,Fancy,Lutero,Pune,Saugata,MDR,E,Ours,Valid,Adhered,,
+2,CA,761032903-7,Benedetta,Augusta,Betsey,Sydney,Himabindu,NC,V,Ours,Invalid,Deviated,IMPACT3,923 Hazelcrest Avenue
+3,CA,503730431-8,Rog,Teriann,Rip,Pune,Nagaraju,IM,E,Ours,Invalid,Adhered,,
+5,COM,251932303-5,Emerson,Durant,Malinda,London,Saugata,DNR,E,Ours,Invalid,Deviated,IMPACT3,1 Hintze Hill
+4,COM,247570483-7,Kinsley,Brodie,Janna,Pune,Nagaraju,PM,V,Ours,Valid,Adhered,,
+4,COM,030848760-5,Susette,Shantee,Sonja,Pune,Divya,PM,E,Ours,Invalid,Deviated,IMPACT3,6590 Brentwood Drive
+5,CA,802672359-7,Bo,Caryl,Filippo,New York,Sandeep,NC,E,Ours,Valid,Adhered,,
+4,COM,251270499-8,Levin,Janith,Alec,Pune,Divya,MDR,V,Others,Invalid,Deviated,IMPACT3,47 Golf Course Point
+2,COM,103310391-8,Trip,Hestia,Axe,Pune,Himabindu,NC,V,Ours,Valid,Adhered,,
+1,COM,892828512-7,Dario,Jemmy,Tatiana,Sydney,Suruchi,RR,V,Ours,Valid,Adhered,,
+3,COM,200852932-0,Keen,Harv,Stormie,Sydney,Apoorv,IM,E,Ours,Invalid,Adhered,,
+3,COM,479424076-7,Worth,Lexi,Stormie,Pune,Himabindu,MDR,V,Ours,Invalid,Adhered,,
+3,CA,202136476-3,Emery,Nicolea,Lorenza,New York,Divya,MDR,E,Ours,Invalid,Adhered,,
+1,COM,542580821-6,Peggie,Ara,Carlina,New York,Apoorv,RR,C,Others,Valid,Adhered,,
+4,CA,950352698-1,Finley,Antonin,Martguerita,Pune,Shiva,PM,V,Ours,Invalid,Deviated,IMPACT1,923 Hazelcrest Avenue
+3,COM,684458346-X,Shanon,Harv,Stormie,Sydney,Suruchi,NC,E,Ours,Invalid,Adhered,,
+2,CA,615062178-2,Ailis,Harmonia,Alejandrina,Pune,Ruturaj,IM,E,Others,Valid,Adhered,,
+4,COM,766327793-7,Teddie,Agathe,Sonja,Pune,Himabindu,RR,E,Ours,Valid,Adhered,,
+4,COM,596629201-9,Giulietta,Normand,Axe,Pune,Apoorv,WMS,E,Ours,Invalid,Deviated,IMPACT1,00 Mayfield Lane
+3,COM,593302870-3,Lorenza,Brittne,Nevile,Pune,Priyanka,PM,E,Others,Invalid,Adhered,,
+4,COM,286646907-0,Magdalen,Shayne,Alec,London,Saugata,MDR,V,Ours,Invalid,Deviated,IMPACT1,41568 Doe Crossing Junction
+4,COM,714721576-1,Janeva,Fancy,Lutero,Pune,Divya,MDR,E,Ours,Invalid,Deviated,IMPACT3,84305 Village Avenue
+5,COM,867233685-2,Heriberto,Antonin,Martguerita,Pune,Priyanka,RR,V,Ours,Valid,Adhered,,
+3,COM,805094062-4,Bernadette,Dicky,Eugenia,New York,Shiva,RR,E,Ours,Invalid,Adhered,,
+2,COM,312795829-3,Bernita,Osbourne,Alastair,Sydney,Ruturaj,RR,V,Ours,Valid,Adhered,,
+1,COM,006986250-8,Gui,Damiano,Alejandrina,Sydney,Sandeep,MDR,C,Ours,Valid,Adhered,,
+3,COM,221906320-8,Bartlett,Chas,Filippo,New York,Nagaraju,WMS,E,Ours,Invalid,Adhered,,
+3,COM,143909013-0,Claire,Shantee,Sonja,Pune,Himabindu,RR,C,Ours,Invalid,Adhered,,
+4,COM,513788111-2,Brodie,Harv,Stormie,Sydney,Suruchi,PM,V,Ours,Valid,Adhered,,
+1,COM,824395703-0,Jessy,Ara,Carlina,New York,Himabindu,PM,C,Ours,Invalid,Deviated,IMPACT3,79797 Rieder Terrace
+2,COM,560700286-1,Augusta,Brittne,Nevile,Pune,Nagaraju,NC,E,Ours,Valid,Adhered,,
+5,COM,840190262-2,Fidela,Augusta,Betsey,Sydney,Suruchi,MDR,V,Ours,Valid,Adhered,,
+3,COM,838036430-9,Ambur,Maddie,Ardelia,Pune,Nagaraju,RR,V,Ours,Invalid,Adhered,,
+3,COM,483466348-5,Elfrieda,Normand,Axe,Pune,Divya,DNR,E,Ours,Invalid,Adhered,,
+1,COM,296341240-1,Marsh,Corrie,Martguerita,New York,Sandeep,RR,E,Ours,Valid,Adhered,,
+3,CA,487415557-X,Horten,Alvin,Rip,New York,Nagaraju,IM,C,Ours,Invalid,Adhered,,
+2,COM,813525540-3,Masha,Maddie,Ardelia,Pune,Priyanka,NC,V,Ours,Invalid,Deviated,IMPACT3,38 Mandrake Street
+2,COM,617399287-6,Chet,Janith,Alec,Pune,Divya,IM,V,Ours,Invalid,Deviated,IMPACT3,365 Oxford Junction
+5,COM,275694200-6,Melloney,Devinne,Theodosia,Pune,Sandeep,PM,E,Ours,Valid,Adhered,,
+1,COM,660637689-0,Lesli,Ives,Philbert,Pune,Sandeep,RR,V,Ours,Invalid,Deviated,IMPACT1,5938 Sachtjen Terrace
+2,COM,650358468-7,Aristotle,Marja,Theodosia,Pune,Priyanka,PM,C,Others,Valid,Adhered,,
+1,COM,539580681-4,Faythe,Augusta,Betsey,Sydney,Himabindu,WMS,V,Ours,Invalid,Deviated,IMPACT3,704 Hooker Plaza
+2,COM,911173866-9,Claudelle,Carmita,Philbert,Sydney,Ruturaj,DNR,C,Ours,Invalid,Deviated,IMPACT3,923 Hazelcrest Avenue
+3,COM,931087885-1,Ailee,Shantee,Sonja,Pune,Saugata,RR,C,Ours,Invalid,Adhered,,
+2,CA,515653528-3,Brittaney,Jemmy,Tatiana,Sydney,Apoorv,PM,V,Ours,Invalid,Deviated,IMPACT3,30838 Bartelt Court
+4,CA,399090627-5,Atlante,Hestia,Axe,Pune,Suruchi,WMS,E,Ours,Valid,Adhered,,
+1,COM,440297072-5,Roderick,Teriann,Rip,Pune,Priyanka,DNR,V,Ours,Invalid,Deviated,IMPACT1,00 Mayfield Lane
+3,COM,068561650-9,Sashenka,Jemmy,Tatiana,Sydney,Himabindu,NC,C,Ours,Invalid,Adhered,,
+1,COM,633284030-7,Bunny,Durant,Malinda,London,Apoorv,MDR,V,Ours,Invalid,Deviated,IMPACT3,339 Northfield Center
+4,COM,739549986-7,Klarrisa,Ame,Rozalie,Pune,Divya,NC,E,Ours,Invalid,Deviated,IMPACT3,80 Milwaukee Way
+5,COM,055631113-2,Eugenius,Mathias,Berthe,Pune,Himabindu,PM,E,Ours,Invalid,Deviated,IMPACT3,3 American Trail
+2,COM,310108188-2,Adham,Raynard,Tatiana,Pune,Suruchi,PM,E,Ours,Invalid,Deviated,IMPACT1,923 Hazelcrest Avenue
+4,CA,965865896-2,Demetrius,Malcolm,Eugenia,New York,Nagaraju,PM,C,Ours,Invalid,Deviated,IMPACT1,77 Iowa Street
+1,COM,848209145-X,Kamilah,Shantee,Sonja,Pune,Saugata,IM,V,Ours,Invalid,Deviated,IMPACT1,14918 Shopko Pass
+5,COM,004322120-3,Anna-diane,Antone,Philbert,Pune,Nagaraju,IM,E,Ours,Invalid,Deviated,IMPACT3,75 Dunning Road
+5,COM,220727144-7,Velma,Devinne,Theodosia,Pune,Nagaraju,WMS,C,Ours,Invalid,Deviated,IMPACT1,507 Cambridge Street
+3,COM,279687948-8,Fayette,Zaneta,Philbert,Pune,Sandeep,NC,V,Ours,Invalid,Adhered,,
+3,COM,951920739-2,Wilhelm,Brigitta,Ardelia,Sydney,Sandeep,PM,C,Ours,Invalid,Adhered,,
+4,COM,357829821-2,Matthaeus,Garrik,Ardelia,Pune,Priyanka,WMS,V,Ours,Valid,Adhered,,
+4,CA,776738362-8,Dolly,Brigitta,Ardelia,Sydney,Priyanka,RR,C,Ours,Valid,Adhered,,
+2,COM,589663479-X,Richie,Nicolea,Lorenza,New York,Apoorv,NC,E,Ours,Valid,Adhered,,
+1,COM,243255464-7,Lanny,Danny,Sonja,Pune,Himabindu,PM,E,Ours,Valid,Adhered,,
+3,CA,988891921-0,Adamo,Janith,Alec,Pune,Saugata,NC,C,Ours,Invalid,Adhered,,
+2,COM,533715159-2,Thaddeus,Ryon,Tawnya,Sydney,Priyanka,MDR,E,Ours,Invalid,Deviated,IMPACT1,37188 Karstens Pass
+3,COM,554510208-6,Raffaello,Ives,Philbert,Pune,Ruturaj,PM,V,Ours,Invalid,Adhered,,
+2,COM,455437855-1,Chloe,Garrik,Ardelia,Pune,Sandeep,NC,C,Ours,Invalid,Deviated,IMPACT3,1105 Bowman Trail
+2,COM,305903365-X,Ellynn,Ole,Lorenza,New York,Suruchi,RR,V,Others,Valid,Adhered,,
+1,CA,126101435-9,Paddy,Maddie,Ardelia,Pune,Shiva,RR,V,Ours,Valid,Adhered,,
+3,COM,130649716-7,Alfonse,Henrieta,Berthe,Pune,Divya,IM,E,Ours,Invalid,Adhered,,
+4,COM,612216782-7,Sammie,Chas,Filippo,New York,Priyanka,IM,C,Ours,Valid,Adhered,,
+1,CA,356464011-8,Gretna,Mathias,Berthe,Pune,Saugata,NC,E,Ours,Invalid,Deviated,IMPACT1,923 Hazelcrest Avenue
+5,COM,876433994-7,Tripp,Clemente,Axe,London,Apoorv,PM,V,Ours,Invalid,Deviated,IMPACT3,7448 Darwin Center
+2,CA,722964739-8,Jerrie,Caryl,Filippo,New York,Ruturaj,NC,V,Ours,Invalid,Deviated,IMPACT3,779 Cambridge Center
+4,CA,092564960-0,Rod,Nicolea,Lorenza,New York,Saugata,IM,C,Ours,Valid,Adhered,,
+2,COM,114176996-4,Catlee,Malcolm,Eugenia,New York,Ruturaj,IM,C,Ours,Valid,Adhered,,
+3,COM,982814243-0,Noami,Harrison,Liz,London,Divya,PM,C,Ours,Invalid,Adhered,,
+2,COM,816448963-8,Salomone,Ara,Carlina,New York,Divya,MDR,C,Ours,Valid,Adhered,,
+1,COM,052183157-1,Corney,Agathe,Sonja,Pune,Saugata,IM,V,Ours,Invalid,Deviated,IMPACT1,1972 Scott Pass
+2,COM,960024523-1,Lamont,Ame,Rozalie,Pune,Divya,NC,E,Ours,Valid,Adhered,,
+3,CA,775462851-1,Brina,Raynard,Tatiana,Pune,Saugata,WMS,V,Ours,Invalid,Adhered,,
+2,COM,537054734-3,Mel,Zaneta,Philbert,Pune,Priyanka,RR,E,Ours,Invalid,Deviated,IMPACT1,00 Mayfield Lane
+1,COM,904013269-0,Lyndsie,Malcolm,Eugenia,New York,Sandeep,NC,V,Ours,Valid,Adhered,,
+2,COM,631642373-X,Georgeanna,Fancy,Lutero,Pune,Himabindu,DNR,V,Ours,Invalid,Deviated,IMPACT1,3 American Trail
+3,COM,099351735-8,Rock,Hestia,Axe,Pune,Apoorv,DNR,V,Ours,Invalid,Adhered,,
+2,COM,354595909-0,Egor,Rosetta,Rozalie,Pune,Apoorv,IM,V,Ours,Valid,Adhered,,
+2,COM,395433524-7,Nadean,Clementina,Filippo,Pune,Priyanka,RR,V,Others,Invalid,Deviated,IMPACT3,3625 Bashford Alley
+4,COM,593099468-4,Jarrett,Harrison,Liz,London,Himabindu,WMS,E,Others,Valid,Adhered,,
+3,COM,906626514-0,Erminia,Devinne,Theodosia,Pune,Nagaraju,NC,C,Ours,Invalid,Adhered,,
+1,COM,961268580-0,Tanhya,Tony,Stormie,Pune,Himabindu,MDR,C,Ours,Invalid,Deviated,IMPACT3,25 Waywood Drive
+4,COM,143762352-2,Lenci,Garrik,Ardelia,Pune,Priyanka,MDR,V,Ours,Invalid,Deviated,IMPACT3,1972 Scott Pass
+4,COM,872481438-5,Ula,Corrie,Martguerita,New York,Sandeep,DNR,V,Ours,Valid,Adhered,,
+3,COM,215702641-X,Frederich,Brittne,Nevile,Pune,Shiva,PM,E,Others,Invalid,Adhered,,
+5,COM,455241961-7,Zelig,Harv,Stormie,Sydney,Apoorv,WMS,V,Others,Valid,Adhered,,
+2,COM,980440256-4,Anette,Clementina,Filippo,Pune,Nagaraju,RR,V,Ours,Invalid,Deviated,IMPACT3,3 American Trail
+3,COM,655190211-1,Wright,Lexi,Stormie,Pune,Divya,DNR,C,Ours,Invalid,Adhered,,
+1,COM,413190171-4,Jolene,Hestia,Axe,Pune,Apoorv,RR,V,Ours,Invalid,Deviated,IMPACT3,888 Bartillon Pass
+2,COM,453376662-5,Rozele,Dew,Darnell,New York,Nagaraju,RR,E,Ours,Valid,Adhered,,
+2,COM,328915565-X,Hedwiga,Jeramey,Filippo,New York,Shiva,NC,V,Ours,Invalid,Deviated,IMPACT3,1105 Bowman Trail
+2,COM,205969973-8,Ben,Meghan,Rip,Pune,Shiva,WMS,V,Others,Invalid,Deviated,IMPACT1,690 Hazelcrest Point
+3,COM,926857076-9,Judith,Meghan,Rip,Pune,Ruturaj,NC,E,Ours,Invalid,Adhered,,
+3,COM,108792216-X,Fields,Malcolm,Eugenia,New York,Shiva,IM,V,Ours,Invalid,Adhered,,
+1,COM,862982612-6,Therese,Hestia,Axe,Pune,Saugata,MDR,C,Ours,Invalid,Deviated,IMPACT3,2676 Sullivan Parkway
+2,COM,752976627-9,Roz,Antone,Philbert,Pune,Priyanka,IM,E,Ours,Valid,Adhered,,
+4,COM,309064954-3,Sigismundo,Brigitta,Ardelia,Sydney,Ruturaj,IM,C,Ours,Valid,Adhered,,
+1,COM,915030607-3,Olenolin,Edwin,Philbert,New York,Nagaraju,RR,C,Ours,Invalid,Deviated,IMPACT3,78 Mcbride Lane
+2,COM,766967517-9,Dorree,Hestia,Axe,Pune,Divya,DNR,C,Others,Invalid,Deviated,IMPACT3,75 Toban Street
+4,COM,891272639-0,Shelby,Durant,Malinda,London,Divya,WMS,C,Others,Valid,Adhered,,
+4,COM,205841565-5,Deanna,Dicky,Eugenia,New York,Ruturaj,PM,V,Ours,Invalid,Deviated,IMPACT3,704 Hooker Plaza
+4,COM,717787859-9,Morna,Caryl,Filippo,New York,Nagaraju,MDR,E,Others,Invalid,Deviated,IMPACT3,923 Hazelcrest Avenue
+3,COM,226557807-X,Iago,Tuckie,Phil,Pune,Divya,MDR,E,Ours,Invalid,Adhered,,
+4,COM,908953088-6,Wheeler,Brigitta,Ardelia,Sydney,Shiva,DNR,C,Ours,Valid,Adhered,,
+3,COM,000511214-1,Betteann,Ives,Philbert,Pune,Nagaraju,WMS,V,Others,Invalid,Adhered,,
+2,COM,375031582-5,Zedekiah,Maddie,Ardelia,Pune,Priyanka,RR,C,Ours,Invalid,Deviated,IMPACT1,1972 Scott Pass
+1,COM,652700431-1,Lorry,Nicolea,Lorenza,New York,Himabindu,MDR,C,Ours,Invalid,Deviated,IMPACT3,49 Jenifer Junction
+3,COM,251287942-9,Shaine,Danny,Sonja,Pune,Saugata,WMS,C,Ours,Invalid,Adhered,,
+3,COM,495180334-8,Kain,Zaneta,Philbert,Pune,Ruturaj,RR,C,Ours,Invalid,Adhered,,
+1,COM,158903691-3,Nyssa,Carmita,Philbert,Sydney,Nagaraju,MDR,C,Ours,Valid,Adhered,,
+2,COM,667070907-2,Irma,Alvin,Rip,New York,Priyanka,NC,V,Ours,Valid,Adhered,,
+5,CA,674200908-X,Malina,Candra,Eugenia,London,Shiva,RR,V,Ours,Valid,Adhered,,
+5,COM,453046352-4,Jemimah,Ara,Carlina,New York,Saugata,DNR,C,Ours,Invalid,Deviated,IMPACT1,1972 Scott Pass
+4,COM,999735221-1,Smitty,Garrik,Ardelia,Pune,Shiva,NC,C,Ours,Invalid,Deviated,IMPACT1,3 American Trail
+5,COM,430713452-4,Torry,Brittne,Nevile,Pune,Ruturaj,PM,V,Ours,Valid,Adhered,,
+1,COM,102345770-9,Valentine,Brigitta,Ardelia,Sydney,Priyanka,PM,C,Ours,Invalid,Deviated,IMPACT3,1 Hintze Hill
+3,COM,284312327-5,James,Valma,Betsey,Sydney,Saugata,RR,E,Ours,Invalid,Adhered,,
+4,COM,804424954-0,Lonnie,Brodie,Janna,Pune,Ruturaj,WMS,E,Ours,Valid,Adhered,,
+1,COM,637192186-X,Caresa,Osbourne,Alastair,Sydney,Ruturaj,NC,E,Ours,Valid,Adhered,,
+2,COM,463220754-3,Biron,Clemente,Axe,London,Himabindu,IM,C,Ours,Valid,Adhered,,
+3,COM,552970838-2,Salomi,Antonin,Martguerita,Pune,Shiva,WMS,C,Ours,Invalid,Adhered,,
+4,COM,551882895-0,Kienan,Henrieta,Berthe,Pune,Himabindu,PM,C,Ours,Invalid,Deviated,IMPACT1,1972 Scott Pass
+2,COM,859276881-0,Leslie,Corrie,Martguerita,New York,Sandeep,DNR,C,Ours,Invalid,Deviated,IMPACT3,00 Mayfield Lane
+2,CA,505564954-2,Wallie,Ole,Lorenza,New York,Divya,IM,V,Ours,Valid,Adhered,,
+2,COM,905359592-9,Corby,Harv,Stormie,Sydney,Divya,WMS,E,Ours,Valid,Adhered,,
+3,COM,265513730-2,Frederich,Sanson,Suzanna,Pune,Sandeep,NC,V,Ours,Invalid,Adhered,,
+2,COM,549193588-3,Niki,Garrik,Ardelia,Pune,Ruturaj,MDR,V,Ours,Invalid,Deviated,IMPACT3,327 Bartillon Way
+2,COM,522260916-2,Lilli,Tuckie,Phil,Pune,Divya,MDR,V,Ours,Valid,Adhered,,
+3,COM,594365793-2,Ben,Teriann,Rip,Pune,Sandeep,RR,V,Ours,Invalid,Adhered,,
+4,CA,078891746-3,Cullan,Ara,Carlina,New York,Himabindu,WMS,V,Others,Valid,Adhered,,
+1,COM,035454357-1,Yanaton,Clemente,Axe,London,Apoorv,IM,C,Ours,Invalid,Deviated,IMPACT3,00 Mayfield Lane
+5,COM,728200531-1,Barry,Henrieta,Berthe,Pune,Himabindu,IM,V,Others,Valid,Adhered,,
+4,COM,567297104-0,Darci,Sanson,Suzanna,Pune,Shiva,IM,V,Ours,Invalid,Deviated,IMPACT1,67 Atwood Pass
+1,COM,624833162-6,Kinsley,Osbourne,Alastair,Sydney,Shiva,RR,V,Ours,Valid,Adhered,,
+5,COM,590841103-5,Reynard,Harv,Stormie,Sydney,Himabindu,RR,C,Others,Valid,Adhered,,
+1,CA,311306980-7,Ninnetta,Shayne,Alec,London,Apoorv,IM,C,Ours,Invalid,Deviated,IMPACT3,1236 Fairview Drive
+2,CA,650751122-6,Candy,Shayne,Alec,London,Himabindu,MDR,V,Ours,Invalid,Deviated,IMPACT1,17 Weeping Birch Center
+4,COM,194852748-0,Laney,Rosetta,Rozalie,Pune,Divya,RR,E,Ours,Invalid,Deviated,IMPACT3,3 American Trail
+2,COM,415148845-6,Glenna,Durant,Malinda,London,Suruchi,PM,C,Ours,Valid,Adhered,,
+4,COM,337205635-3,Gabriell,Teriann,Rip,Pune,Ruturaj,RR,V,Ours,Invalid,Deviated,IMPACT3,7 Merrick Terrace
+4,COM,394705905-1,Karim,Maddie,Ardelia,Pune,Sandeep,DNR,C,Ours,Invalid,Deviated,IMPACT1,00 Mayfield Lane
+2,COM,168260477-2,Carr,Ame,Rozalie,Pune,Apoorv,WMS,E,Ours,Invalid,Deviated,IMPACT1,00 Mayfield Lane
+1,COM,668651282-6,James,Valma,Betsey,Sydney,Apoorv,RR,E,Ours,Valid,Adhered,,
+3,COM,126836881-4,Heath,Harv,Stormie,Sydney,Suruchi,NC,C,Ours,Invalid,Adhered,,
+3,COM,300921140-6,Ruthie,Kirby,Alec,Sydney,Apoorv,RR,E,Ours,Invalid,Adhered,,
+2,COM,681813198-0,Sully,Sanson,Suzanna,Pune,Ruturaj,NC,C,Ours,Invalid,Deviated,IMPACT3,22754 Kings Alley
+1,COM,825155653-8,Denna,Brigitta,Ardelia,Sydney,Ruturaj,MDR,V,Ours,Valid,Adhered,,
+2,COM,528702563-7,Tobin,Harmonia,Alejandrina,Pune,Priyanka,NC,C,Ours,Invalid,Deviated,IMPACT3,00 Mayfield Lane
+4,COM,106315571-1,Marylou,Fancy,Lutero,Pune,Suruchi,RR,C,Ours,Valid,Adhered,,
+1,COM,094200469-8,Carlene,Dew,Darnell,New York,Nagaraju,MDR,C,Ours,Valid,Adhered,,
+1,COM,363509498-6,Almeda,Ryon,Tawnya,Sydney,Priyanka,WMS,E,Ours,Invalid,Deviated,IMPACT1,923 Hazelcrest Avenue
+1,COM,171480086-5,Amabel,Mathias,Berthe,Pune,Apoorv,NC,V,Ours,Valid,Adhered,,
+1,COM,547022990-4,Mareah,Rosetta,Rozalie,Pune,Divya,DNR,E,Ours,Valid,Adhered,,
+5,COM,755250733-0,Theodor,Brittne,Nevile,Pune,Nagaraju,IM,E,Ours,Valid,Adhered,,
+3,COM,169038331-3,Erastus,Tony,Stormie,Pune,Apoorv,IM,E,Ours,Invalid,Adhered,,
+4,COM,651199429-5,Nowell,Antone,Philbert,Pune,Nagaraju,RR,V,Ours,Valid,Adhered,,
+4,COM,624141977-3,Carmelle,Codee,Martguerita,New York,Nagaraju,RR,C,Ours,Valid,Adhered,,
+5,COM,300551944-9,Shandee,Devinne,Theodosia,Pune,Sandeep,PM,E,Ours,Valid,Adhered,,
+4,COM,102324140-4,Aime,Jemmy,Tatiana,Sydney,Saugata,DNR,C,Ours,Valid,Adhered,,
+2,COM,905335611-8,Benita,Rosetta,Rozalie,Pune,Apoorv,RR,E,Ours,Valid,Adhered,,
+2,COM,195077799-5,Munroe,Ame,Rozalie,Pune,Apoorv,DNR,C,Ours,Valid,Adhered,,
+4,COM,119301995-8,Justus,Nicolea,Lorenza,New York,Himabindu,WMS,E,Ours,Valid,Adhered,,
+1,COM,681816911-2,Laney,Corrie,Martguerita,New York,Priyanka,MDR,C,Others,Valid,Adhered,,
+2,COM,591171431-0,Christoffer,Tony,Stormie,Pune,Divya,MDR,E,Ours,Valid,Adhered,,
+1,COM,263055555-0,Teddie,Lexi,Stormie,Pune,Himabindu,PM,C,Ours,Invalid,Deviated,IMPACT1,923 Hazelcrest Avenue
+3,COM,573909444-5,Angelina,Dew,Darnell,New York,Sandeep,MDR,C,Ours,Invalid,Adhered,,
+1,COM,240585689-1,Alina,Sanson,Suzanna,Pune,Ruturaj,IM,V,Ours,Invalid,Deviated,IMPACT1,75 Montana Hill
+1,COM,968045054-6,Saxon,Raynard,Tatiana,Pune,Divya,RR,C,Ours,Valid,Adhered,,
+2,CA,001390047-1,Cindelyn,Sanson,Suzanna,Pune,Priyanka,IM,V,Ours,Invalid,Deviated,IMPACT1,8 Brown Pass
+2,COM,451766813-4,Gwen,Devinne,Theodosia,Pune,Shiva,PM,E,Ours,Valid,Adhered,,
+1,COM,641213927-3,Garrot,Meghan,Rip,Pune,Ruturaj,IM,E,Ours,Invalid,Deviated,IMPACT3,690 Hazelcrest Point
+2,COM,494365493-2,Pearline,Brietta,Sonja,London,Divya,RR,E,Ours,Valid,Adhered,,
+4,COM,396562580-2,Ofelia,Ole,Lorenza,New York,Apoorv,PM,E,Ours,Valid,Adhered,,
+3,COM,680850323-0,Pembroke,Dew,Darnell,New York,Shiva,PM,V,Ours,Invalid,Adhered,,
+3,COM,281874004-5,Israel,Augusta,Betsey,Sydney,Saugata,WMS,E,Ours,Invalid,Adhered,,
+2,COM,298046751-0,Page,Valma,Betsey,Sydney,Himabindu,MDR,C,Ours,Invalid,Deviated,IMPACT1,5 Buell Drive
+2,COM,296374281-9,Benjy,Chas,Filippo,New York,Priyanka,WMS,C,Ours,Invalid,Deviated,IMPACT3,4 Farwell Hill
+4,COM,389115919-6,Krystyna,Candra,Eugenia,London,Sandeep,WMS,C,Others,Valid,Adhered,,
+3,COM,770004986-6,Brod,Harmonia,Alejandrina,Pune,Ruturaj,IM,V,Ours,Invalid,Adhered,,
+3,COM,710909128-7,Serena,Ame,Rozalie,Pune,Divya,MDR,C,Ours,Invalid,Adhered,,
+1,CA,439056747-0,Cristina,Tony,Stormie,Pune,Suruchi,NC,V,Ours,Invalid,Deviated,IMPACT3,518 North Park
+4,CA,823465919-7,Marti,Tony,Stormie,Pune,Divya,MDR,C,Ours,Valid,Adhered,,
+4,COM,276136557-7,Jeff,Shayne,Alec,London,Apoorv,RR,E,Ours,Valid,Adhered,,
+3,COM,494248311-5,Rosalind,Jeramey,Filippo,New York,Shiva,IM,V,Ours,Invalid,Adhered,,
+2,CA,046122693-6,Natty,Ryon,Tawnya,Sydney,Shiva,IM,V,Ours,Valid,Adhered,,
+2,COM,015983331-0,Sybil,Harv,Stormie,Sydney,Suruchi,IM,E,Ours,Invalid,Deviated,IMPACT3,5 Annamark Avenue
+1,COM,592283799-0,Ruben,Dicky,Eugenia,New York,Nagaraju,NC,C,Ours,Valid,Adhered,,
+5,COM,405757709-2,Rosalinda,Brittne,Nevile,Pune,Nagaraju,IM,V,Ours,Valid,Adhered,,
+4,COM,854929522-1,Kalila,Clementina,Filippo,Pune,Ruturaj,PM,C,Ours,Valid,Adhered,,
+2,COM,684419083-2,Juditha,Winnie,Sandye,Pune,Apoorv,RR,V,Ours,Invalid,Deviated,IMPACT1,1972 Scott Pass
+1,COM,807547613-1,Rahal,Codee,Martguerita,New York,Priyanka,MDR,C,Ours,Valid,Adhered,,
+4,COM,562498878-8,Eadmund,Nicolea,Lorenza,New York,Divya,DNR,V,Ours,Valid,Adhered,,
+2,COM,137034063-X,Steven,Malcolm,Eugenia,New York,Ruturaj,PM,C,Others,Invalid,Deviated,IMPACT3,3 American Trail
+3,COM,295187186-4,Coretta,Harrison,Liz,London,Divya,PM,C,Ours,Invalid,Adhered,,
+2,COM,244278314-2,Cello,Ryon,Tawnya,Sydney,Ruturaj,PM,C,Ours,Valid,Adhered,,
+4,COM,605182730-7,Sari,Antonin,Martguerita,Pune,Sandeep,IM,C,Ours,Invalid,Deviated,IMPACT1,3 American Trail
+1,COM,124089644-1,Malcolm,Candra,Eugenia,London,Shiva,IM,V,Ours,Invalid,Deviated,IMPACT3,65050 2nd Way
+3,COM,128620649-9,Shandeigh,Kirby,Alec,Sydney,Divya,MDR,E,Ours,Invalid,Adhered,,
+2,COM,865523449-4,Daile,Tony,Stormie,Pune,Apoorv,MDR,C,Others,Valid,Adhered,,
+2,COM,435785329-X,Egbert,Chas,Filippo,New York,Ruturaj,PM,E,Ours,Valid,Adhered,,
+2,COM,130161096-8,Lonna,Maddie,Ardelia,Pune,Nagaraju,WMS,C,Ours,Invalid,Deviated,IMPACT1,1 Hintze Hill
+3,COM,253692625-7,Rafaelita,Antone,Philbert,Pune,Sandeep,WMS,E,Ours,Invalid,Adhered,,
+3,COM,721365346-6,Huntlee,Valma,Betsey,Sydney,Apoorv,RR,V,Ours,Invalid,Adhered,,
+3,COM,115826221-3,Winnifred,Kirby,Alec,Sydney,Apoorv,MDR,V,Ours,Invalid,Adhered,,
+2,COM,773861379-3,Fianna,Kamila,Stormie,Pune,Saugata,MDR,E,Ours,Valid,Adhered,,
+3,COM,188096084-2,Bobbye,Harmonia,Alejandrina,Pune,Priyanka,WMS,E,Ours,Invalid,Adhered,,
+3,COM,868690756-3,Frazer,Harrison,Liz,London,Suruchi,WMS,C,Ours,Invalid,Adhered,,
+4,COM,475498525-7,Daisy,Jeramey,Filippo,New York,Ruturaj,MDR,E,Ours,Valid,Adhered,,
+2,COM,086187694-6,Gilburt,Danny,Sonja,Pune,Suruchi,NC,V,Ours,Valid,Adhered,,
+1,COM,207552153-0,Evin,Sterne,Theodosia,New York,Priyanka,PM,C,Ours,Invalid,Deviated,IMPACT3,690 Hazelcrest Point
+4,COM,778117916-1,Barbi,Marja,Theodosia,Pune,Ruturaj,RR,C,Ours,Valid,Adhered,,
+1,COM,275028308-6,Torre,Winnie,Sandye,Pune,Apoorv,MDR,E,Ours,Invalid,Deviated,IMPACT1,00 Mayfield Lane
+1,COM,126052678-X,Sascha,Carmita,Philbert,Sydney,Ruturaj,WMS,C,Ours,Invalid,Deviated,IMPACT3,52647 Charing Cross Plaza
+2,COM,719100337-5,Georgia,Brietta,Sonja,London,Himabindu,WMS,E,Ours,Valid,Adhered,,
+1,COM,779087290-7,Lyda,Brodie,Janna,Pune,Priyanka,PM,E,Ours,Valid,Adhered,,
+4,COM,025459355-0,Lorinda,Clementina,Filippo,Pune,Nagaraju,WMS,C,Ours,Valid,Adhered,,
+4,COM,439509080-X,Allyce,Dew,Darnell,New York,Ruturaj,IM,C,Ours,Invalid,Deviated,IMPACT3,00 Mayfield Lane
+1,COM,094946875-4,Ernestus,Clementina,Filippo,Pune,Sandeep,RR,E,Ours,Valid,Adhered,,
+1,COM,936924250-3,Odie,Kirby,Alec,Sydney,Divya,PM,C,Ours,Valid,Adhered,,
+4,COM,603142942-X,Sandy,Hestia,Axe,Pune,Apoorv,PM,C,Others,Valid,Adhered,,
+2,COM,537400038-1,Fredrika,Codee,Martguerita,New York,Nagaraju,IM,E,Ours,Valid,Adhered,,
+4,COM,215884818-9,Margeaux,Nicolea,Lorenza,New York,Apoorv,IM,C,Ours,Invalid,Deviated,IMPACT1,5525 Warner Court
+2,COM,106541922-8,Selestina,Codee,Martguerita,New York,Sandeep,IM,E,Ours,Valid,Adhered,,
+5,COM,198158304-1,Jard,Beryle,Lorenza,New York,Suruchi,PM,E,Ours,Valid,Adhered,,
+1,COM,241899807-X,Kathie,Chas,Filippo,New York,Sandeep,MDR,C,Ours,Invalid,Deviated,IMPACT3,60 Beilfuss Way
+1,COM,919692660-0,Kylie,Winnie,Sandye,Pune,Himabindu,RR,E,Ours,Invalid,Deviated,IMPACT3,71208 Westend Alley
+1,CA,330472927-5,Honoria,Jeramey,Filippo,New York,Sandeep,NC,V,Ours,Valid,Adhered,,
+4,COM,407217106-9,Port,Kamila,Stormie,Pune,Saugata,RR,C,Ours,Valid,Adhered,,
+3,COM,052441397-5,Sonnnie,Brittne,Nevile,Pune,Priyanka,NC,C,Ours,Invalid,Adhered,,
+1,COM,400727510-6,Harald,Valma,Betsey,Sydney,Himabindu,NC,V,Ours,Invalid,Deviated,IMPACT3,8 Thackeray Court
+1,COM,111925184-2,Seth,Winnie,Sandye,Pune,Saugata,WMS,V,Ours,Invalid,Deviated,IMPACT3,3 American Trail
+3,COM,600586538-2,Gregg,Raynard,Tatiana,Pune,Himabindu,PM,C,Ours,Invalid,Adhered,,
+2,COM,374080303-7,Gayleen,Nicolea,Lorenza,New York,Himabindu,WMS,V,Ours,Invalid,Deviated,IMPACT3,00 Mayfield Lane
+3,COM,140192842-0,Grayce,Jeramey,Filippo,New York,Ruturaj,NC,C,Ours,Invalid,Adhered,,
+5,COM,985261740-0,Estella,Corrie,Martguerita,New York,Nagaraju,RR,C,Ours,Invalid,Deviated,IMPACT1,244 Lakeland Street
+1,COM,041709461-2,Meredeth,Durant,Malinda,London,Suruchi,IM,C,Ours,Valid,Adhered,,
+4,COM,206356998-3,Stavro,Clementina,Filippo,Pune,Sandeep,DNR,E,Ours,Invalid,Deviated,IMPACT3,76 Esch Crossing
+4,COM,500669207-3,Margot,Hestia,Axe,Pune,Suruchi,MDR,E,Ours,Invalid,Deviated,IMPACT1,923 Hazelcrest Avenue
+4,COM,834957871-8,Honey,Valma,Betsey,Sydney,Divya,MDR,C,Ours,Invalid,Deviated,IMPACT1,21240 Vidon Hill
+4,COM,247067200-7,Kelcie,Clementina,Filippo,Pune,Nagaraju,RR,E,Ours,Invalid,Deviated,IMPACT3,20 Commercial Place
+2,COM,959678215-0,Eustace,Antonin,Martguerita,Pune,Priyanka,IM,V,Ours,Invalid,Deviated,IMPACT3,67 Roth Avenue
+4,COM,489557922-0,Dmitri,Shantee,Sonja,Pune,Divya,RR,E,Ours,Invalid,Deviated,IMPACT1,1105 Bowman Trail
+3,COM,338334134-8,Elga,Dew,Darnell,New York,Nagaraju,MDR,V,Others,Invalid,Adhered,,
+1,COM,678143977-4,Kleon,Edwin,Philbert,New York,Sandeep,PM,E,Others,Invalid,Deviated,IMPACT1,00 Mayfield Lane
+3,COM,793576273-2,Inesita,Osbourne,Alastair,Sydney,Nagaraju,NC,E,Ours,Invalid,Adhered,,
+3,COM,695125419-2,Alia,Gardiner,Stormie,Pune,Divya,PM,E,Ours,Invalid,Adhered,,
+4,CA,830926674-X,Nana,Lexi,Stormie,Pune,Apoorv,IM,V,Ours,Valid,Adhered,,
+4,COM,820815156-4,Catina,Nicolea,Lorenza,New York,Suruchi,PM,V,Ours,Invalid,Deviated,IMPACT1,8 Muir Crossing
+1,COM,009220759-6,Alexina,Corrie,Martguerita,New York,Nagaraju,WMS,C,Others,Valid,Adhered,,
+3,COM,123902768-0,Mariel,Dicky,Eugenia,New York,Nagaraju,MDR,C,Ours,Invalid,Adhered,,
+2,COM,581315145-1,Pamella,Devinne,Theodosia,Pune,Priyanka,WMS,C,Ours,Invalid,Deviated,IMPACT1,1972 Scott Pass
+2,COM,363730181-4,Ailina,Shayne,Alec,London,Saugata,RR,C,Ours,Invalid,Deviated,IMPACT3,579 Farmco Hill
+1,COM,021669969-X,Mariele,Brigitta,Ardelia,Sydney,Sandeep,PM,E,Ours,Valid,Adhered,,
+2,COM,048614835-1,Herculie,Agathe,Sonja,Pune,Saugata,PM,E,Ours,Invalid,Deviated,IMPACT1,1972 Scott Pass
+5,COM,493884431-1,Shurlock,Dicky,Eugenia,New York,Nagaraju,IM,C,Ours,Valid,Adhered,,
+2,COM,368090023-6,Konrad,Brigitta,Ardelia,Sydney,Nagaraju,DNR,C,Ours,Valid,Adhered,,
+3,CA,364507139-3,Amargo,Alvin,Rip,New York,Ruturaj,RR,V,Ours,Invalid,Adhered,,
+5,COM,379001691-8,Katha,Harmonia,Alejandrina,Pune,Nagaraju,RR,C,Ours,Valid,Adhered,,
+5,CA,015878525-8,Son,Jemmy,Tatiana,Sydney,Apoorv,WMS,E,Ours,Valid,Adhered,,
+4,COM,956151895-3,Bettine,Ryon,Tawnya,Sydney,Nagaraju,PM,E,Ours,Invalid,Deviated,IMPACT3,2267 Trailsway Crossing
+1,CA,507563341-2,Bondon,Rosetta,Rozalie,Pune,Himabindu,NC,C,Others,Valid,Adhered,,
+1,COM,447057978-5,Rhys,Sanson,Suzanna,Pune,Nagaraju,IM,C,Ours,Valid,Adhered,,
+2,COM,444491278-2,Ellen,Mathias,Berthe,Pune,Divya,RR,V,Ours,Invalid,Deviated,IMPACT1,36176 Oakridge Junction
+2,COM,934354663-7,Rycca,Candra,Eugenia,London,Nagaraju,RR,E,Ours,Invalid,Deviated,IMPACT3,1972 Scott Pass
+2,COM,585057999-0,Shurlocke,Mathias,Berthe,Pune,Divya,PM,E,Ours,Invalid,Deviated,IMPACT3,4736 1st Parkway
+3,COM,731868526-0,Tootsie,Ryon,Tawnya,Sydney,Sandeep,RR,V,Ours,Invalid,Adhered,,
+1,COM,101152664-6,Merle,Shantee,Sonja,Pune,Apoorv,MDR,E,Ours,Valid,Adhered,,
+1,COM,184495945-7,Kirsti,Janith,Alec,Pune,Saugata,MDR,C,Ours,Valid,Adhered,,
+3,COM,350202486-3,Marys,Devinne,Theodosia,Pune,Nagaraju,NC,E,Ours,Invalid,Adhered,,
+2,COM,907720796-1,Elisabetta,Mathias,Berthe,Pune,Himabindu,RR,C,Ours,Valid,Adhered,,
+4,COM,901223545-6,Kienan,Ole,Lorenza,New York,Himabindu,PM,C,Ours,Invalid,Deviated,IMPACT1,65 Huxley Circle
+1,COM,863282131-8,Tobey,Lexi,Stormie,Pune,Himabindu,MDR,E,Ours,Invalid,Deviated,IMPACT1,1972 Scott Pass
+3,COM,886552884-2,Aura,Alvin,Rip,New York,Priyanka,IM,V,Ours,Invalid,Adhered,,
+1,COM,902417143-1,Tyrus,Ara,Carlina,New York,Himabindu,PM,E,Others,Invalid,Deviated,IMPACT3,34 Arapahoe Junction
+5,COM,413996599-1,Terence,Tuckie,Phil,Pune,Apoorv,PM,E,Ours,Invalid,Deviated,IMPACT3,1972 Scott Pass
+3,COM,486294650-X,Sydel,Ame,Rozalie,Pune,Divya,RR,C,Others,Invalid,Adhered,,
+5,CA,837236530-X,Hayden,Harv,Stormie,Sydney,Divya,RR,E,Ours,Valid,Adhered,,
+2,COM,437031762-2,Rafe,Antone,Philbert,Pune,Nagaraju,MDR,V,Ours,Invalid,Deviated,IMPACT3,1972 Scott Pass
+1,COM,061212932-2,Francis,Ole,Lorenza,New York,Himabindu,IM,V,Ours,Invalid,Deviated,IMPACT3,4328 Duke Avenue
+2,COM,712535722-9,Joanie,Raynard,Tatiana,Pune,Himabindu,DNR,C,Ours,Invalid,Deviated,IMPACT3,3 American Trail
+1,COM,949797027-7,Phillipe,Henrieta,Berthe,Pune,Himabindu,RR,E,Ours,Invalid,Deviated,IMPACT3,00 Mayfield Lane
+2,COM,290258140-8,Linn,Harrison,Liz,London,Divya,NC,E,Ours,Invalid,Deviated,IMPACT1,8 Forest Dale Terrace
+4,COM,512192810-6,Crosby,Clemente,Axe,London,Saugata,RR,E,Ours,Invalid,Deviated,IMPACT3,29 West Trail
+2,COM,214992888-4,Taddeusz,Clementina,Filippo,Pune,Ruturaj,PM,E,Ours,Valid,Adhered,,
+3,CA,005907274-1,Roland,Alvin,Rip,New York,Nagaraju,DNR,V,Ours,Invalid,Adhered,,
+4,COM,650665786-3,Pammi,Brietta,Sonja,London,Saugata,MDR,E,Ours,Valid,Adhered,,
+5,COM,916247134-1,Thorndike,Danny,Sonja,Pune,Divya,PM,C,Ours,Invalid,Deviated,IMPACT1,1 Hintze Hill
+1,COM,055131650-0,Henriette,Dew,Darnell,New York,Sandeep,MDR,C,Ours,Valid,Adhered,,
+1,COM,452282895-0,Alena,Damiano,Alejandrina,Sydney,Nagaraju,WMS,V,Ours,Valid,Adhered,,
